@@ -27,6 +27,10 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
 
+<a href="https://dev.to/pushpak1300/" target="_blank">
+  <img src="http://img.shields.io/badge/dev.to-%20-black?style=for-the-badge&logo=dev.to&?logoColor=white?logoWidth=100?label=" />
+</a> 
+
 
   </p>
 </p>
