@@ -1,7 +1,7 @@
 ## Pushpak Chhajed🍍
 
 
-- 🔭 I’m currently working with Vue and Laravel.
+- 🔭 I’m currently working with Vue,Python and Laravel.
 - 🌱 I’m currently learning flutter.
 - 🤔 I’m looking for help to design scalable systems
 - 💬 Ask me anything about Git, Github,Devops and AWS
