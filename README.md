@@ -15,7 +15,7 @@
  </br>
  Would like to get in touch? here is my public key 
  <br> <a href='https://keybase.io/pushpak1300'><img src="https://img.shields.io/keybase/pgp/pushpak1300?color=pinl&label=PGP&style=for-the-badge"/></a></br>
- <br>You can find me </br><a href='https://twitter.com/pushpak1300'><a href="https://pushpk1300.me/" target="_blank">
+ <br>You can find me on internet!</br><a href='https://twitter.com/pushpak1300'><a href="https://pushpk1300.me/" target="_blank">
   <img src="https://img.shields.io/badge/website-%23E34F26.svg?&style=for-the-badge" />
 </a> 
 
