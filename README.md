@@ -45,7 +45,7 @@
  <br> <a href='https://keybase.io/pushpak1300'><img src="https://img.shields.io/keybase/pgp/pushpak1300?color=pinl&label=PGP&style=for-the-badge"/></a></br>
  <br>
  
-#### You can find and get touch with me on these accounts!
+#### You can find me on these accounts!
 
 <p>
 <a href='https://twitter.com/pushpak1300'><a href="https://pushpk1300.me/" target="_blank">
