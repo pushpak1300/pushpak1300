@@ -44,11 +44,15 @@
  Would like to get in touch? here is my public key 
  <br> <a href='https://keybase.io/pushpak1300'><img src="https://img.shields.io/keybase/pgp/pushpak1300?color=pinl&label=PGP&style=for-the-badge"/></a></br>
  <br>
-You can find and get touch with me on these accounts!</br><a href='https://twitter.com/pushpak1300'><a href="https://pushpk1300.me/" target="_blank">
+ 
+#### You can find and get touch with me on these accounts!
+
+<p>
+<a href='https://twitter.com/pushpak1300'><a href="https://pushpk1300.me/" target="_blank">
   <img src="https://img.shields.io/badge/website-%23E34F26.svg?&style=for-the-badge" />
 </a> 
-
-<a href="https://twitter.com/pushpak1300" target="_blank">
+ 
+ <a href="https://twitter.com/pushpak1300" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a> 
 
@@ -59,7 +63,6 @@ You can find and get touch with me on these accounts!</br><a href='https://twitt
 <a href="https://dev.to/pushpak1300/" target="_blank">
   <img src="http://img.shields.io/badge/dev.to-gray?style=for-the-badge&logo=dev.to&?logoColor=white?logoWidth=100?label=" />
 </a> 
-
 
 <a href="https://stackoverflow.com/users/11074838/pushpak-chhajed" target="_blank">
   <img src="http://img.shields.io/badge/STACKOVERFLOW-black?style=for-the-badge&logo=stackoverflow" />
