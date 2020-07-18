@@ -5,6 +5,8 @@
 
 - 😄 Pronouns: He/him
 
+![](https://komarev.com/ghpvc/?username=pushpak1300)
+
 #### Programming Languages 🌐
 - Know/Using
 
