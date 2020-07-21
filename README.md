@@ -50,7 +50,7 @@
 #### You can find me on these accounts!
 
 <p>
-<a href='https://twitter.com/pushpak1300'><a href="https://pushpk1300.me/" target="_blank">
+<a href='https://twitter.com/pushpak1300'><a href="https://pushpak1300.me/" target="_blank">
   <img src="https://img.shields.io/badge/website-%23E34F26.svg?&style=for-the-badge" />
 </a> 
  
