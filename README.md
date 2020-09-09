@@ -37,7 +37,7 @@
 
 - Learning
 
-|  [<img src="https://www.gstatic.com/devrel-devsite/prod/v4d5d232859440be8edf63a1095b80ebe5c19605e99f3b348a30c4b0140c2eb88/cloud/images/favicons/onecloud/apple-icon.png" alt="ts logo" width="40">](https://flutter.dev/) |  [<img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" alt="rust logo" width="35">](https://laravel-livewire.com/)|
+|  [<img src="https://www.gstatic.com/devrel-devsite/prod/v4d5d232859440be8edf63a1095b80ebe5c19605e99f3b348a30c4b0140c2eb88/cloud/images/favicons/onecloud/apple-icon.png" alt="ts logo" width="40">](https://cloud.google.com/) |  [<img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" alt="rust logo" width="35">](https://kubernetes.io/)|
 |---|---|
 
 
