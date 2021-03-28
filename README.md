@@ -1,7 +1,7 @@
 
 ### Pushpak Chhajed🍍
 
-##### I am Pushpak Chhajed from Mumbai, India who is Open Source and DevOps enthusiastic,Always learning new things, ready for discussions and making new projects, write blogs on Dev.to etc.
+##### I am Pushpak Chhajed from Mumbai, India who is Open Source and DevOps enthusiastic,Always learning new things, ready for discussions and making new projects, write blogs
 
 - 😄 Pronouns: He/him
 
