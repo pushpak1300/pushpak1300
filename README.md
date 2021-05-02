@@ -10,13 +10,13 @@
 #### Programming Languages 🌐
 - Know/Using
 
-| [<img src="https://icongr.am/devicon/php-original.svg?size=60&color=currentColor" alt="php logo" width="40">](http://php.net/docs.php) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="28">](https://www.gnu.org/software/bash/)  |
-|---|---|---|---|
+| [<img src="https://icongr.am/devicon/php-original.svg?size=60&color=currentColor" alt="php logo" width="40">](http://php.net/docs.php) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="28">](https://www.gnu.org/software/bash/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) | 
+|---|---|---|---|---|
 
 - Learning
 
-|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)|
-|---|---|
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/) |
+|---|
 
 #### Framework 🌐
 - Know/Using
@@ -26,7 +26,7 @@
 
 - Learning
 
-|  [<img src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" alt="ts logo" width="60">](https://www.typescriptlang.org/) |  [<img src="https://laravel-livewire.com/img/twitter.png" alt="rust logo" width="35">](https://laravel-livewire.com/)|
+|  [<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="ts logo" width="30">](https://nodejs.org/en/) |  [<img src="https://laravel-livewire.com/img/twitter.png" alt="rust logo" width="35">](https://laravel-livewire.com/)|
 |---|---|
 
 #### Tools 🛠️
