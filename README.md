@@ -36,3 +36,9 @@
 </p>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#21](https://github.com/zerodha/phpkiteconnect/issues/21) in [zerodha/phpkiteconnect](https://github.com/zerodha/phpkiteconnect)
+2. 🗣 Commented on [#7166](https://github.com/laravel/docs/issues/7166) in [laravel/docs](https://github.com/laravel/docs)
+3. 🗣 Commented on [#37854](https://github.com/laravel/framework/issues/37854) in [laravel/framework](https://github.com/laravel/framework)
+4. 💪 Opened PR [#7166](https://github.com/laravel/docs/pull/7166) in [laravel/docs](https://github.com/laravel/docs)
+5. 🎉 Merged PR [#116](https://github.com/pushpak1300/pushpak1300.github.io/pull/116) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+<!--END_SECTION:activity-->
