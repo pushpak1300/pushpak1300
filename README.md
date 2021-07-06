@@ -40,9 +40,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37854](https://github.com/laravel/framework/issues/37854) in [laravel/framework](https://github.com/laravel/framework)
-2. 🗣 Commented on [#7170](https://github.com/laravel/docs/issues/7170) in [laravel/docs](https://github.com/laravel/docs)
-3. 🎉 Merged PR [#118](https://github.com/pushpak1300/pushpak1300.github.io/pull/118) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-4. 🗣 Commented on [#21](https://github.com/zerodha/phpkiteconnect/issues/21) in [zerodha/phpkiteconnect](https://github.com/zerodha/phpkiteconnect)
-5. 🗣 Commented on [#7166](https://github.com/laravel/docs/issues/7166) in [laravel/docs](https://github.com/laravel/docs)
+1. 🎉 Merged PR [#119](https://github.com/pushpak1300/pushpak1300.github.io/pull/119) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+2. 🗣 Commented on [#37854](https://github.com/laravel/framework/issues/37854) in [laravel/framework](https://github.com/laravel/framework)
+3. 🗣 Commented on [#7170](https://github.com/laravel/docs/issues/7170) in [laravel/docs](https://github.com/laravel/docs)
+4. 🎉 Merged PR [#118](https://github.com/pushpak1300/pushpak1300.github.io/pull/118) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+5. 🗣 Commented on [#21](https://github.com/zerodha/phpkiteconnect/issues/21) in [zerodha/phpkiteconnect](https://github.com/zerodha/phpkiteconnect)
 <!--END_SECTION:activity-->
