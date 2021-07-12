@@ -40,9 +40,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#120](https://github.com/pushpak1300/pushpak1300.github.io/pull/120) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-2. 🎉 Merged PR [#119](https://github.com/pushpak1300/pushpak1300.github.io/pull/119) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-3. 🗣 Commented on [#37854](https://github.com/laravel/framework/issues/37854) in [laravel/framework](https://github.com/laravel/framework)
-4. 🗣 Commented on [#7170](https://github.com/laravel/docs/issues/7170) in [laravel/docs](https://github.com/laravel/docs)
-5. 🎉 Merged PR [#118](https://github.com/pushpak1300/pushpak1300.github.io/pull/118) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+1. 🎉 Merged PR [#121](https://github.com/pushpak1300/pushpak1300.github.io/pull/121) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+2. 🎉 Merged PR [#120](https://github.com/pushpak1300/pushpak1300.github.io/pull/120) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+3. 🎉 Merged PR [#119](https://github.com/pushpak1300/pushpak1300.github.io/pull/119) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+4. 🗣 Commented on [#37854](https://github.com/laravel/framework/issues/37854) in [laravel/framework](https://github.com/laravel/framework)
+5. 🗣 Commented on [#7170](https://github.com/laravel/docs/issues/7170) in [laravel/docs](https://github.com/laravel/docs)
 <!--END_SECTION:activity-->
