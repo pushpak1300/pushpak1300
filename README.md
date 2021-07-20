@@ -40,9 +40,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#124](https://github.com/pushpak1300/pushpak1300.github.io/pull/124) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-2. 💪 Opened PR [#119](https://github.com/Astrotomic/opendor.me/pull/119) in [Astrotomic/opendor.me](https://github.com/Astrotomic/opendor.me)
-3. 🎉 Merged PR [#122](https://github.com/pushpak1300/pushpak1300.github.io/pull/122) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-4. 🎉 Merged PR [#123](https://github.com/pushpak1300/pushpak1300.github.io/pull/123) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-5. 🎉 Merged PR [#121](https://github.com/pushpak1300/pushpak1300.github.io/pull/121) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+1. 🎉 Merged PR [#125](https://github.com/pushpak1300/pushpak1300.github.io/pull/125) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+2. 🎉 Merged PR [#124](https://github.com/pushpak1300/pushpak1300.github.io/pull/124) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+3. 💪 Opened PR [#119](https://github.com/Astrotomic/opendor.me/pull/119) in [Astrotomic/opendor.me](https://github.com/Astrotomic/opendor.me)
+4. 🎉 Merged PR [#122](https://github.com/pushpak1300/pushpak1300.github.io/pull/122) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+5. 🎉 Merged PR [#123](https://github.com/pushpak1300/pushpak1300.github.io/pull/123) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
 <!--END_SECTION:activity-->
