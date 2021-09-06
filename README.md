@@ -25,13 +25,6 @@
   <img src="http://img.shields.io/badge/dev.to-gray?style=for-the-badge&logo=dev.to&?logoColor=white?logoWidth=100?label=" />
 </a> 
 
-<a href="https://stackoverflow.com/users/11074838/pushpak-chhajed" target="_blank">
-  <img src="http://img.shields.io/badge/STACKOVERFLOW-black?style=for-the-badge&logo=stackoverflow" />
-</a> 
-
-<a href="https://www.reddit.com/user/pushpak1300" target="_blank">
-  <img src="http://img.shields.io/badge/reddit-gray?style=for-the-badge&logo=reddit" />
-</a> 
 
 </p>
 
