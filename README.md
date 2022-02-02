@@ -33,9 +33,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#243](https://github.com/pushpak1300/pushpak1300.github.io/pull/243) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-2. 🎉 Merged PR [#242](https://github.com/pushpak1300/pushpak1300.github.io/pull/242) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-3. ❗️ Closed issue [#20](https://github.com/zerodha/phpkiteconnect/issues/20) in [zerodha/phpkiteconnect](https://github.com/zerodha/phpkiteconnect)
-4. 🎉 Merged PR [#241](https://github.com/pushpak1300/pushpak1300.github.io/pull/241) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-5. 🎉 Merged PR [#240](https://github.com/pushpak1300/pushpak1300.github.io/pull/240) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+1. 🎉 Merged PR [#244](https://github.com/pushpak1300/pushpak1300.github.io/pull/244) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+2. 🎉 Merged PR [#245](https://github.com/pushpak1300/pushpak1300.github.io/pull/245) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+3. 🎉 Merged PR [#243](https://github.com/pushpak1300/pushpak1300.github.io/pull/243) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+4. 🎉 Merged PR [#242](https://github.com/pushpak1300/pushpak1300.github.io/pull/242) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+5. ❗️ Closed issue [#20](https://github.com/zerodha/phpkiteconnect/issues/20) in [zerodha/phpkiteconnect](https://github.com/zerodha/phpkiteconnect)
 <!--END_SECTION:activity-->
