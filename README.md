@@ -33,9 +33,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51](https://github.com/vuejs-in/companies-using-vuejs-in-India/pull/51) in [vuejs-in/companies-using-vuejs-in-India](https://github.com/vuejs-in/companies-using-vuejs-in-India)
-2. ❌ Closed PR [#326](https://github.com/pushpak1300/pushpak1300.github.io/pull/326) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-3. ❌ Closed PR [#325](https://github.com/pushpak1300/pushpak1300.github.io/pull/325) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-4. 🎉 Merged PR [#331](https://github.com/pushpak1300/pushpak1300.github.io/pull/331) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-5. 🎉 Merged PR [#332](https://github.com/pushpak1300/pushpak1300.github.io/pull/332) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+1. ❌ Closed PR [#37](https://github.com/pushpak1300/frcrce-laravel/pull/37) in [pushpak1300/frcrce-laravel](https://github.com/pushpak1300/frcrce-laravel)
+2. ❌ Closed PR [#38](https://github.com/pushpak1300/frcrce-laravel/pull/38) in [pushpak1300/frcrce-laravel](https://github.com/pushpak1300/frcrce-laravel)
+3. ❌ Closed PR [#36](https://github.com/pushpak1300/frcrce-laravel/pull/36) in [pushpak1300/frcrce-laravel](https://github.com/pushpak1300/frcrce-laravel)
+4. ❌ Closed PR [#34](https://github.com/pushpak1300/frcrce-laravel/pull/34) in [pushpak1300/frcrce-laravel](https://github.com/pushpak1300/frcrce-laravel)
+5. ❌ Closed PR [#32](https://github.com/pushpak1300/frcrce-laravel/pull/32) in [pushpak1300/frcrce-laravel](https://github.com/pushpak1300/frcrce-laravel)
 <!--END_SECTION:activity-->
