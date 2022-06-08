@@ -33,9 +33,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#326](https://github.com/pushpak1300/pushpak1300.github.io/pull/326) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-2. ❌ Closed PR [#325](https://github.com/pushpak1300/pushpak1300.github.io/pull/325) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-3. 🎉 Merged PR [#331](https://github.com/pushpak1300/pushpak1300.github.io/pull/331) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-4. 🎉 Merged PR [#332](https://github.com/pushpak1300/pushpak1300.github.io/pull/332) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-5. 🎉 Merged PR [#329](https://github.com/pushpak1300/pushpak1300.github.io/pull/329) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+1. 💪 Opened PR [#51](https://github.com/vuejs-in/companies-using-vuejs-in-India/pull/51) in [vuejs-in/companies-using-vuejs-in-India](https://github.com/vuejs-in/companies-using-vuejs-in-India)
+2. ❌ Closed PR [#326](https://github.com/pushpak1300/pushpak1300.github.io/pull/326) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+3. ❌ Closed PR [#325](https://github.com/pushpak1300/pushpak1300.github.io/pull/325) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+4. 🎉 Merged PR [#331](https://github.com/pushpak1300/pushpak1300.github.io/pull/331) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+5. 🎉 Merged PR [#332](https://github.com/pushpak1300/pushpak1300.github.io/pull/332) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
 <!--END_SECTION:activity-->
