@@ -33,9 +33,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#525](https://github.com/pushpak1300/pushpak1300.github.io/pull/525) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-2. 🎉 Merged PR [#527](https://github.com/pushpak1300/pushpak1300.github.io/pull/527) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-3. 🗣 Commented on [#526](https://github.com/pushpak1300/pushpak1300.github.io/issues/526) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-4. 🎉 Merged PR [#528](https://github.com/pushpak1300/pushpak1300.github.io/pull/528) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-5. ❌ Closed PR [#519](https://github.com/pushpak1300/pushpak1300.github.io/pull/519) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+1. 🎉 Merged PR [#531](https://github.com/pushpak1300/pushpak1300.github.io/pull/531) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+2. 🎉 Merged PR [#525](https://github.com/pushpak1300/pushpak1300.github.io/pull/525) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+3. 🎉 Merged PR [#527](https://github.com/pushpak1300/pushpak1300.github.io/pull/527) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+4. 🗣 Commented on [#526](https://github.com/pushpak1300/pushpak1300.github.io/issues/526) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+5. 🎉 Merged PR [#528](https://github.com/pushpak1300/pushpak1300.github.io/pull/528) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
 <!--END_SECTION:activity-->
