@@ -33,9 +33,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#548](https://github.com/pushpak1300/pushpak1300.github.io/issues/548) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-2. 🎉 Merged PR [#549](https://github.com/pushpak1300/pushpak1300.github.io/pull/549) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-3. 🎉 Merged PR [#547](https://github.com/pushpak1300/pushpak1300.github.io/pull/547) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-4. 🎉 Merged PR [#546](https://github.com/pushpak1300/pushpak1300.github.io/pull/546) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-5. 🎉 Merged PR [#545](https://github.com/pushpak1300/pushpak1300.github.io/pull/545) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+1. 🗣 Commented on [#42](https://github.com/SMenigat/cypress-mailhog/issues/42) in [SMenigat/cypress-mailhog](https://github.com/SMenigat/cypress-mailhog)
+2. 🗣 Commented on [#548](https://github.com/pushpak1300/pushpak1300.github.io/issues/548) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+3. 🎉 Merged PR [#549](https://github.com/pushpak1300/pushpak1300.github.io/pull/549) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+4. 🎉 Merged PR [#547](https://github.com/pushpak1300/pushpak1300.github.io/pull/547) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+5. 🎉 Merged PR [#546](https://github.com/pushpak1300/pushpak1300.github.io/pull/546) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
 <!--END_SECTION:activity-->
