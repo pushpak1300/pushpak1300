@@ -33,9 +33,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Pallav13/IPL_Final_2023/issues/1) in [Pallav13/IPL_Final_2023](https://github.com/Pallav13/IPL_Final_2023)
-2. 🎉 Merged PR [#551](https://github.com/pushpak1300/pushpak1300.github.io/pull/551) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-3. 🎉 Merged PR [#550](https://github.com/pushpak1300/pushpak1300.github.io/pull/550) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-4. 🎉 Merged PR [#548](https://github.com/pushpak1300/pushpak1300.github.io/pull/548) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-5. 🗣 Commented on [#42](https://github.com/SMenigat/cypress-mailhog/issues/42) in [SMenigat/cypress-mailhog](https://github.com/SMenigat/cypress-mailhog)
+1. ❗ Opened issue [#2](https://github.com/Pallav13/IPL_Final_2023/issues/2) in [Pallav13/IPL_Final_2023](https://github.com/Pallav13/IPL_Final_2023)
+2. ❗ Opened issue [#1](https://github.com/Pallav13/IPL_Final_2023/issues/1) in [Pallav13/IPL_Final_2023](https://github.com/Pallav13/IPL_Final_2023)
+3. 🎉 Merged PR [#551](https://github.com/pushpak1300/pushpak1300.github.io/pull/551) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+4. 🎉 Merged PR [#550](https://github.com/pushpak1300/pushpak1300.github.io/pull/550) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+5. 🎉 Merged PR [#548](https://github.com/pushpak1300/pushpak1300.github.io/pull/548) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
 <!--END_SECTION:activity-->
