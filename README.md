@@ -33,9 +33,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#575](https://github.com/pushpak1300/pushpak1300.github.io/pull/575) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-2. 🎉 Merged PR [#577](https://github.com/pushpak1300/pushpak1300.github.io/pull/577) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-3. 🎉 Merged PR [#559](https://github.com/pushpak1300/pushpak1300.github.io/pull/559) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-4. 🎉 Merged PR [#558](https://github.com/pushpak1300/pushpak1300.github.io/pull/558) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
-5. 🎉 Merged PR [#566](https://github.com/pushpak1300/pushpak1300.github.io/pull/566) in [pushpak1300/pushpak1300.github.io](https://github.com/pushpak1300/pushpak1300.github.io)
+1. 🗣 Commented on [#5](https://github.com/axllent/mailpit-website/pull/5#issuecomment-2199464464) in [axllent/mailpit-website](https://github.com/axllent/mailpit-website)
+2. 💪 Opened PR [#5](https://github.com/axllent/mailpit-website/pull/5) in [axllent/mailpit-website](https://github.com/axllent/mailpit-website)
+3. 🎉 Merged PR [#633](https://github.com/pushpak1300/pushpak1300.me/pull/633) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+4. 💪 Opened PR [#5856](https://github.com/cypress-io/cypress-documentation/pull/5856) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
+5. 🔒 Closed issue [#4](https://github.com/pushpak1300/cypress-mailpit/issues/4) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
 <!--END_SECTION:activity-->
