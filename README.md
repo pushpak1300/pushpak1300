@@ -33,9 +33,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/pushpak1300/cypress-mailpit/issues/30#issuecomment-2216750064) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-2. 🗣 Commented on [#28](https://github.com/pushpak1300/cypress-mailpit/issues/28#issuecomment-2203262889) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-3. 🔒 Closed issue [#28](https://github.com/pushpak1300/cypress-mailpit/issues/28) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-4. 🗣 Commented on [#29](https://github.com/pushpak1300/cypress-mailpit/pull/29#issuecomment-2203261592) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-5. 🚀 Published release [v1.1.0](https://github.com/pushpak1300/cypress-mailpit/releases/tag/v1.1.0) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+1. 🗣 Commented on [#32](https://github.com/pushpak1300/cypress-mailpit/pull/32#issuecomment-2218509486) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+2. 🚀 Published release [v1.1.1](https://github.com/pushpak1300/cypress-mailpit/releases/tag/v1.1.1) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+3. 🎉 Merged PR [#32](https://github.com/pushpak1300/cypress-mailpit/pull/32) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+4. 💪 Opened PR [#32](https://github.com/pushpak1300/cypress-mailpit/pull/32) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+5. 🔒 Closed issue [#30](https://github.com/pushpak1300/cypress-mailpit/issues/30) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
 <!--END_SECTION:activity-->
