@@ -33,9 +33,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/pushpak1300/cypress-mailpit/pull/32#issuecomment-2218509486) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-2. 🚀 Published release [v1.1.1](https://github.com/pushpak1300/cypress-mailpit/releases/tag/v1.1.1) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-3. 🎉 Merged PR [#32](https://github.com/pushpak1300/cypress-mailpit/pull/32) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-4. 💪 Opened PR [#32](https://github.com/pushpak1300/cypress-mailpit/pull/32) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-5. 🔒 Closed issue [#30](https://github.com/pushpak1300/cypress-mailpit/issues/30) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+1. 🗣 Commented on [#171](https://github.com/Edujugon/PushNotification/pull/171#issuecomment-2227894961) in [Edujugon/PushNotification](https://github.com/Edujugon/PushNotification)
+2. 🗣 Commented on [#32](https://github.com/pushpak1300/cypress-mailpit/pull/32#issuecomment-2218509486) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+3. 🚀 Published release [v1.1.1](https://github.com/pushpak1300/cypress-mailpit/releases/tag/v1.1.1) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+4. 🎉 Merged PR [#32](https://github.com/pushpak1300/cypress-mailpit/pull/32) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+5. 💪 Opened PR [#32](https://github.com/pushpak1300/cypress-mailpit/pull/32) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
 <!--END_SECTION:activity-->
