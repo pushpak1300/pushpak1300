@@ -33,9 +33,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#637](https://github.com/pushpak1300/pushpak1300.me/pull/637) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-2. 🎉 Merged PR [#635](https://github.com/pushpak1300/pushpak1300.me/pull/635) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-3. 🎉 Merged PR [#636](https://github.com/pushpak1300/pushpak1300.me/pull/636) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-4. 🗣 Commented on [#171](https://github.com/Edujugon/PushNotification/pull/171#issuecomment-2227894961) in [Edujugon/PushNotification](https://github.com/Edujugon/PushNotification)
-5. 🗣 Commented on [#32](https://github.com/pushpak1300/cypress-mailpit/pull/32#issuecomment-2218509486) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+1. 🎉 Merged PR [#638](https://github.com/pushpak1300/pushpak1300.me/pull/638) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+2. 🎉 Merged PR [#637](https://github.com/pushpak1300/pushpak1300.me/pull/637) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+3. 🎉 Merged PR [#635](https://github.com/pushpak1300/pushpak1300.me/pull/635) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+4. 🎉 Merged PR [#636](https://github.com/pushpak1300/pushpak1300.me/pull/636) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+5. 🗣 Commented on [#171](https://github.com/Edujugon/PushNotification/pull/171#issuecomment-2227894961) in [Edujugon/PushNotification](https://github.com/Edujugon/PushNotification)
 <!--END_SECTION:activity-->
