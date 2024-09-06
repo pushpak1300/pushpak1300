@@ -33,9 +33,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#439](https://github.com/pipecat-ai/pipecat/issues/439#issuecomment-2328932272) in [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
-2. 🗣 Commented on [#36](https://github.com/pushpak1300/cypress-mailpit/pull/36#issuecomment-2318038569) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-3. 🚀 Published release [v1.2.1](https://github.com/pushpak1300/cypress-mailpit/releases/tag/v1.2.1) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-4. 🎉 Merged PR [#36](https://github.com/pushpak1300/cypress-mailpit/pull/36) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-5. 💪 Opened PR [#36](https://github.com/pushpak1300/cypress-mailpit/pull/36) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+1. 🗣 Commented on [#37](https://github.com/pushpak1300/cypress-mailpit/issues/37#issuecomment-2333712974) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+2. 🗣 Commented on [#439](https://github.com/pipecat-ai/pipecat/issues/439#issuecomment-2328932272) in [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
+3. 🗣 Commented on [#36](https://github.com/pushpak1300/cypress-mailpit/pull/36#issuecomment-2318038569) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+4. 🚀 Published release [v1.2.1](https://github.com/pushpak1300/cypress-mailpit/releases/tag/v1.2.1) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+5. 🎉 Merged PR [#36](https://github.com/pushpak1300/cypress-mailpit/pull/36) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
 <!--END_SECTION:activity-->
