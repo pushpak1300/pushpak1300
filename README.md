@@ -33,9 +33,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#641](https://github.com/pushpak1300/pushpak1300.me/pull/641) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-2. 🗣 Commented on [#6451](https://github.com/laravel/laravel/pull/6451#issuecomment-2354330421) in [laravel/laravel](https://github.com/laravel/laravel)
-3. 🎉 Merged PR [#38](https://github.com/pushpak1300/cypress-mailpit/pull/38) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-4. 🗣 Commented on [#325](https://github.com/pipecat-ai/pipecat/issues/325#issuecomment-2335218146) in [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
-5. 🗣 Commented on [#37](https://github.com/pushpak1300/cypress-mailpit/issues/37#issuecomment-2333812928) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+1. 🎉 Merged PR [#642](https://github.com/pushpak1300/pushpak1300.me/pull/642) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+2. 🎉 Merged PR [#641](https://github.com/pushpak1300/pushpak1300.me/pull/641) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+3. 🗣 Commented on [#6451](https://github.com/laravel/laravel/pull/6451#issuecomment-2354330421) in [laravel/laravel](https://github.com/laravel/laravel)
+4. 🎉 Merged PR [#38](https://github.com/pushpak1300/cypress-mailpit/pull/38) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+5. 🗣 Commented on [#325](https://github.com/pipecat-ai/pipecat/issues/325#issuecomment-2335218146) in [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
 <!--END_SECTION:activity-->
