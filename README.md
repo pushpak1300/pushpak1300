@@ -33,9 +33,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#643](https://github.com/pushpak1300/pushpak1300.me/pull/643) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-2. 🎉 Merged PR [#642](https://github.com/pushpak1300/pushpak1300.me/pull/642) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-3. 🎉 Merged PR [#641](https://github.com/pushpak1300/pushpak1300.me/pull/641) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-4. 🗣 Commented on [#6451](https://github.com/laravel/laravel/pull/6451#issuecomment-2354330421) in [laravel/laravel](https://github.com/laravel/laravel)
-5. 🎉 Merged PR [#38](https://github.com/pushpak1300/cypress-mailpit/pull/38) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+1. 🗣 Commented on [#3](https://github.com/echolabsdev/prism/issues/3#issuecomment-2399493626) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+2. 🎉 Merged PR [#643](https://github.com/pushpak1300/pushpak1300.me/pull/643) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+3. 🎉 Merged PR [#642](https://github.com/pushpak1300/pushpak1300.me/pull/642) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+4. 🎉 Merged PR [#641](https://github.com/pushpak1300/pushpak1300.me/pull/641) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+5. 🗣 Commented on [#6451](https://github.com/laravel/laravel/pull/6451#issuecomment-2354330421) in [laravel/laravel](https://github.com/laravel/laravel)
 <!--END_SECTION:activity-->
