@@ -33,9 +33,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/echolabsdev/prism/issues/14#issuecomment-2439400021) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-2. 💪 Opened PR [#43](https://github.com/echolabsdev/prism/pull/43) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-3. 💪 Opened PR [#47](https://github.com/pushpak1300/cypress-mailpit/pull/47) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-4. 🎉 Merged PR [#46](https://github.com/pushpak1300/cypress-mailpit/pull/46) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-5. 🔒 Closed issue [#43](https://github.com/pushpak1300/cypress-mailpit/issues/43) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+1. 💪 Opened PR [#9993](https://github.com/laravel/docs/pull/9993) in [laravel/docs](https://github.com/laravel/docs)
+2. 🗣 Commented on [#14](https://github.com/echolabsdev/prism/issues/14#issuecomment-2439400021) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+3. 💪 Opened PR [#43](https://github.com/echolabsdev/prism/pull/43) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+4. 💪 Opened PR [#47](https://github.com/pushpak1300/cypress-mailpit/pull/47) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+5. 🎉 Merged PR [#46](https://github.com/pushpak1300/cypress-mailpit/pull/46) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
 <!--END_SECTION:activity-->
