@@ -33,9 +33,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1544](https://github.com/laravel/jetstream/pull/1544) in [laravel/jetstream](https://github.com/laravel/jetstream)
-2. 🚀 Published release [v0.0.1](https://github.com/pushpak1300/jetstream-inertia-ts/releases/tag/v0.0.1) in [pushpak1300/jetstream-inertia-ts](https://github.com/pushpak1300/jetstream-inertia-ts)
-3. 💪 Opened PR [#9993](https://github.com/laravel/docs/pull/9993) in [laravel/docs](https://github.com/laravel/docs)
-4. 🗣 Commented on [#14](https://github.com/echolabsdev/prism/issues/14#issuecomment-2439400021) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-5. 💪 Opened PR [#43](https://github.com/echolabsdev/prism/pull/43) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+1. 💪 Opened PR [#47](https://github.com/echolabsdev/prism/pull/47) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+2. 💪 Opened PR [#1544](https://github.com/laravel/jetstream/pull/1544) in [laravel/jetstream](https://github.com/laravel/jetstream)
+3. 🚀 Published release [v0.0.1](https://github.com/pushpak1300/jetstream-inertia-ts/releases/tag/v0.0.1) in [pushpak1300/jetstream-inertia-ts](https://github.com/pushpak1300/jetstream-inertia-ts)
+4. 💪 Opened PR [#9993](https://github.com/laravel/docs/pull/9993) in [laravel/docs](https://github.com/laravel/docs)
+5. 🗣 Commented on [#14](https://github.com/echolabsdev/prism/issues/14#issuecomment-2439400021) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
 <!--END_SECTION:activity-->
