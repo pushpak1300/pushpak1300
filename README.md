@@ -33,9 +33,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/pushpak1300/cypress-mailpit/pull/47#issuecomment-2466212901) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-2. 🚀 Published release [v1.4.0](https://github.com/pushpak1300/cypress-mailpit/releases/tag/v1.4.0) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-3. 🎉 Merged PR [#47](https://github.com/pushpak1300/cypress-mailpit/pull/47) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-4. 🔒 Closed issue [#48](https://github.com/pushpak1300/cypress-mailpit/issues/48) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-5. 🎉 Merged PR [#49](https://github.com/pushpak1300/cypress-mailpit/pull/49) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+1. 🗣 Commented on [#56](https://github.com/echolabsdev/prism/issues/56#issuecomment-2466571837) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+2. 🗣 Commented on [#55](https://github.com/echolabsdev/prism/pull/55#issuecomment-2466570517) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+3. 🗣 Commented on [#47](https://github.com/pushpak1300/cypress-mailpit/pull/47#issuecomment-2466212901) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+4. 🚀 Published release [v1.4.0](https://github.com/pushpak1300/cypress-mailpit/releases/tag/v1.4.0) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+5. 🎉 Merged PR [#47](https://github.com/pushpak1300/cypress-mailpit/pull/47) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
 <!--END_SECTION:activity-->
