@@ -1,14 +1,7 @@
 ### Hi there 👋
 
-
 ##### I am Pushpak, I am a Software Engineer and a problem solver.💻
 
-![](https://komarev.com/ghpvc/?username=pushpak1300)
-
- Would like to get in touch? here is my public key 
- <br> <a href='https://keybase.io/pushpak1300'><img src="https://img.shields.io/keybase/pgp/pushpak1300?color=pinl&label=PGP&style=for-the-badge"/></a></br>
-#### You can find me on these accounts!
-<p>
 <a href='https://twitter.com/pushpak1300'><a href="https://pushpak1300.me/" target="_blank">
   <img src="https://img.shields.io/badge/website-%23E34F26.svg?&style=for-the-badge" />
 </a> 
