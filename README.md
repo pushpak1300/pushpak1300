@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#963](https://github.com/kreait/firebase-php/pull/963) in [kreait/firebase-php](https://github.com/kreait/firebase-php)
-2. 💪 Opened PR [#66](https://github.com/echolabsdev/prism/pull/66) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-3. 💪 Opened PR [#65](https://github.com/echolabsdev/prism/pull/65) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-4. 🎉 Merged PR [#647](https://github.com/pushpak1300/pushpak1300.me/pull/647) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-5. 🎉 Merged PR [#648](https://github.com/pushpak1300/pushpak1300.me/pull/648) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+1. ❗ Opened issue [#964](https://github.com/kreait/firebase-php/issues/964) in [kreait/firebase-php](https://github.com/kreait/firebase-php)
+2. 💪 Opened PR [#963](https://github.com/kreait/firebase-php/pull/963) in [kreait/firebase-php](https://github.com/kreait/firebase-php)
+3. 💪 Opened PR [#66](https://github.com/echolabsdev/prism/pull/66) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+4. 💪 Opened PR [#65](https://github.com/echolabsdev/prism/pull/65) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+5. 🎉 Merged PR [#647](https://github.com/pushpak1300/pushpak1300.me/pull/647) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
 <!--END_SECTION:activity-->
