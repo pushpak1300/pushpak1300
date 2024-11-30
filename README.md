@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/echolabsdev/prism/issues/77#issuecomment-2509077322) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-2. 💪 Opened PR [#72](https://github.com/echolabsdev/prism/pull/72) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-3. 💪 Opened PR [#3](https://github.com/RakeshPatelNexios/reactphp-laravel/pull/3) in [RakeshPatelNexios/reactphp-laravel](https://github.com/RakeshPatelNexios/reactphp-laravel)
-4. 💪 Opened PR [#2](https://github.com/RakeshPatelNexios/reactphp-laravel/pull/2) in [RakeshPatelNexios/reactphp-laravel](https://github.com/RakeshPatelNexios/reactphp-laravel)
-5. 💪 Opened PR [#1](https://github.com/RakeshPatelNexios/reactphp-laravel/pull/1) in [RakeshPatelNexios/reactphp-laravel](https://github.com/RakeshPatelNexios/reactphp-laravel)
+1. 🗣 Commented on [#41](https://github.com/pushpak1300/cypress-mailpit/issues/41#issuecomment-2509111661) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+2. 🔒 Closed issue [#41](https://github.com/pushpak1300/cypress-mailpit/issues/41) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+3. ❌ Closed PR [#65](https://github.com/echolabsdev/prism/pull/65) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+4. ❗ Opened issue [#80](https://github.com/echolabsdev/prism/issues/80) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+5. 💪 Opened PR [#79](https://github.com/echolabsdev/prism/pull/79) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
 <!--END_SECTION:activity-->
