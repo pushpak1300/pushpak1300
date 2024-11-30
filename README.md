@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#72](https://github.com/echolabsdev/prism/pull/72) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-2. 💪 Opened PR [#3](https://github.com/RakeshPatelNexios/reactphp-laravel/pull/3) in [RakeshPatelNexios/reactphp-laravel](https://github.com/RakeshPatelNexios/reactphp-laravel)
-3. 💪 Opened PR [#2](https://github.com/RakeshPatelNexios/reactphp-laravel/pull/2) in [RakeshPatelNexios/reactphp-laravel](https://github.com/RakeshPatelNexios/reactphp-laravel)
-4. 💪 Opened PR [#1](https://github.com/RakeshPatelNexios/reactphp-laravel/pull/1) in [RakeshPatelNexios/reactphp-laravel](https://github.com/RakeshPatelNexios/reactphp-laravel)
-5. 🗣 Commented on [#964](https://github.com/kreait/firebase-php/issues/964#issuecomment-2493399855) in [kreait/firebase-php](https://github.com/kreait/firebase-php)
+1. 🗣 Commented on [#77](https://github.com/echolabsdev/prism/issues/77#issuecomment-2509077322) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+2. 💪 Opened PR [#72](https://github.com/echolabsdev/prism/pull/72) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+3. 💪 Opened PR [#3](https://github.com/RakeshPatelNexios/reactphp-laravel/pull/3) in [RakeshPatelNexios/reactphp-laravel](https://github.com/RakeshPatelNexios/reactphp-laravel)
+4. 💪 Opened PR [#2](https://github.com/RakeshPatelNexios/reactphp-laravel/pull/2) in [RakeshPatelNexios/reactphp-laravel](https://github.com/RakeshPatelNexios/reactphp-laravel)
+5. 💪 Opened PR [#1](https://github.com/RakeshPatelNexios/reactphp-laravel/pull/1) in [RakeshPatelNexios/reactphp-laravel](https://github.com/RakeshPatelNexios/reactphp-laravel)
 <!--END_SECTION:activity-->
