@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/echolabsdev/prism/issues/4#issuecomment-2510908343) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-2. 🎉 Merged PR [#649](https://github.com/pushpak1300/pushpak1300.me/pull/649) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-3. ❗ Opened issue [#929](https://github.com/unovue/shadcn-vue/issues/929) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
-4. 🗣 Commented on [#41](https://github.com/pushpak1300/cypress-mailpit/issues/41#issuecomment-2509111661) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-5. 🔒 Closed issue [#41](https://github.com/pushpak1300/cypress-mailpit/issues/41) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+1. 🗣 Commented on [#85](https://github.com/echolabsdev/prism/pull/85#issuecomment-2517996364) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+2. 🗣 Commented on [#4](https://github.com/echolabsdev/prism/issues/4#issuecomment-2510908343) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+3. 🎉 Merged PR [#649](https://github.com/pushpak1300/pushpak1300.me/pull/649) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+4. ❗ Opened issue [#929](https://github.com/unovue/shadcn-vue/issues/929) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
+5. 🗣 Commented on [#41](https://github.com/pushpak1300/cypress-mailpit/issues/41#issuecomment-2509111661) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
 <!--END_SECTION:activity-->
