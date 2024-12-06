@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#927](https://github.com/unovue/shadcn-vue/pull/927#issuecomment-2519163184) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
-2. 🗣 Commented on [#927](https://github.com/unovue/shadcn-vue/pull/927#issuecomment-2518148000) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
-3. 🗣 Commented on [#85](https://github.com/echolabsdev/prism/pull/85#issuecomment-2517996364) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-4. 🗣 Commented on [#4](https://github.com/echolabsdev/prism/issues/4#issuecomment-2510908343) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-5. 🎉 Merged PR [#649](https://github.com/pushpak1300/pushpak1300.me/pull/649) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+1. 🗣 Commented on [#929](https://github.com/unovue/shadcn-vue/issues/929#issuecomment-2522381527) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
+2. 🗣 Commented on [#927](https://github.com/unovue/shadcn-vue/pull/927#issuecomment-2519163184) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
+3. 🗣 Commented on [#927](https://github.com/unovue/shadcn-vue/pull/927#issuecomment-2518148000) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
+4. 🗣 Commented on [#85](https://github.com/echolabsdev/prism/pull/85#issuecomment-2517996364) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+5. 🗣 Commented on [#4](https://github.com/echolabsdev/prism/issues/4#issuecomment-2510908343) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
 <!--END_SECTION:activity-->
