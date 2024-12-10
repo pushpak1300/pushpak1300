@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#929](https://github.com/unovue/shadcn-vue/issues/929#issuecomment-2529207603) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
-2. 🗣 Commented on [#929](https://github.com/unovue/shadcn-vue/issues/929#issuecomment-2522381527) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
-3. 🗣 Commented on [#927](https://github.com/unovue/shadcn-vue/pull/927#issuecomment-2519163184) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
-4. 🗣 Commented on [#927](https://github.com/unovue/shadcn-vue/pull/927#issuecomment-2518148000) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
-5. 🗣 Commented on [#85](https://github.com/echolabsdev/prism/pull/85#issuecomment-2517996364) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+1. 🗣 Commented on [#8](https://github.com/pushpak1300/Larasonic/pull/8#issuecomment-2530546299) in [pushpak1300/Larasonic](https://github.com/pushpak1300/Larasonic)
+2. 🎉 Merged PR [#8](https://github.com/pushpak1300/Larasonic/pull/8) in [pushpak1300/Larasonic](https://github.com/pushpak1300/Larasonic)
+3. 🗣 Commented on [#929](https://github.com/unovue/shadcn-vue/issues/929#issuecomment-2529207603) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
+4. 🗣 Commented on [#929](https://github.com/unovue/shadcn-vue/issues/929#issuecomment-2522381527) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
+5. 🗣 Commented on [#927](https://github.com/unovue/shadcn-vue/pull/927#issuecomment-2519163184) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
 <!--END_SECTION:activity-->
