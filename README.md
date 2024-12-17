@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/laravel/vs-code-extension/issues/9) in [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension)
-2. 💪 Opened PR [#107](https://github.com/echolabsdev/prism/pull/107) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-3. 🎉 Merged PR [#650](https://github.com/pushpak1300/pushpak1300.me/pull/650) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-4. 🎉 Merged PR [#54](https://github.com/pushpak1300/cypress-mailpit/pull/54) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-5. 🗣 Commented on [#53](https://github.com/pushpak1300/cypress-mailpit/issues/53#issuecomment-2543990462) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+1. 🗣 Commented on [#929](https://github.com/unovue/shadcn-vue/issues/929#issuecomment-2547508997) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
+2. ❗ Opened issue [#9](https://github.com/laravel/vs-code-extension/issues/9) in [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension)
+3. 💪 Opened PR [#107](https://github.com/echolabsdev/prism/pull/107) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+4. 🎉 Merged PR [#650](https://github.com/pushpak1300/pushpak1300.me/pull/650) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+5. 🎉 Merged PR [#54](https://github.com/pushpak1300/cypress-mailpit/pull/54) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
 <!--END_SECTION:activity-->
