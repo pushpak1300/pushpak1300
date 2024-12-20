@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/pushpak1300/Larasonic/pull/10) in [pushpak1300/Larasonic](https://github.com/pushpak1300/Larasonic)
-2. ❌ Closed PR [#21](https://github.com/zerodha/phpkiteconnect/pull/21) in [zerodha/phpkiteconnect](https://github.com/zerodha/phpkiteconnect)
-3. 🗣 Commented on [#56](https://github.com/echolabsdev/prism/issues/56#issuecomment-2550924333) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-4. 🗣 Commented on [#929](https://github.com/unovue/shadcn-vue/issues/929#issuecomment-2547508997) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
-5. ❗ Opened issue [#9](https://github.com/laravel/vs-code-extension/issues/9) in [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension)
+1. ❗ Opened issue [#1276](https://github.com/dunglas/frankenphp/issues/1276) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
+2. 🎉 Merged PR [#10](https://github.com/pushpak1300/Larasonic/pull/10) in [pushpak1300/Larasonic](https://github.com/pushpak1300/Larasonic)
+3. ❌ Closed PR [#21](https://github.com/zerodha/phpkiteconnect/pull/21) in [zerodha/phpkiteconnect](https://github.com/zerodha/phpkiteconnect)
+4. 🗣 Commented on [#56](https://github.com/echolabsdev/prism/issues/56#issuecomment-2550924333) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+5. 🗣 Commented on [#929](https://github.com/unovue/shadcn-vue/issues/929#issuecomment-2547508997) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
 <!--END_SECTION:activity-->
