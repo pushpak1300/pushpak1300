@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1276](https://github.com/dunglas/frankenphp/issues/1276) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
-2. 🎉 Merged PR [#10](https://github.com/pushpak1300/Larasonic/pull/10) in [pushpak1300/Larasonic](https://github.com/pushpak1300/Larasonic)
-3. ❌ Closed PR [#21](https://github.com/zerodha/phpkiteconnect/pull/21) in [zerodha/phpkiteconnect](https://github.com/zerodha/phpkiteconnect)
-4. 🗣 Commented on [#56](https://github.com/echolabsdev/prism/issues/56#issuecomment-2550924333) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-5. 🗣 Commented on [#929](https://github.com/unovue/shadcn-vue/issues/929#issuecomment-2547508997) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
+1. 🗣 Commented on [#1276](https://github.com/dunglas/frankenphp/issues/1276#issuecomment-2558110108) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
+2. 🗣 Commented on [#35](https://github.com/pestphp/pest-plugin-type-coverage/pull/35#issuecomment-2558109848) in [pestphp/pest-plugin-type-coverage](https://github.com/pestphp/pest-plugin-type-coverage)
+3. ❗ Opened issue [#1276](https://github.com/dunglas/frankenphp/issues/1276) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
+4. 🎉 Merged PR [#10](https://github.com/pushpak1300/Larasonic/pull/10) in [pushpak1300/Larasonic](https://github.com/pushpak1300/Larasonic)
+5. ❌ Closed PR [#21](https://github.com/zerodha/phpkiteconnect/pull/21) in [zerodha/phpkiteconnect](https://github.com/zerodha/phpkiteconnect)
 <!--END_SECTION:activity-->
