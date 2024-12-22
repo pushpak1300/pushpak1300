@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#975](https://github.com/laravel/octane/issues/975#issuecomment-2558460108) in [laravel/octane](https://github.com/laravel/octane)
-2. 💪 Opened PR [#976](https://github.com/laravel/octane/pull/976) in [laravel/octane](https://github.com/laravel/octane)
-3. 🗣 Commented on [#1276](https://github.com/dunglas/frankenphp/issues/1276#issuecomment-2558110108) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
-4. 🗣 Commented on [#35](https://github.com/pestphp/pest-plugin-type-coverage/pull/35#issuecomment-2558109848) in [pestphp/pest-plugin-type-coverage](https://github.com/pestphp/pest-plugin-type-coverage)
-5. ❗ Opened issue [#1276](https://github.com/dunglas/frankenphp/issues/1276) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
+1. 🗣 Commented on [#1608](https://github.com/nuxt/nuxt.com/pull/1608#issuecomment-2558478802) in [nuxt/nuxt.com](https://github.com/nuxt/nuxt.com)
+2. 🗣 Commented on [#1279](https://github.com/dunglas/frankenphp/issues/1279#issuecomment-2558478364) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
+3. 🗣 Commented on [#975](https://github.com/laravel/octane/issues/975#issuecomment-2558460108) in [laravel/octane](https://github.com/laravel/octane)
+4. 💪 Opened PR [#976](https://github.com/laravel/octane/pull/976) in [laravel/octane](https://github.com/laravel/octane)
+5. 🗣 Commented on [#1276](https://github.com/dunglas/frankenphp/issues/1276#issuecomment-2558110108) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
 <!--END_SECTION:activity-->
