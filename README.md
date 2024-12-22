@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1276](https://github.com/dunglas/frankenphp/issues/1276#issuecomment-2558110108) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
-2. 🗣 Commented on [#35](https://github.com/pestphp/pest-plugin-type-coverage/pull/35#issuecomment-2558109848) in [pestphp/pest-plugin-type-coverage](https://github.com/pestphp/pest-plugin-type-coverage)
-3. ❗ Opened issue [#1276](https://github.com/dunglas/frankenphp/issues/1276) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
-4. 🎉 Merged PR [#10](https://github.com/pushpak1300/Larasonic/pull/10) in [pushpak1300/Larasonic](https://github.com/pushpak1300/Larasonic)
-5. ❌ Closed PR [#21](https://github.com/zerodha/phpkiteconnect/pull/21) in [zerodha/phpkiteconnect](https://github.com/zerodha/phpkiteconnect)
+1. 🗣 Commented on [#975](https://github.com/laravel/octane/issues/975#issuecomment-2558460108) in [laravel/octane](https://github.com/laravel/octane)
+2. 💪 Opened PR [#976](https://github.com/laravel/octane/pull/976) in [laravel/octane](https://github.com/laravel/octane)
+3. 🗣 Commented on [#1276](https://github.com/dunglas/frankenphp/issues/1276#issuecomment-2558110108) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
+4. 🗣 Commented on [#35](https://github.com/pestphp/pest-plugin-type-coverage/pull/35#issuecomment-2558109848) in [pestphp/pest-plugin-type-coverage](https://github.com/pestphp/pest-plugin-type-coverage)
+5. ❗ Opened issue [#1276](https://github.com/dunglas/frankenphp/issues/1276) in [dunglas/frankenphp](https://github.com/dunglas/frankenphp)
 <!--END_SECTION:activity-->
