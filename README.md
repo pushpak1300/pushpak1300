@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/pushpak1300/Larasonic/pull/14) in [pushpak1300/Larasonic](https://github.com/pushpak1300/Larasonic)
-2. 🎉 Merged PR [#651](https://github.com/pushpak1300/pushpak1300.me/pull/651) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-3. 🗣 Commented on [#124](https://github.com/laravel/vs-code-extension/issues/124#issuecomment-2558517877) in [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension)
-4. 🎉 Merged PR [#11](https://github.com/pushpak1300/Larasonic/pull/11) in [pushpak1300/Larasonic](https://github.com/pushpak1300/Larasonic)
-5. 🎉 Merged PR [#12](https://github.com/pushpak1300/Larasonic/pull/12) in [pushpak1300/Larasonic](https://github.com/pushpak1300/Larasonic)
+1. 🎉 Merged PR [#14](https://github.com/pushpak1300/Larasonic/pull/14) in [pushpak1300/Larasonic](https://github.com/pushpak1300/Larasonic)
+2. 💪 Opened PR [#14](https://github.com/pushpak1300/Larasonic/pull/14) in [pushpak1300/Larasonic](https://github.com/pushpak1300/Larasonic)
+3. 🎉 Merged PR [#651](https://github.com/pushpak1300/pushpak1300.me/pull/651) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+4. 🗣 Commented on [#124](https://github.com/laravel/vs-code-extension/issues/124#issuecomment-2558517877) in [laravel/vs-code-extension](https://github.com/laravel/vs-code-extension)
+5. 🎉 Merged PR [#11](https://github.com/pushpak1300/Larasonic/pull/11) in [pushpak1300/Larasonic](https://github.com/pushpak1300/Larasonic)
 <!--END_SECTION:activity-->
