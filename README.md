@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/pushpak1300/Larasonic/issues/18#issuecomment-2642556303) in [pushpak1300/Larasonic](https://github.com/pushpak1300/Larasonic)
-2. 🗣 Commented on [#169](https://github.com/echolabsdev/prism/pull/169#issuecomment-2640413670) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-3. ❗ Opened issue [#1150](https://github.com/pipecat-ai/pipecat/issues/1150) in [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
-4. 🎉 Merged PR [#19](https://github.com/pushpak1300/Larasonic/pull/19) in [pushpak1300/Larasonic](https://github.com/pushpak1300/Larasonic)
-5. 🎉 Merged PR [#654](https://github.com/pushpak1300/pushpak1300.me/pull/654) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+1. 🗣 Commented on [#164](https://github.com/echolabsdev/prism/issues/164#issuecomment-2646354755) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+2. 🗣 Commented on [#173](https://github.com/echolabsdev/prism/pull/173#issuecomment-2646353515) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+3. 🗣 Commented on [#18](https://github.com/pushpak1300/Larasonic/issues/18#issuecomment-2642556303) in [pushpak1300/Larasonic](https://github.com/pushpak1300/Larasonic)
+4. 🗣 Commented on [#169](https://github.com/echolabsdev/prism/pull/169#issuecomment-2640413670) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+5. ❗ Opened issue [#1150](https://github.com/pipecat-ai/pipecat/issues/1150) in [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
 <!--END_SECTION:activity-->
