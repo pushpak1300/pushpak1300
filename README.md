@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#178](https://github.com/echolabsdev/prism/pull/178#issuecomment-2655959556) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-2. 🗣 Commented on [#21](https://github.com/pushpak1300/Larasonic/issues/21#issuecomment-2647299784) in [pushpak1300/Larasonic](https://github.com/pushpak1300/Larasonic)
-3. 🔒 Closed issue [#21](https://github.com/pushpak1300/Larasonic/issues/21) in [pushpak1300/Larasonic](https://github.com/pushpak1300/Larasonic)
-4. 🎉 Merged PR [#658](https://github.com/pushpak1300/pushpak1300.me/pull/658) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-5. 🗣 Commented on [#164](https://github.com/echolabsdev/prism/issues/164#issuecomment-2646354755) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+1. 🗣 Commented on [#177](https://github.com/echolabsdev/prism/pull/177#issuecomment-2656081585) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+2. 🗣 Commented on [#178](https://github.com/echolabsdev/prism/pull/178#issuecomment-2655959556) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+3. 🗣 Commented on [#21](https://github.com/pushpak1300/Larasonic/issues/21#issuecomment-2647299784) in [pushpak1300/Larasonic](https://github.com/pushpak1300/Larasonic)
+4. 🔒 Closed issue [#21](https://github.com/pushpak1300/Larasonic/issues/21) in [pushpak1300/Larasonic](https://github.com/pushpak1300/Larasonic)
+5. 🎉 Merged PR [#658](https://github.com/pushpak1300/pushpak1300.me/pull/658) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
 <!--END_SECTION:activity-->
