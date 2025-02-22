@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#189](https://github.com/echolabsdev/prism/pull/189#issuecomment-2670551442) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-2. 🗣 Commented on [#195](https://github.com/echolabsdev/prism/pull/195#issuecomment-2665407949) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-3. 🗣 Commented on [#195](https://github.com/echolabsdev/prism/pull/195#issuecomment-2663065693) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-4. 🗣 Commented on [#192](https://github.com/echolabsdev/prism/pull/192#issuecomment-2661509087) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-5. 🗣 Commented on [#191](https://github.com/echolabsdev/prism/pull/191#issuecomment-2661508987) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+1. 🗣 Commented on [#1](https://github.com/shipfastlabs/larasonic-react/pull/1#issuecomment-2676309251) in [shipfastlabs/larasonic-react](https://github.com/shipfastlabs/larasonic-react)
+2. 🎉 Merged PR [#1](https://github.com/shipfastlabs/larasonic-react/pull/1) in [shipfastlabs/larasonic-react](https://github.com/shipfastlabs/larasonic-react)
+3. 🗣 Commented on [#189](https://github.com/echolabsdev/prism/pull/189#issuecomment-2670551442) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+4. 🗣 Commented on [#195](https://github.com/echolabsdev/prism/pull/195#issuecomment-2665407949) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+5. 🗣 Commented on [#195](https://github.com/echolabsdev/prism/pull/195#issuecomment-2663065693) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
 <!--END_SECTION:activity-->
