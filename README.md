@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/pushpak1300/cypress-mailpit/issues/55#issuecomment-2692389138) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-2. ❗ Opened issue [#213](https://github.com/echolabsdev/prism/issues/213) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-3. 🗣 Commented on [#210](https://github.com/echolabsdev/prism/issues/210#issuecomment-2682083054) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
-4. 🎉 Merged PR [#662](https://github.com/pushpak1300/pushpak1300.me/pull/662) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-5. 🗣 Commented on [#185](https://github.com/echolabsdev/prism/issues/185#issuecomment-2676732464) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+1. 🗣 Commented on [#2](https://github.com/shipfastlabs/larasonic-react/issues/2#issuecomment-2704760231) in [shipfastlabs/larasonic-react](https://github.com/shipfastlabs/larasonic-react)
+2. 🗣 Commented on [#55](https://github.com/pushpak1300/cypress-mailpit/issues/55#issuecomment-2692389138) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+3. ❗ Opened issue [#213](https://github.com/echolabsdev/prism/issues/213) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+4. 🗣 Commented on [#210](https://github.com/echolabsdev/prism/issues/210#issuecomment-2682083054) in [echolabsdev/prism](https://github.com/echolabsdev/prism)
+5. 🎉 Merged PR [#662](https://github.com/pushpak1300/pushpak1300.me/pull/662) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
 <!--END_SECTION:activity-->
