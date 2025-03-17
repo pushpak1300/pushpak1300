@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#667](https://github.com/pushpak1300/pushpak1300.me/pull/667) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-2. 💪 Opened PR [#268](https://github.com/prism-php/prism/pull/268) in [prism-php/prism](https://github.com/prism-php/prism)
-3. 🗣 Commented on [#109](https://github.com/prism-php/prism/issues/109#issuecomment-2726710065) in [prism-php/prism](https://github.com/prism-php/prism)
-4. 🗣 Commented on [#109](https://github.com/prism-php/prism/issues/109#issuecomment-2718540360) in [prism-php/prism](https://github.com/prism-php/prism)
-5. 💪 Opened PR [#11](https://github.com/tnylea/laravel-new/pull/11) in [tnylea/laravel-new](https://github.com/tnylea/laravel-new)
+1. 🔒 Closed issue [#26](https://github.com/shipfastlabs/larasonic-vue/issues/26) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
+2. 🗣 Commented on [#26](https://github.com/shipfastlabs/larasonic-vue/issues/26#issuecomment-2729005676) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
+3. 🗣 Commented on [#250](https://github.com/prism-php/prism/issues/250#issuecomment-2728970959) in [prism-php/prism](https://github.com/prism-php/prism)
+4. 🎉 Merged PR [#667](https://github.com/pushpak1300/pushpak1300.me/pull/667) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+5. 💪 Opened PR [#268](https://github.com/prism-php/prism/pull/268) in [prism-php/prism](https://github.com/prism-php/prism)
 <!--END_SECTION:activity-->
