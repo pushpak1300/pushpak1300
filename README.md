@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.1](https://github.com/pushpak1300/vibegit/releases/tag/v0.0.1) in [pushpak1300/vibegit](https://github.com/pushpak1300/vibegit)
-2. 🎉 Merged PR [#28](https://github.com/shipfastlabs/larasonic-vue/pull/28) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
-3. 🗣 Commented on [#300](https://github.com/prism-php/prism/pull/300#issuecomment-2791594294) in [prism-php/prism](https://github.com/prism-php/prism)
-4. 🎉 Merged PR [#674](https://github.com/pushpak1300/pushpak1300.me/pull/674) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-5. 🎉 Merged PR [#27](https://github.com/shipfastlabs/larasonic-vue/pull/27) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
+1. 🚀 Published release [v0.0.3](https://github.com/pushpak1300/vibegit/releases/tag/v0.0.3) in [pushpak1300/vibegit](https://github.com/pushpak1300/vibegit)
+2. 🚀 Published release [v0.0.2](https://github.com/pushpak1300/vibegit/releases/tag/v0.0.2) in [pushpak1300/vibegit](https://github.com/pushpak1300/vibegit)
+3. 🎉 Merged PR [#1](https://github.com/pushpak1300/vibegit/pull/1) in [pushpak1300/vibegit](https://github.com/pushpak1300/vibegit)
+4. 💪 Opened PR [#1](https://github.com/pushpak1300/vibegit/pull/1) in [pushpak1300/vibegit](https://github.com/pushpak1300/vibegit)
+5. 🚀 Published release [v0.0.1](https://github.com/pushpak1300/vibegit/releases/tag/v0.0.1) in [pushpak1300/vibegit](https://github.com/pushpak1300/vibegit)
 <!--END_SECTION:activity-->
