@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/shipfastlabs/larasonic-vue/issues/29#issuecomment-2834965862) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
-2. 🚀 Published release [v0.0.5](https://github.com/pushpak1300/vibegit/releases/tag/v0.0.5) in [pushpak1300/vibegit](https://github.com/pushpak1300/vibegit)
-3. 🚀 Published release [v0.0.4](https://github.com/pushpak1300/vibegit/releases/tag/v0.0.4) in [pushpak1300/vibegit](https://github.com/pushpak1300/vibegit)
-4. 🚀 Published release [v0.0.3](https://github.com/pushpak1300/vibegit/releases/tag/v0.0.3) in [pushpak1300/vibegit](https://github.com/pushpak1300/vibegit)
-5. 🚀 Published release [v0.0.2](https://github.com/pushpak1300/vibegit/releases/tag/v0.0.2) in [pushpak1300/vibegit](https://github.com/pushpak1300/vibegit)
+1. 🗣 Commented on [#250](https://github.com/prism-php/prism/issues/250#issuecomment-2837904598) in [prism-php/prism](https://github.com/prism-php/prism)
+2. 🗣 Commented on [#29](https://github.com/shipfastlabs/larasonic-vue/issues/29#issuecomment-2834965862) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
+3. 🚀 Published release [v0.0.5](https://github.com/pushpak1300/vibegit/releases/tag/v0.0.5) in [pushpak1300/vibegit](https://github.com/pushpak1300/vibegit)
+4. 🚀 Published release [v0.0.4](https://github.com/pushpak1300/vibegit/releases/tag/v0.0.4) in [pushpak1300/vibegit](https://github.com/pushpak1300/vibegit)
+5. 🚀 Published release [v0.0.3](https://github.com/pushpak1300/vibegit/releases/tag/v0.0.3) in [pushpak1300/vibegit](https://github.com/pushpak1300/vibegit)
 <!--END_SECTION:activity-->
