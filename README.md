@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#676](https://github.com/pushpak1300/pushpak1300.me/pull/676) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-2. 🎉 Merged PR [#31](https://github.com/shipfastlabs/larasonic-vue/pull/31) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
-3. 🎉 Merged PR [#30](https://github.com/shipfastlabs/larasonic-vue/pull/30) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
-4. 🗣 Commented on [#250](https://github.com/prism-php/prism/issues/250#issuecomment-2837904598) in [prism-php/prism](https://github.com/prism-php/prism)
-5. 🗣 Commented on [#29](https://github.com/shipfastlabs/larasonic-vue/issues/29#issuecomment-2834965862) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
+1. 🗣 Commented on [#344](https://github.com/prism-php/prism/pull/344#issuecomment-2849485536) in [prism-php/prism](https://github.com/prism-php/prism)
+2. 🎉 Merged PR [#676](https://github.com/pushpak1300/pushpak1300.me/pull/676) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+3. 🎉 Merged PR [#31](https://github.com/shipfastlabs/larasonic-vue/pull/31) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
+4. 🎉 Merged PR [#30](https://github.com/shipfastlabs/larasonic-vue/pull/30) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
+5. 🗣 Commented on [#250](https://github.com/prism-php/prism/issues/250#issuecomment-2837904598) in [prism-php/prism](https://github.com/prism-php/prism)
 <!--END_SECTION:activity-->
