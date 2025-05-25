@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#682](https://github.com/pushpak1300/pushpak1300.me/pull/682) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-2. 💪 Opened PR [#361](https://github.com/prism-php/prism/pull/361) in [prism-php/prism](https://github.com/prism-php/prism)
-3. 🎉 Merged PR [#4](https://github.com/shipfastlabs/larasonic-react/pull/4) in [shipfastlabs/larasonic-react](https://github.com/shipfastlabs/larasonic-react)
-4. 🗣 Commented on [#344](https://github.com/prism-php/prism/pull/344#issuecomment-2849485536) in [prism-php/prism](https://github.com/prism-php/prism)
-5. 🎉 Merged PR [#676](https://github.com/pushpak1300/pushpak1300.me/pull/676) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+1. 🗣 Commented on [#2057](https://github.com/inertiajs/inertia/issues/2057#issuecomment-2907674171) in [inertiajs/inertia](https://github.com/inertiajs/inertia)
+2. 🎉 Merged PR [#682](https://github.com/pushpak1300/pushpak1300.me/pull/682) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+3. 💪 Opened PR [#361](https://github.com/prism-php/prism/pull/361) in [prism-php/prism](https://github.com/prism-php/prism)
+4. 🎉 Merged PR [#4](https://github.com/shipfastlabs/larasonic-react/pull/4) in [shipfastlabs/larasonic-react](https://github.com/shipfastlabs/larasonic-react)
+5. 🗣 Commented on [#344](https://github.com/prism-php/prism/pull/344#issuecomment-2849485536) in [prism-php/prism](https://github.com/prism-php/prism)
 <!--END_SECTION:activity-->
