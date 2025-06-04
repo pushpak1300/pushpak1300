@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/pushpak1300/ai-chat/pull/1) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
-2. 💪 Opened PR [#146](https://github.com/laravel/vue-starter-kit/pull/146) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
-3. 💪 Opened PR [#1](https://github.com/pushpak1300/ai-chat/pull/1) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
-4. 🗣 Commented on [#2057](https://github.com/inertiajs/inertia/issues/2057#issuecomment-2907674171) in [inertiajs/inertia](https://github.com/inertiajs/inertia)
-5. 🎉 Merged PR [#682](https://github.com/pushpak1300/pushpak1300.me/pull/682) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+1. 🎉 Merged PR [#2](https://github.com/pushpak1300/ai-chat/pull/2) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
+2. 💪 Opened PR [#2](https://github.com/pushpak1300/ai-chat/pull/2) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
+3. ❌ Closed PR [#1](https://github.com/pushpak1300/ai-chat/pull/1) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
+4. 💪 Opened PR [#146](https://github.com/laravel/vue-starter-kit/pull/146) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
+5. 💪 Opened PR [#1](https://github.com/pushpak1300/ai-chat/pull/1) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
 <!--END_SECTION:activity-->
