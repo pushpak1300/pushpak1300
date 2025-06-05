@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/pushpak1300/ai-chat/pull/2) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
-2. 💪 Opened PR [#2](https://github.com/pushpak1300/ai-chat/pull/2) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
-3. ❌ Closed PR [#1](https://github.com/pushpak1300/ai-chat/pull/1) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
-4. 💪 Opened PR [#146](https://github.com/laravel/vue-starter-kit/pull/146) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
-5. 💪 Opened PR [#1](https://github.com/pushpak1300/ai-chat/pull/1) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
+1. 🗣 Commented on [#2](https://github.com/shipfastlabs/larasonic-react/issues/2#issuecomment-2940020588) in [shipfastlabs/larasonic-react](https://github.com/shipfastlabs/larasonic-react)
+2. 🎉 Merged PR [#2](https://github.com/pushpak1300/ai-chat/pull/2) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
+3. 💪 Opened PR [#2](https://github.com/pushpak1300/ai-chat/pull/2) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
+4. ❌ Closed PR [#1](https://github.com/pushpak1300/ai-chat/pull/1) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
+5. 💪 Opened PR [#146](https://github.com/laravel/vue-starter-kit/pull/146) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
 <!--END_SECTION:activity-->
