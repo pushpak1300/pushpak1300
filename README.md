@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/pushpak1300/ai-chat/pull/5) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
-2. 🎉 Merged PR [#4](https://github.com/pushpak1300/ai-chat/pull/4) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
-3. 💪 Opened PR [#395](https://github.com/prism-php/prism/pull/395) in [prism-php/prism](https://github.com/prism-php/prism)
-4. 💪 Opened PR [#4](https://github.com/pushpak1300/ai-chat/pull/4) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
-5. 🗣 Commented on [#381](https://github.com/prism-php/prism/issues/381#issuecomment-2948036417) in [prism-php/prism](https://github.com/prism-php/prism)
+1. 🎉 Merged PR [#7](https://github.com/pushpak1300/ai-chat/pull/7) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
+2. 🗣 Commented on [#6](https://github.com/pushpak1300/ai-chat/pull/6#issuecomment-2966356099) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
+3. 🎉 Merged PR [#6](https://github.com/pushpak1300/ai-chat/pull/6) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
+4. ❌ Closed PR [#5](https://github.com/pushpak1300/ai-chat/pull/5) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
+5. 🎉 Merged PR [#4](https://github.com/pushpak1300/ai-chat/pull/4) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
 <!--END_SECTION:activity-->
