@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/shipfastlabs/larasonic-vue/issues/25#issuecomment-2994227805) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
-2. 🔒 Closed issue [#25](https://github.com/shipfastlabs/larasonic-vue/issues/25) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
-3. 🔒 Closed issue [#22](https://github.com/shipfastlabs/larasonic-vue/issues/22) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
-4. 🗣 Commented on [#18](https://github.com/shipfastlabs/larasonic-vue/issues/18#issuecomment-2994226529) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
-5. 🔒 Closed issue [#18](https://github.com/shipfastlabs/larasonic-vue/issues/18) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
+1. 🗣 Commented on [#34](https://github.com/shipfastlabs/larasonic-vue/issues/34#issuecomment-2994291370) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
+2. 🔒 Closed issue [#34](https://github.com/shipfastlabs/larasonic-vue/issues/34) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
+3. 🗣 Commented on [#33](https://github.com/shipfastlabs/larasonic-vue/issues/33#issuecomment-2994291274) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
+4. 🔒 Closed issue [#33](https://github.com/shipfastlabs/larasonic-vue/issues/33) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
+5. 🗣 Commented on [#25](https://github.com/shipfastlabs/larasonic-vue/issues/25#issuecomment-2994227805) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
 <!--END_SECTION:activity-->
