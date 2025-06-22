@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/shipfastlabs/larasonic-vue/pull/32) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
-2. 💪 Opened PR [#424](https://github.com/laravel/installer/pull/424) in [laravel/installer](https://github.com/laravel/installer)
-3. 💪 Opened PR [#426](https://github.com/prism-php/prism/pull/426) in [prism-php/prism](https://github.com/prism-php/prism)
-4. 🗣 Commented on [#423](https://github.com/prism-php/prism/issues/423#issuecomment-2988392906) in [prism-php/prism](https://github.com/prism-php/prism)
-5. 🎉 Merged PR [#7](https://github.com/pushpak1300/ai-chat/pull/7) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
+1. 🗣 Commented on [#25](https://github.com/shipfastlabs/larasonic-vue/issues/25#issuecomment-2994227805) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
+2. 🔒 Closed issue [#25](https://github.com/shipfastlabs/larasonic-vue/issues/25) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
+3. 🔒 Closed issue [#22](https://github.com/shipfastlabs/larasonic-vue/issues/22) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
+4. 🗣 Commented on [#18](https://github.com/shipfastlabs/larasonic-vue/issues/18#issuecomment-2994226529) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
+5. 🔒 Closed issue [#18](https://github.com/shipfastlabs/larasonic-vue/issues/18) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
 <!--END_SECTION:activity-->
