@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/pushpak1300/prism/pull/1) in [pushpak1300/prism](https://github.com/pushpak1300/prism)
-2. 💪 Opened PR [#8](https://github.com/pushpak1300/ai-chat/pull/8) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
-3. 💪 Opened PR [#453](https://github.com/prism-php/prism/pull/453) in [prism-php/prism](https://github.com/prism-php/prism)
-4. 🗣 Commented on [#34](https://github.com/shipfastlabs/larasonic-vue/issues/34#issuecomment-2994291370) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
-5. 🔒 Closed issue [#34](https://github.com/shipfastlabs/larasonic-vue/issues/34) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
+1. 🎉 Merged PR [#1](https://github.com/pushpak1300/prism/pull/1) in [pushpak1300/prism](https://github.com/pushpak1300/prism)
+2. 💪 Opened PR [#1](https://github.com/pushpak1300/prism/pull/1) in [pushpak1300/prism](https://github.com/pushpak1300/prism)
+3. 💪 Opened PR [#8](https://github.com/pushpak1300/ai-chat/pull/8) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
+4. 💪 Opened PR [#453](https://github.com/prism-php/prism/pull/453) in [prism-php/prism](https://github.com/prism-php/prism)
+5. 🗣 Commented on [#34](https://github.com/shipfastlabs/larasonic-vue/issues/34#issuecomment-2994291370) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
 <!--END_SECTION:activity-->
