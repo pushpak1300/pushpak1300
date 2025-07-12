@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#476](https://github.com/prism-php/prism/pull/476) in [prism-php/prism](https://github.com/prism-php/prism)
-2. ❌ Reopened PR [#471](https://github.com/prism-php/prism/pull/471) in [prism-php/prism](https://github.com/prism-php/prism)
-3. ❌ Closed PR [#471](https://github.com/prism-php/prism/pull/471) in [prism-php/prism](https://github.com/prism-php/prism)
-4. 🗣 Commented on [#470](https://github.com/prism-php/prism/pull/470#issuecomment-3038998507) in [prism-php/prism](https://github.com/prism-php/prism)
-5. 💪 Opened PR [#471](https://github.com/prism-php/prism/pull/471) in [prism-php/prism](https://github.com/prism-php/prism)
+1. 🗣 Commented on [#453](https://github.com/prism-php/prism/pull/453#issuecomment-3065123472) in [prism-php/prism](https://github.com/prism-php/prism)
+2. 💪 Opened PR [#476](https://github.com/prism-php/prism/pull/476) in [prism-php/prism](https://github.com/prism-php/prism)
+3. ❌ Reopened PR [#471](https://github.com/prism-php/prism/pull/471) in [prism-php/prism](https://github.com/prism-php/prism)
+4. ❌ Closed PR [#471](https://github.com/prism-php/prism/pull/471) in [prism-php/prism](https://github.com/prism-php/prism)
+5. 🗣 Commented on [#470](https://github.com/prism-php/prism/pull/470#issuecomment-3038998507) in [prism-php/prism](https://github.com/prism-php/prism)
 <!--END_SECTION:activity-->
