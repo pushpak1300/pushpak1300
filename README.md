@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/shipfastlabs/larasonic-react/issues/5#issuecomment-3092277295) in [shipfastlabs/larasonic-react](https://github.com/shipfastlabs/larasonic-react)
-2. 💪 Opened PR [#509](https://github.com/prism-php/prism/pull/509) in [prism-php/prism](https://github.com/prism-php/prism)
-3. 💪 Opened PR [#508](https://github.com/prism-php/prism/pull/508) in [prism-php/prism](https://github.com/prism-php/prism)
-4. 🗣 Commented on [#9](https://github.com/pushpak1300/ai-chat/issues/9#issuecomment-3079385766) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
-5. 🔒 Closed issue [#9](https://github.com/pushpak1300/ai-chat/issues/9) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
+1. 🔒 Closed issue [#5](https://github.com/shipfastlabs/larasonic-react/issues/5) in [shipfastlabs/larasonic-react](https://github.com/shipfastlabs/larasonic-react)
+2. 🎉 Merged PR [#6](https://github.com/shipfastlabs/larasonic-react/pull/6) in [shipfastlabs/larasonic-react](https://github.com/shipfastlabs/larasonic-react)
+3. 🎉 Merged PR [#7](https://github.com/shipfastlabs/larasonic-react/pull/7) in [shipfastlabs/larasonic-react](https://github.com/shipfastlabs/larasonic-react)
+4. 🗣 Commented on [#5](https://github.com/shipfastlabs/larasonic-react/issues/5#issuecomment-3092277295) in [shipfastlabs/larasonic-react](https://github.com/shipfastlabs/larasonic-react)
+5. 💪 Opened PR [#509](https://github.com/prism-php/prism/pull/509) in [prism-php/prism](https://github.com/prism-php/prism)
 <!--END_SECTION:activity-->
