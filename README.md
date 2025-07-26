@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/laravel/roster/pull/4#issuecomment-3103885245) in [laravel/roster](https://github.com/laravel/roster)
-2. 🗣 Commented on [#3](https://github.com/laravel/roster/issues/3#issuecomment-3103875711) in [laravel/roster](https://github.com/laravel/roster)
-3. 💪 Opened PR [#4](https://github.com/laravel/roster/pull/4) in [laravel/roster](https://github.com/laravel/roster)
-4. 🗣 Commented on [#2](https://github.com/laravel/roster/pull/2#issuecomment-3102618593) in [laravel/roster](https://github.com/laravel/roster)
-5. 🔒 Closed issue [#5](https://github.com/shipfastlabs/larasonic-react/issues/5) in [shipfastlabs/larasonic-react](https://github.com/shipfastlabs/larasonic-react)
+1. 🗣 Commented on [#511](https://github.com/prism-php/prism/pull/511#issuecomment-3122125439) in [prism-php/prism](https://github.com/prism-php/prism)
+2. 🗣 Commented on [#4](https://github.com/laravel/roster/pull/4#issuecomment-3103885245) in [laravel/roster](https://github.com/laravel/roster)
+3. 🗣 Commented on [#3](https://github.com/laravel/roster/issues/3#issuecomment-3103875711) in [laravel/roster](https://github.com/laravel/roster)
+4. 💪 Opened PR [#4](https://github.com/laravel/roster/pull/4) in [laravel/roster](https://github.com/laravel/roster)
+5. 🗣 Commented on [#2](https://github.com/laravel/roster/pull/2#issuecomment-3102618593) in [laravel/roster](https://github.com/laravel/roster)
 <!--END_SECTION:activity-->
