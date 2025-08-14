@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/laravel/boost/pull/35) in [laravel/boost](https://github.com/laravel/boost)
-2. 🎉 Merged PR [#692](https://github.com/pushpak1300/pushpak1300.me/pull/692) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-3. 🎉 Merged PR [#35](https://github.com/shipfastlabs/larasonic-vue/pull/35) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
-4. 🗣 Commented on [#511](https://github.com/prism-php/prism/pull/511#issuecomment-3122157994) in [prism-php/prism](https://github.com/prism-php/prism)
-5. 🗣 Commented on [#511](https://github.com/prism-php/prism/pull/511#issuecomment-3122133512) in [prism-php/prism](https://github.com/prism-php/prism)
+1. 🗣 Commented on [#44](https://github.com/laravel/boost/issues/44#issuecomment-3184346732) in [laravel/boost](https://github.com/laravel/boost)
+2. 🗣 Commented on [#44](https://github.com/laravel/boost/issues/44#issuecomment-3184329266) in [laravel/boost](https://github.com/laravel/boost)
+3. 💪 Opened PR [#35](https://github.com/laravel/boost/pull/35) in [laravel/boost](https://github.com/laravel/boost)
+4. 🎉 Merged PR [#692](https://github.com/pushpak1300/pushpak1300.me/pull/692) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+5. 🎉 Merged PR [#35](https://github.com/shipfastlabs/larasonic-vue/pull/35) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
 <!--END_SECTION:activity-->
