@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/laravel/boost/issues/44#issuecomment-3184346732) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#44](https://github.com/laravel/boost/issues/44#issuecomment-3184329266) in [laravel/boost](https://github.com/laravel/boost)
-3. 💪 Opened PR [#35](https://github.com/laravel/boost/pull/35) in [laravel/boost](https://github.com/laravel/boost)
-4. 🎉 Merged PR [#692](https://github.com/pushpak1300/pushpak1300.me/pull/692) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-5. 🎉 Merged PR [#35](https://github.com/shipfastlabs/larasonic-vue/pull/35) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
+1. 🔒 Closed issue [#38](https://github.com/laravel/boost/issues/38) in [laravel/boost](https://github.com/laravel/boost)
+2. 🗣 Commented on [#44](https://github.com/laravel/boost/issues/44#issuecomment-3184422926) in [laravel/boost](https://github.com/laravel/boost)
+3. 🗣 Commented on [#44](https://github.com/laravel/boost/issues/44#issuecomment-3184346732) in [laravel/boost](https://github.com/laravel/boost)
+4. 🗣 Commented on [#44](https://github.com/laravel/boost/issues/44#issuecomment-3184329266) in [laravel/boost](https://github.com/laravel/boost)
+5. 💪 Opened PR [#35](https://github.com/laravel/boost/pull/35) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
