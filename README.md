@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#159](https://github.com/laravel/react-starter-kit/pull/159) in [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit)
-2. 🗣 Commented on [#156](https://github.com/laravel/react-starter-kit/pull/156#issuecomment-3247611530) in [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit)
-3. 🔓 Reopened issue [#139](https://github.com/laravel/boost/issues/139) in [laravel/boost](https://github.com/laravel/boost)
-4. 🗣 Commented on [#139](https://github.com/laravel/boost/issues/139#issuecomment-3239910116) in [laravel/boost](https://github.com/laravel/boost)
-5. 🔒 Closed issue [#139](https://github.com/laravel/boost/issues/139) in [laravel/boost](https://github.com/laravel/boost)
+1. ❌ Closed PR [#8](https://github.com/pushpak1300/ai-chat/pull/8) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
+2. ❌ Closed PR [#1608](https://github.com/nuxt/nuxt.com/pull/1608) in [nuxt/nuxt.com](https://github.com/nuxt/nuxt.com)
+3. 💪 Opened PR [#159](https://github.com/laravel/react-starter-kit/pull/159) in [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit)
+4. 🗣 Commented on [#156](https://github.com/laravel/react-starter-kit/pull/156#issuecomment-3247611530) in [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit)
+5. 🔓 Reopened issue [#139](https://github.com/laravel/boost/issues/139) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
