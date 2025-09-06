@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#188](https://github.com/laravel/vue-starter-kit/pull/188) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
-2. 💪 Opened PR [#160](https://github.com/laravel/react-starter-kit/pull/160) in [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit)
-3. ❌ Closed PR [#159](https://github.com/laravel/react-starter-kit/pull/159) in [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit)
-4. 🗣 Commented on [#159](https://github.com/laravel/react-starter-kit/pull/159#issuecomment-3258506035) in [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit)
-5. ❌ Closed PR [#8](https://github.com/pushpak1300/ai-chat/pull/8) in [pushpak1300/ai-chat](https://github.com/pushpak1300/ai-chat)
+1. ❌ Closed PR [#158](https://github.com/laravel/react-starter-kit/pull/158) in [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit)
+2. 🗣 Commented on [#158](https://github.com/laravel/react-starter-kit/pull/158#issuecomment-3259400816) in [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit)
+3. 💪 Opened PR [#188](https://github.com/laravel/vue-starter-kit/pull/188) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
+4. 💪 Opened PR [#160](https://github.com/laravel/react-starter-kit/pull/160) in [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit)
+5. ❌ Closed PR [#159](https://github.com/laravel/react-starter-kit/pull/159) in [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit)
 <!--END_SECTION:activity-->
