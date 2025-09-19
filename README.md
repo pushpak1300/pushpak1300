@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/shipfastlabs/larasonic-react/pull/8#issuecomment-3310780535) in [shipfastlabs/larasonic-react](https://github.com/shipfastlabs/larasonic-react)
-2. 🎉 Merged PR [#8](https://github.com/shipfastlabs/larasonic-react/pull/8) in [shipfastlabs/larasonic-react](https://github.com/shipfastlabs/larasonic-react)
-3. 🚀 Published release [v1.1.5 - Codex guidelines & Vite CSP nonce](https://github.com/laravel/boost/releases/tag/v1.1.5) in [laravel/boost](https://github.com/laravel/boost)
-4. 🎉 Merged PR [#262](https://github.com/laravel/boost/pull/262) in [laravel/boost](https://github.com/laravel/boost)
-5. 🗣 Commented on [#264](https://github.com/laravel/boost/pull/264#issuecomment-3305674332) in [laravel/boost](https://github.com/laravel/boost)
+1. 🗣 Commented on [#191](https://github.com/laravel/vue-starter-kit/pull/191#issuecomment-3312066635) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
+2. 🗣 Commented on [#8](https://github.com/shipfastlabs/larasonic-react/pull/8#issuecomment-3310780535) in [shipfastlabs/larasonic-react](https://github.com/shipfastlabs/larasonic-react)
+3. 🎉 Merged PR [#8](https://github.com/shipfastlabs/larasonic-react/pull/8) in [shipfastlabs/larasonic-react](https://github.com/shipfastlabs/larasonic-react)
+4. 🚀 Published release [v1.1.5 - Codex guidelines & Vite CSP nonce](https://github.com/laravel/boost/releases/tag/v1.1.5) in [laravel/boost](https://github.com/laravel/boost)
+5. 🎉 Merged PR [#262](https://github.com/laravel/boost/pull/262) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
