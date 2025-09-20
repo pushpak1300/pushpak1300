@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/laravel/vue-starter-kit/pull/191#issuecomment-3312066635) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
-2. 🗣 Commented on [#8](https://github.com/shipfastlabs/larasonic-react/pull/8#issuecomment-3310780535) in [shipfastlabs/larasonic-react](https://github.com/shipfastlabs/larasonic-react)
-3. 🎉 Merged PR [#8](https://github.com/shipfastlabs/larasonic-react/pull/8) in [shipfastlabs/larasonic-react](https://github.com/shipfastlabs/larasonic-react)
-4. 🚀 Published release [v1.1.5 - Codex guidelines & Vite CSP nonce](https://github.com/laravel/boost/releases/tag/v1.1.5) in [laravel/boost](https://github.com/laravel/boost)
-5. 🎉 Merged PR [#262](https://github.com/laravel/boost/pull/262) in [laravel/boost](https://github.com/laravel/boost)
+1. ❌ Closed PR [#1](https://github.com/pushpak1300/starter-kit-browser-tests/pull/1) in [pushpak1300/starter-kit-browser-tests](https://github.com/pushpak1300/starter-kit-browser-tests)
+2. 💪 Opened PR [#1](https://github.com/pushpak1300/starter-kit-browser-tests/pull/1) in [pushpak1300/starter-kit-browser-tests](https://github.com/pushpak1300/starter-kit-browser-tests)
+3. 🔒 Closed issue [#268](https://github.com/laravel/boost/issues/268) in [laravel/boost](https://github.com/laravel/boost)
+4. 💪 Opened PR [#2](https://github.com/laravel-labs/starter-kit-browser-tests/pull/2) in [laravel-labs/starter-kit-browser-tests](https://github.com/laravel-labs/starter-kit-browser-tests)
+5. 🗣 Commented on [#191](https://github.com/laravel/vue-starter-kit/pull/191#issuecomment-3312066635) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
 <!--END_SECTION:activity-->
