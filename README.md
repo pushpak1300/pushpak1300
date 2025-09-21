@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/laravel-labs/starter-kit-browser-tests/pull/4) in [laravel-labs/starter-kit-browser-tests](https://github.com/laravel-labs/starter-kit-browser-tests)
-2. 💪 Opened PR [#3](https://github.com/laravel-labs/starter-kit-browser-tests/pull/3) in [laravel-labs/starter-kit-browser-tests](https://github.com/laravel-labs/starter-kit-browser-tests)
-3. ❌ Closed PR [#1](https://github.com/pushpak1300/starter-kit-browser-tests/pull/1) in [pushpak1300/starter-kit-browser-tests](https://github.com/pushpak1300/starter-kit-browser-tests)
-4. 💪 Opened PR [#1](https://github.com/pushpak1300/starter-kit-browser-tests/pull/1) in [pushpak1300/starter-kit-browser-tests](https://github.com/pushpak1300/starter-kit-browser-tests)
-5. 🔒 Closed issue [#268](https://github.com/laravel/boost/issues/268) in [laravel/boost](https://github.com/laravel/boost)
+1. ❌ Closed PR [#257](https://github.com/laravel/boost/pull/257) in [laravel/boost](https://github.com/laravel/boost)
+2. 💪 Opened PR [#4](https://github.com/laravel-labs/starter-kit-browser-tests/pull/4) in [laravel-labs/starter-kit-browser-tests](https://github.com/laravel-labs/starter-kit-browser-tests)
+3. 💪 Opened PR [#3](https://github.com/laravel-labs/starter-kit-browser-tests/pull/3) in [laravel-labs/starter-kit-browser-tests](https://github.com/laravel-labs/starter-kit-browser-tests)
+4. ❌ Closed PR [#1](https://github.com/pushpak1300/starter-kit-browser-tests/pull/1) in [pushpak1300/starter-kit-browser-tests](https://github.com/pushpak1300/starter-kit-browser-tests)
+5. 💪 Opened PR [#1](https://github.com/pushpak1300/starter-kit-browser-tests/pull/1) in [pushpak1300/starter-kit-browser-tests](https://github.com/pushpak1300/starter-kit-browser-tests)
 <!--END_SECTION:activity-->
