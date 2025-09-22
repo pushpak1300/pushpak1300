@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#269](https://github.com/laravel/boost/pull/269) in [laravel/boost](https://github.com/laravel/boost)
-2. 💪 Opened PR [#271](https://github.com/laravel/boost/pull/271) in [laravel/boost](https://github.com/laravel/boost)
-3. 🎉 Merged PR [#270](https://github.com/laravel/boost/pull/270) in [laravel/boost](https://github.com/laravel/boost)
-4. 💪 Opened PR [#270](https://github.com/laravel/boost/pull/270) in [laravel/boost](https://github.com/laravel/boost)
-5. 💪 Opened PR [#269](https://github.com/laravel/boost/pull/269) in [laravel/boost](https://github.com/laravel/boost)
+1. 🗣 Commented on [#238](https://github.com/laravel/boost/issues/238#issuecomment-3318392983) in [laravel/boost](https://github.com/laravel/boost)
+2. 🔒 Closed issue [#238](https://github.com/laravel/boost/issues/238) in [laravel/boost](https://github.com/laravel/boost)
+3. 🗣 Commented on [#245](https://github.com/laravel/boost/issues/245#issuecomment-3318390828) in [laravel/boost](https://github.com/laravel/boost)
+4. 🔒 Closed issue [#245](https://github.com/laravel/boost/issues/245) in [laravel/boost](https://github.com/laravel/boost)
+5. ❌ Closed PR [#193](https://github.com/laravel/boost/pull/193) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
