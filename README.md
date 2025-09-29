@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/pushpak1300/starter-kit-browser-tests/pull/4) in [pushpak1300/starter-kit-browser-tests](https://github.com/pushpak1300/starter-kit-browser-tests)
-2. 💪 Opened PR [#4](https://github.com/pushpak1300/starter-kit-browser-tests/pull/4) in [pushpak1300/starter-kit-browser-tests](https://github.com/pushpak1300/starter-kit-browser-tests)
-3. 🎉 Merged PR [#3](https://github.com/pushpak1300/starter-kit-browser-tests/pull/3) in [pushpak1300/starter-kit-browser-tests](https://github.com/pushpak1300/starter-kit-browser-tests)
-4. 💪 Opened PR [#3](https://github.com/pushpak1300/starter-kit-browser-tests/pull/3) in [pushpak1300/starter-kit-browser-tests](https://github.com/pushpak1300/starter-kit-browser-tests)
-5. ❌ Closed PR [#1](https://github.com/shipfastlabs/modern-livewire-starter-kit/pull/1) in [shipfastlabs/modern-livewire-starter-kit](https://github.com/shipfastlabs/modern-livewire-starter-kit)
+1. 💪 Opened PR [#280](https://github.com/laravel/boost/pull/280) in [laravel/boost](https://github.com/laravel/boost)
+2. 🎉 Merged PR [#4](https://github.com/pushpak1300/starter-kit-browser-tests/pull/4) in [pushpak1300/starter-kit-browser-tests](https://github.com/pushpak1300/starter-kit-browser-tests)
+3. 💪 Opened PR [#4](https://github.com/pushpak1300/starter-kit-browser-tests/pull/4) in [pushpak1300/starter-kit-browser-tests](https://github.com/pushpak1300/starter-kit-browser-tests)
+4. 🎉 Merged PR [#3](https://github.com/pushpak1300/starter-kit-browser-tests/pull/3) in [pushpak1300/starter-kit-browser-tests](https://github.com/pushpak1300/starter-kit-browser-tests)
+5. 💪 Opened PR [#3](https://github.com/pushpak1300/starter-kit-browser-tests/pull/3) in [pushpak1300/starter-kit-browser-tests](https://github.com/pushpak1300/starter-kit-browser-tests)
 <!--END_SECTION:activity-->
