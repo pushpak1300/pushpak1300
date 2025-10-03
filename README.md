@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#201](https://github.com/laravel/vue-starter-kit/pull/201) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
-2. 🗣 Commented on [#284](https://github.com/laravel/boost/pull/284#issuecomment-3356210266) in [laravel/boost](https://github.com/laravel/boost)
-3. 🗣 Commented on [#285](https://github.com/laravel/boost/issues/285#issuecomment-3356161340) in [laravel/boost](https://github.com/laravel/boost)
-4. 🗣 Commented on [#278](https://github.com/laravel/boost/issues/278#issuecomment-3348005610) in [laravel/boost](https://github.com/laravel/boost)
-5. 💪 Opened PR [#280](https://github.com/laravel/boost/pull/280) in [laravel/boost](https://github.com/laravel/boost)
+1. 💪 Opened PR [#202](https://github.com/laravel/vue-starter-kit/pull/202) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
+2. 💪 Opened PR [#201](https://github.com/laravel/vue-starter-kit/pull/201) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
+3. 🗣 Commented on [#284](https://github.com/laravel/boost/pull/284#issuecomment-3356210266) in [laravel/boost](https://github.com/laravel/boost)
+4. 🗣 Commented on [#285](https://github.com/laravel/boost/issues/285#issuecomment-3356161340) in [laravel/boost](https://github.com/laravel/boost)
+5. 🗣 Commented on [#278](https://github.com/laravel/boost/issues/278#issuecomment-3348005610) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
