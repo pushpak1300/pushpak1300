@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/laravel-labs/starter-kit-browser-tests/pull/5) in [laravel-labs/starter-kit-browser-tests](https://github.com/laravel-labs/starter-kit-browser-tests)
-2. 💪 Opened PR [#125](https://github.com/laravel/livewire-starter-kit/pull/125) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
-3. 💪 Opened PR [#124](https://github.com/laravel/livewire-starter-kit/pull/124) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
-4. 💪 Opened PR [#177](https://github.com/laravel/react-starter-kit/pull/177) in [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit)
-5. 💪 Opened PR [#202](https://github.com/laravel/vue-starter-kit/pull/202) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
+1. 🗣 Commented on [#210](https://github.com/laravel/boost/issues/210#issuecomment-3368738202) in [laravel/boost](https://github.com/laravel/boost)
+2. 🗣 Commented on [#288](https://github.com/laravel/boost/pull/288#issuecomment-3368737532) in [laravel/boost](https://github.com/laravel/boost)
+3. 💪 Opened PR [#5](https://github.com/laravel-labs/starter-kit-browser-tests/pull/5) in [laravel-labs/starter-kit-browser-tests](https://github.com/laravel-labs/starter-kit-browser-tests)
+4. 💪 Opened PR [#125](https://github.com/laravel/livewire-starter-kit/pull/125) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+5. 💪 Opened PR [#124](https://github.com/laravel/livewire-starter-kit/pull/124) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
 <!--END_SECTION:activity-->
