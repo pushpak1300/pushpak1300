@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#126](https://github.com/laravel/livewire-starter-kit/pull/126) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
-2. 💪 Opened PR [#180](https://github.com/laravel/react-starter-kit/pull/180) in [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit)
-3. 💪 Opened PR [#204](https://github.com/laravel/vue-starter-kit/pull/204) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
-4. 🗣 Commented on [#210](https://github.com/laravel/boost/issues/210#issuecomment-3368738202) in [laravel/boost](https://github.com/laravel/boost)
-5. 🗣 Commented on [#288](https://github.com/laravel/boost/pull/288#issuecomment-3368737532) in [laravel/boost](https://github.com/laravel/boost)
+1. 💪 Opened PR [#127](https://github.com/laravel/livewire-starter-kit/pull/127) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+2. 💪 Opened PR [#126](https://github.com/laravel/livewire-starter-kit/pull/126) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+3. 💪 Opened PR [#180](https://github.com/laravel/react-starter-kit/pull/180) in [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit)
+4. 💪 Opened PR [#204](https://github.com/laravel/vue-starter-kit/pull/204) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
+5. 🗣 Commented on [#210](https://github.com/laravel/boost/issues/210#issuecomment-3368738202) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
