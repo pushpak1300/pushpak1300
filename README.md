@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#208](https://github.com/laravel/vue-starter-kit/pull/208) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
-2. 💪 Opened PR [#207](https://github.com/laravel/vue-starter-kit/pull/207) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
-3. 💪 Opened PR [#206](https://github.com/laravel/vue-starter-kit/pull/206) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
-4. 💪 Opened PR [#24](https://github.com/laravel/roster/pull/24) in [laravel/roster](https://github.com/laravel/roster)
-5. 💪 Opened PR [#293](https://github.com/laravel/boost/pull/293) in [laravel/boost](https://github.com/laravel/boost)
+1. 💪 Opened PR [#182](https://github.com/laravel/react-starter-kit/pull/182) in [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit)
+2. 💪 Opened PR [#209](https://github.com/laravel/vue-starter-kit/pull/209) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
+3. 🗣 Commented on [#295](https://github.com/laravel/boost/issues/295#issuecomment-3393981405) in [laravel/boost](https://github.com/laravel/boost)
+4. 💪 Opened PR [#208](https://github.com/laravel/vue-starter-kit/pull/208) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
+5. 💪 Opened PR [#207](https://github.com/laravel/vue-starter-kit/pull/207) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
 <!--END_SECTION:activity-->
