@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#40](https://github.com/shipfastlabs/larasonic-vue/issues/40) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
-2. 🗣 Commented on [#41](https://github.com/shipfastlabs/larasonic-vue/pull/41#issuecomment-3418697123) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
-3. 💪 Opened PR [#614](undefined) in [laravel/fortify](https://github.com/laravel/fortify)
-4. 💪 Opened PR [#137](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
-5. 💪 Opened PR [#136](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+1. 💪 Opened PR [#675](undefined) in [prism-php/prism](https://github.com/prism-php/prism)
+2. 🔒 Closed issue [#40](https://github.com/shipfastlabs/larasonic-vue/issues/40) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
+3. 🗣 Commented on [#41](https://github.com/shipfastlabs/larasonic-vue/pull/41#issuecomment-3418697123) in [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue)
+4. 💪 Opened PR [#614](undefined) in [laravel/fortify](https://github.com/laravel/fortify)
+5. 💪 Opened PR [#137](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
 <!--END_SECTION:activity-->
