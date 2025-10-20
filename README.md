@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](undefined) in [pushpak1300/vue-starter-kit](https://github.com/pushpak1300/vue-starter-kit)
-2. ❌ Closed PR [#2](undefined) in [pushpak1300/vue-starter-kit](https://github.com/pushpak1300/vue-starter-kit)
-3. 🗣 Commented on [#145](https://github.com/laravel/boost/pull/145#issuecomment-3421470244) in [laravel/boost](https://github.com/laravel/boost)
-4. 🚀 Published release [v0.2.9 - detect node package manger ](https://github.com/laravel/roster/releases/tag/v0.2.9) in [laravel/roster](https://github.com/laravel/roster)
-5. 🗣 Commented on [#145](https://github.com/laravel/boost/pull/145#issuecomment-3421420370) in [laravel/boost](https://github.com/laravel/boost)
+1. 💪 Opened PR [#10872](undefined) in [laravel/docs](https://github.com/laravel/docs)
+2. ❌ Closed PR [#1](undefined) in [pushpak1300/vue-starter-kit](https://github.com/pushpak1300/vue-starter-kit)
+3. ❌ Closed PR [#2](undefined) in [pushpak1300/vue-starter-kit](https://github.com/pushpak1300/vue-starter-kit)
+4. 🗣 Commented on [#145](https://github.com/laravel/boost/pull/145#issuecomment-3421470244) in [laravel/boost](https://github.com/laravel/boost)
+5. 🚀 Published release [v0.2.9 - detect node package manger ](https://github.com/laravel/roster/releases/tag/v0.2.9) in [laravel/roster](https://github.com/laravel/roster)
 <!--END_SECTION:activity-->
