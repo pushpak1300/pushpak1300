@@ -27,8 +27,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#295](https://github.com/laravel/boost/issues/295#issuecomment-3427276054) in [laravel/boost](https://github.com/laravel/boost)
-2. 🚀 Published release [v0.2.9 - detect node package manger ](https://github.com/laravel/roster/releases/tag/v0.2.9) in [laravel/roster](https://github.com/laravel/roster)
-3. 🗣 Commented on [#305](https://github.com/laravel/boost/issues/305#issuecomment-3420358796) in [laravel/boost](https://github.com/laravel/boost)
-4. 🗣 Commented on [#256](https://github.com/laravel/boost/issues/256#issuecomment-3419758179) in [laravel/boost](https://github.com/laravel/boost)
-5. 🔒 Closed issue [#256](https://github.com/laravel/boost/issues/256) in [laravel/boost](https://github.com/laravel/boost)
+2. 💪 Opened PR [#10872](undefined) in [laravel/docs](https://github.com/laravel/docs)
+3. ❌ Closed PR [#1](undefined) in [pushpak1300/vue-starter-kit](https://github.com/pushpak1300/vue-starter-kit)
+4. ❌ Closed PR [#2](undefined) in [pushpak1300/vue-starter-kit](https://github.com/pushpak1300/vue-starter-kit)
+5. 🗣 Commented on [#145](https://github.com/laravel/boost/pull/145#issuecomment-3421470244) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
