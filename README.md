@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v12.10.0](https://github.com/pushpak1300/laravel/releases/tag/v12.10.0) in [pushpak1300/laravel](https://github.com/pushpak1300/laravel)
-2. ❌ Closed PR [#216](undefined) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
-3. ❌ Closed PR [#215](undefined) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
-4.  Assigned issue [#316](https://github.com/laravel/boost/issues/316) in [laravel/boost](https://github.com/laravel/boost)
-5.  Labeled issue [#316](https://github.com/laravel/boost/issues/316) in [laravel/boost](https://github.com/laravel/boost)
+1. 🚀 Published release [v12.11.00](https://github.com/pushpak1300/laravel/releases/tag/v12.11.00) in [pushpak1300/laravel](https://github.com/pushpak1300/laravel)
+2. 🚀 Published release [v12.9.0](https://github.com/pushpak1300/laravel/releases/tag/v12.9.0) in [pushpak1300/laravel](https://github.com/pushpak1300/laravel)
+3. ❌ Closed PR [#216](undefined) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
+4. ❌ Closed PR [#215](undefined) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
+5.  Assigned issue [#316](https://github.com/laravel/boost/issues/316) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
