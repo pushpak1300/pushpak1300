@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v12.11.00](https://github.com/pushpak1300/laravel/releases/tag/v12.11.00) in [pushpak1300/laravel](https://github.com/pushpak1300/laravel)
-2. 🚀 Published release [v12.9.0](https://github.com/pushpak1300/laravel/releases/tag/v12.9.0) in [pushpak1300/laravel](https://github.com/pushpak1300/laravel)
-3. ❌ Closed PR [#216](undefined) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
-4. ❌ Closed PR [#215](undefined) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
-5.  Assigned issue [#316](https://github.com/laravel/boost/issues/316) in [laravel/boost](https://github.com/laravel/boost)
+1. ❌ Closed PR [#3](undefined) in [pushpak1300/vue-starter-kit](https://github.com/pushpak1300/vue-starter-kit)
+2. 💪 Opened PR [#1](undefined) in [pushpak1300/livewire-starter-kit](https://github.com/pushpak1300/livewire-starter-kit)
+3. 💪 Opened PR [#2](undefined) in [pushpak1300/react-starter-kit](https://github.com/pushpak1300/react-starter-kit)
+4. 💪 Opened PR [#218](undefined) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
+5. ❌ Closed PR [#2](undefined) in [pushpak1300/vue-starter-kit](https://github.com/pushpak1300/vue-starter-kit)
 <!--END_SECTION:activity-->
