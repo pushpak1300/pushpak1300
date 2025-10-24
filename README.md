@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#316](https://github.com/laravel/boost/issues/316) in [laravel/boost](https://github.com/laravel/boost)
-2.  Labeled issue [#316](https://github.com/laravel/boost/issues/316) in [laravel/boost](https://github.com/laravel/boost)
-3. 💪 Opened PR [#216](undefined) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
-4. 💪 Opened PR [#2](undefined) in [pushpak1300/vue-starter-kit](https://github.com/pushpak1300/vue-starter-kit)
-5. 💪 Opened PR [#215](undefined) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
+1. ❌ Closed PR [#216](undefined) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
+2. ❌ Closed PR [#215](undefined) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
+3.  Assigned issue [#316](https://github.com/laravel/boost/issues/316) in [laravel/boost](https://github.com/laravel/boost)
+4.  Labeled issue [#316](https://github.com/laravel/boost/issues/316) in [laravel/boost](https://github.com/laravel/boost)
+5. 💪 Opened PR [#216](undefined) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
 <!--END_SECTION:activity-->
