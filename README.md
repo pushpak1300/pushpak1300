@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](undefined) in [pushpak1300/vue-starter-kit](https://github.com/pushpak1300/vue-starter-kit)
-2. 💪 Opened PR [#1](undefined) in [pushpak1300/livewire-starter-kit](https://github.com/pushpak1300/livewire-starter-kit)
-3. 💪 Opened PR [#2](undefined) in [pushpak1300/react-starter-kit](https://github.com/pushpak1300/react-starter-kit)
-4. 💪 Opened PR [#218](undefined) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
-5. ❌ Closed PR [#2](undefined) in [pushpak1300/vue-starter-kit](https://github.com/pushpak1300/vue-starter-kit)
+1. ❌ Closed PR [#3](undefined) in [pushpak1300/livewire-starter-kit](https://github.com/pushpak1300/livewire-starter-kit)
+2. 💪 Opened PR [#142](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+3. 💪 Opened PR [#3](undefined) in [pushpak1300/livewire-starter-kit](https://github.com/pushpak1300/livewire-starter-kit)
+4. ❌ Closed PR [#2](undefined) in [pushpak1300/livewire-starter-kit](https://github.com/pushpak1300/livewire-starter-kit)
+5. 💪 Opened PR [#141](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
 <!--END_SECTION:activity-->
