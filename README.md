@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](undefined) in [pushpak1300/blank-livewire-starter-kit](https://github.com/pushpak1300/blank-livewire-starter-kit)
-2. 💪 Opened PR [#1](undefined) in [laravel/blank-livewire-starter-kit](https://github.com/laravel/blank-livewire-starter-kit)
-3. ❌ Closed PR [#1](undefined) in [pushpak1300/blank-vue-starter-kit](https://github.com/pushpak1300/blank-vue-starter-kit)
-4. 💪 Opened PR [#2](undefined) in [laravel/blank-vue-starter-kit](https://github.com/laravel/blank-vue-starter-kit)
-5. ❌ Closed PR [#1](undefined) in [pushpak1300/blank-react-starter-kit](https://github.com/pushpak1300/blank-react-starter-kit)
+1. 🚀 Published release [v1.5.1](https://github.com/laravel/boost/releases/tag/v1.5.1) in [laravel/boost](https://github.com/laravel/boost)
+2. 🗣 Commented on [#318](https://github.com/laravel/boost/pull/318#issuecomment-3445517684) in [laravel/boost](https://github.com/laravel/boost)
+3. ❌ Closed PR [#1](undefined) in [pushpak1300/blank-livewire-starter-kit](https://github.com/pushpak1300/blank-livewire-starter-kit)
+4. 💪 Opened PR [#1](undefined) in [laravel/blank-livewire-starter-kit](https://github.com/laravel/blank-livewire-starter-kit)
+5. ❌ Closed PR [#1](undefined) in [pushpak1300/blank-vue-starter-kit](https://github.com/pushpak1300/blank-vue-starter-kit)
 <!--END_SECTION:activity-->
