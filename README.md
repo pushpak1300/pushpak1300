@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#65](undefined) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#65](https://github.com/laravel/boost/pull/65#issuecomment-3477981821) in [laravel/boost](https://github.com/laravel/boost)
-3. 🗣 Commented on [#330](https://github.com/laravel/boost/pull/330#issuecomment-3477980815) in [laravel/boost](https://github.com/laravel/boost)
-4. ❌ Closed PR [#330](undefined) in [laravel/boost](https://github.com/laravel/boost)
-5. 💪 Opened PR [#329](undefined) in [laravel/boost](https://github.com/laravel/boost)
+1. 💪 Opened PR [#201](undefined) in [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit)
+2. 💪 Opened PR [#224](undefined) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
+3. ❌ Closed PR [#65](undefined) in [laravel/boost](https://github.com/laravel/boost)
+4. 🗣 Commented on [#65](https://github.com/laravel/boost/pull/65#issuecomment-3477981821) in [laravel/boost](https://github.com/laravel/boost)
+5. 🗣 Commented on [#330](https://github.com/laravel/boost/pull/330#issuecomment-3477980815) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
