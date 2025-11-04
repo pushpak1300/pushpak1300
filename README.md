@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [laravel/blank-livewire-starter-kit](https://github.com/laravel/blank-livewire-starter-kit)
-2. 💪 Opened PR [#3](undefined) in [laravel/blank-vue-starter-kit](https://github.com/laravel/blank-vue-starter-kit)
-3. 💪 Opened PR [#4](undefined) in [laravel/blank-react-starter-kit](https://github.com/laravel/blank-react-starter-kit)
-4. 💪 Opened PR [#146](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
-5. 💪 Opened PR [#145](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+1. 🗣 Commented on [#337](https://github.com/laravel/boost/pull/337#issuecomment-3487165112) in [laravel/boost](https://github.com/laravel/boost)
+2. ❌ Closed PR [#337](undefined) in [laravel/boost](https://github.com/laravel/boost)
+3. 💪 Opened PR [#2](undefined) in [laravel/blank-livewire-starter-kit](https://github.com/laravel/blank-livewire-starter-kit)
+4. 💪 Opened PR [#3](undefined) in [laravel/blank-vue-starter-kit](https://github.com/laravel/blank-vue-starter-kit)
+5. 💪 Opened PR [#4](undefined) in [laravel/blank-react-starter-kit](https://github.com/laravel/blank-react-starter-kit)
 <!--END_SECTION:activity-->
