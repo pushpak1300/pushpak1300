@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#336](https://github.com/laravel/boost/issues/336#issuecomment-3486697084) in [laravel/boost](https://github.com/laravel/boost)
-2. 🚀 Published release [v1.7.0](https://github.com/laravel/boost/releases/tag/v1.7.0) in [laravel/boost](https://github.com/laravel/boost)
-3. 🔒 Closed issue [#778](https://github.com/laravel/sail/issues/778) in [laravel/sail](https://github.com/laravel/sail)
-4. 🔒 Closed issue [#786](https://github.com/laravel/sail/issues/786) in [laravel/sail](https://github.com/laravel/sail)
-5. 🔒 Closed issue [#804](https://github.com/laravel/sail/issues/804) in [laravel/sail](https://github.com/laravel/sail)
+1. 💪 Opened PR [#2](undefined) in [laravel/blank-livewire-starter-kit](https://github.com/laravel/blank-livewire-starter-kit)
+2. 💪 Opened PR [#3](undefined) in [laravel/blank-vue-starter-kit](https://github.com/laravel/blank-vue-starter-kit)
+3. 💪 Opened PR [#4](undefined) in [laravel/blank-react-starter-kit](https://github.com/laravel/blank-react-starter-kit)
+4. 💪 Opened PR [#146](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+5. 💪 Opened PR [#145](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
 <!--END_SECTION:activity-->
