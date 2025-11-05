@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Unassigned issue [#161](https://github.com/laravel/boost/issues/161) in [laravel/boost](https://github.com/laravel/boost)
-2.  Assigned issue [#161](https://github.com/laravel/boost/issues/161) in [laravel/boost](https://github.com/laravel/boost)
-3. 🗣 Commented on [#209](https://github.com/laravel/boost/issues/209#issuecomment-3491521752) in [laravel/boost](https://github.com/laravel/boost)
-4. 🔒 Closed issue [#209](https://github.com/laravel/boost/issues/209) in [laravel/boost](https://github.com/laravel/boost)
-5. 🗣 Commented on [#337](https://github.com/laravel/boost/pull/337#issuecomment-3487165112) in [laravel/boost](https://github.com/laravel/boost)
+1. 🗣 Commented on [#233](https://github.com/laravel/boost/issues/233#issuecomment-3491671518) in [laravel/boost](https://github.com/laravel/boost)
+2. 🔒 Closed issue [#233](https://github.com/laravel/boost/issues/233) in [laravel/boost](https://github.com/laravel/boost)
+3.  Unassigned issue [#161](https://github.com/laravel/boost/issues/161) in [laravel/boost](https://github.com/laravel/boost)
+4.  Assigned issue [#161](https://github.com/laravel/boost/issues/161) in [laravel/boost](https://github.com/laravel/boost)
+5. 🗣 Commented on [#209](https://github.com/laravel/boost/issues/209#issuecomment-3491521752) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
