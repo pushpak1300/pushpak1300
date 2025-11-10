@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#306](undefined) in [laravel/boost](https://github.com/laravel/boost)
-2. 🔒 Closed issue [#54](https://github.com/laravel/mcp/issues/54) in [laravel/mcp](https://github.com/laravel/mcp)
-3. 🔒 Closed issue [#350](https://github.com/laravel/boost/issues/350) in [laravel/boost](https://github.com/laravel/boost)
-4. 🗣 Commented on [#350](https://github.com/laravel/boost/issues/350#issuecomment-3511839623) in [laravel/boost](https://github.com/laravel/boost)
-5. 🗣 Commented on [#348](https://github.com/laravel/boost/pull/348#issuecomment-3510500365) in [laravel/boost](https://github.com/laravel/boost)
+1. 🗣 Commented on [#18454](https://github.com/filamentphp/filament/pull/18454#issuecomment-3512116092) in [filamentphp/filament](https://github.com/filamentphp/filament)
+2. ❌ Labeled PR [#306](undefined) in [laravel/boost](https://github.com/laravel/boost)
+3. 🔒 Closed issue [#54](https://github.com/laravel/mcp/issues/54) in [laravel/mcp](https://github.com/laravel/mcp)
+4. 🔒 Closed issue [#350](https://github.com/laravel/boost/issues/350) in [laravel/boost](https://github.com/laravel/boost)
+5. 🗣 Commented on [#350](https://github.com/laravel/boost/issues/350#issuecomment-3511839623) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
