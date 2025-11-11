@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#101](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🚀 Published release [v1.8.0](https://github.com/laravel/boost/releases/tag/v1.8.0) in [laravel/boost](https://github.com/laravel/boost)
-3. 🗣 Commented on [#253](https://github.com/laravel/boost/issues/253#issuecomment-3514915365) in [laravel/boost](https://github.com/laravel/boost)
-4. 🗣 Commented on [#18454](https://github.com/filamentphp/filament/pull/18454#issuecomment-3512116092) in [filamentphp/filament](https://github.com/filamentphp/filament)
-5. ❌ Labeled PR [#306](undefined) in [laravel/boost](https://github.com/laravel/boost)
+1. ❌ Assigned PR [#332](undefined) in [laravel/boost](https://github.com/laravel/boost)
+2. ❌ Closed PR [#118](undefined) in [laravel/boost](https://github.com/laravel/boost)
+3. 🔒 Closed issue [#253](https://github.com/laravel/boost/issues/253) in [laravel/boost](https://github.com/laravel/boost)
+4. ❌ Assigned PR [#101](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 🚀 Published release [v1.8.0](https://github.com/laravel/boost/releases/tag/v1.8.0) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
