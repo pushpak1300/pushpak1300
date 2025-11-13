@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#107](https://github.com/laravel/mcp/issues/107) in [laravel/mcp](https://github.com/laravel/mcp)
-2. ❗ Opened issue [#107](https://github.com/laravel/mcp/issues/107) in [laravel/mcp](https://github.com/laravel/mcp)
-3. 🗣 Commented on [#101](https://github.com/laravel/mcp/pull/101#issuecomment-3528895148) in [laravel/mcp](https://github.com/laravel/mcp)
-4. ❌ Closed PR [#101](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
-5. 💪 Opened PR [#106](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
+1. 💪 Opened PR [#3](undefined) in [laravel/blank-livewire-starter-kit](https://github.com/laravel/blank-livewire-starter-kit)
+2. 💪 Opened PR [#4](undefined) in [laravel/blank-vue-starter-kit](https://github.com/laravel/blank-vue-starter-kit)
+3. 💪 Opened PR [#5](undefined) in [laravel/blank-react-starter-kit](https://github.com/laravel/blank-react-starter-kit)
+4. 💪 Opened PR [#149](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+5. 💪 Opened PR [#148](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
 <!--END_SECTION:activity-->
