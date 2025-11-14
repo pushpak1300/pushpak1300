@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#108](https://github.com/laravel/mcp/issues/108) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🗣 Commented on [#108](https://github.com/laravel/mcp/issues/108#issuecomment-3531105710) in [laravel/mcp](https://github.com/laravel/mcp)
+1. 🔒 Closed issue [#355](https://github.com/laravel/boost/issues/355) in [laravel/boost](https://github.com/laravel/boost)
+2. 🗣 Commented on [#355](https://github.com/laravel/boost/issues/355#issuecomment-3532300208) in [laravel/boost](https://github.com/laravel/boost)
 3. 🔒 Closed issue [#108](https://github.com/laravel/mcp/issues/108) in [laravel/mcp](https://github.com/laravel/mcp)
-4. 💪 Opened PR [#3](undefined) in [laravel/blank-livewire-starter-kit](https://github.com/laravel/blank-livewire-starter-kit)
-5. 💪 Opened PR [#4](undefined) in [laravel/blank-vue-starter-kit](https://github.com/laravel/blank-vue-starter-kit)
+4. 🗣 Commented on [#108](https://github.com/laravel/mcp/issues/108#issuecomment-3531105710) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 🔒 Closed issue [#108](https://github.com/laravel/mcp/issues/108) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
