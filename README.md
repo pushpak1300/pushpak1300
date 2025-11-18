@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#358](https://github.com/laravel/boost/issues/358) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#358](https://github.com/laravel/boost/issues/358#issuecomment-3549263871) in [laravel/boost](https://github.com/laravel/boost)
-3. 🚀 Published release [v1.8.1](https://github.com/laravel/boost/releases/tag/v1.8.1) in [laravel/boost](https://github.com/laravel/boost)
-4. 🔒 Closed issue [#820](https://github.com/laravel/sail/issues/820) in [laravel/sail](https://github.com/laravel/sail)
-5. 🗣 Commented on [#820](https://github.com/laravel/sail/issues/820#issuecomment-3548275427) in [laravel/sail](https://github.com/laravel/sail)
+1. ❌ Closed PR [#324](undefined) in [laravel/boost](https://github.com/laravel/boost)
+2. 🔒 Closed issue [#358](https://github.com/laravel/boost/issues/358) in [laravel/boost](https://github.com/laravel/boost)
+3. 🗣 Commented on [#358](https://github.com/laravel/boost/issues/358#issuecomment-3549263871) in [laravel/boost](https://github.com/laravel/boost)
+4. 🚀 Published release [v1.8.1](https://github.com/laravel/boost/releases/tag/v1.8.1) in [laravel/boost](https://github.com/laravel/boost)
+5. 🔒 Closed issue [#820](https://github.com/laravel/sail/issues/820) in [laravel/sail](https://github.com/laravel/sail)
 <!--END_SECTION:activity-->
