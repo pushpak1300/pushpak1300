@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#155](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
-2. 💪 Opened PR [#154](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
-3. 💪 Opened PR [#209](undefined) in [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit)
-4. 💪 Opened PR [#231](undefined) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
-5. 🗣 Commented on [#102](https://github.com/laravel/mcp/pull/102#issuecomment-3547983900) in [laravel/mcp](https://github.com/laravel/mcp)
+1. 🔒 Closed issue [#820](https://github.com/laravel/sail/issues/820) in [laravel/sail](https://github.com/laravel/sail)
+2. 🗣 Commented on [#820](https://github.com/laravel/sail/issues/820#issuecomment-3548275427) in [laravel/sail](https://github.com/laravel/sail)
+3. 💪 Opened PR [#155](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+4. 💪 Opened PR [#154](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+5. 💪 Opened PR [#209](undefined) in [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit)
 <!--END_SECTION:activity-->
