@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#348](undefined) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#348](https://github.com/laravel/boost/pull/348#issuecomment-3561503526) in [laravel/boost](https://github.com/laravel/boost)
-3. 🚀 Published release [v1.8.2](https://github.com/laravel/boost/releases/tag/v1.8.2) in [laravel/boost](https://github.com/laravel/boost)
-4. 🔒 Closed issue [#146](https://github.com/laravel/boost/issues/146) in [laravel/boost](https://github.com/laravel/boost)
-5. 🔒 Closed issue [#339](https://github.com/laravel/boost/issues/339) in [laravel/boost](https://github.com/laravel/boost)
+1. 🗣 Commented on [#156](https://github.com/laravel/livewire-starter-kit/pull/156#issuecomment-3561956528) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+2. 🗣 Commented on [#156](https://github.com/laravel/livewire-starter-kit/pull/156#issuecomment-3561941585) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+3. ❌ Closed PR [#348](undefined) in [laravel/boost](https://github.com/laravel/boost)
+4. 🗣 Commented on [#348](https://github.com/laravel/boost/pull/348#issuecomment-3561503526) in [laravel/boost](https://github.com/laravel/boost)
+5. 🚀 Published release [v1.8.2](https://github.com/laravel/boost/releases/tag/v1.8.2) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
