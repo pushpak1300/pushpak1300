@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/laravel/mcp/pull/111#issuecomment-3565612902) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🗣 Commented on [#448](https://github.com/laravel/installer/issues/448#issuecomment-3562323599) in [laravel/installer](https://github.com/laravel/installer)
-3. 🗣 Commented on [#156](https://github.com/laravel/livewire-starter-kit/pull/156#issuecomment-3561956528) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
-4. 🗣 Commented on [#156](https://github.com/laravel/livewire-starter-kit/pull/156#issuecomment-3561941585) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
-5. ❌ Closed PR [#348](undefined) in [laravel/boost](https://github.com/laravel/boost)
+1. 🗣 Commented on [#83](https://github.com/laravel/mcp/pull/83#issuecomment-3567557159) in [laravel/mcp](https://github.com/laravel/mcp)
+2. 🗣 Commented on [#111](https://github.com/laravel/mcp/pull/111#issuecomment-3565612902) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 🗣 Commented on [#448](https://github.com/laravel/installer/issues/448#issuecomment-3562323599) in [laravel/installer](https://github.com/laravel/installer)
+4. 🗣 Commented on [#156](https://github.com/laravel/livewire-starter-kit/pull/156#issuecomment-3561956528) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+5. 🗣 Commented on [#156](https://github.com/laravel/livewire-starter-kit/pull/156#issuecomment-3561941585) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
 <!--END_SECTION:activity-->
