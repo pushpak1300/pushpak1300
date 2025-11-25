@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#367](https://github.com/laravel/boost/issues/367#issuecomment-3575132448) in [laravel/boost](https://github.com/laravel/boost)
-2. 🔒 Closed issue [#366](https://github.com/laravel/boost/issues/366) in [laravel/boost](https://github.com/laravel/boost)
-3. 🗣 Commented on [#366](https://github.com/laravel/boost/issues/366#issuecomment-3574724684) in [laravel/boost](https://github.com/laravel/boost)
-4. 🗣 Commented on [#367](https://github.com/laravel/boost/issues/367#issuecomment-3574718094) in [laravel/boost](https://github.com/laravel/boost)
-5. 💪 Opened PR [#51](undefined) in [kulterryan/who-to-bother-at-on-x](https://github.com/kulterryan/who-to-bother-at-on-x)
+1. 🔒 Closed issue [#367](https://github.com/laravel/boost/issues/367) in [laravel/boost](https://github.com/laravel/boost)
+2. 🗣 Commented on [#367](https://github.com/laravel/boost/issues/367#issuecomment-3575697440) in [laravel/boost](https://github.com/laravel/boost)
+3. 🗣 Commented on [#367](https://github.com/laravel/boost/issues/367#issuecomment-3575132448) in [laravel/boost](https://github.com/laravel/boost)
+4. 🔒 Closed issue [#366](https://github.com/laravel/boost/issues/366) in [laravel/boost](https://github.com/laravel/boost)
+5. 🗣 Commented on [#366](https://github.com/laravel/boost/issues/366#issuecomment-3574724684) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
