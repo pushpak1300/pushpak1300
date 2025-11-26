@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57938](undefined) in [laravel/framework](https://github.com/laravel/framework)
-2. 💪 Opened PR [#117](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
-3. 🚀 Published release [v1.8.3](https://github.com/laravel/boost/releases/tag/v1.8.3) in [laravel/boost](https://github.com/laravel/boost)
-4. 💪 Opened PR [#116](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
-5. 🗣 Commented on [#51](https://github.com/kulterryan/who-to-bother-at-on-x/pull/51#issuecomment-3576879057) in [kulterryan/who-to-bother-at-on-x](https://github.com/kulterryan/who-to-bother-at-on-x)
+1. 💪 Opened PR [#57940](undefined) in [laravel/framework](https://github.com/laravel/framework)
+2. 💪 Opened PR [#57939](undefined) in [laravel/framework](https://github.com/laravel/framework)
+3. 💪 Opened PR [#57938](undefined) in [laravel/framework](https://github.com/laravel/framework)
+4. 💪 Opened PR [#117](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 🚀 Published release [v1.8.3](https://github.com/laravel/boost/releases/tag/v1.8.3) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
