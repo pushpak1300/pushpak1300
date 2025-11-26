@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/kulterryan/who-to-bother-at-on-x/pull/51#issuecomment-3576879057) in [kulterryan/who-to-bother-at-on-x](https://github.com/kulterryan/who-to-bother-at-on-x)
-2. 💪 Opened PR [#114](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
-3. 💪 Opened PR [#30](undefined) in [laravel/roster](https://github.com/laravel/roster)
-4. 💪 Opened PR [#368](undefined) in [laravel/boost](https://github.com/laravel/boost)
-5. 🔒 Closed issue [#367](https://github.com/laravel/boost/issues/367) in [laravel/boost](https://github.com/laravel/boost)
+1. 💪 Opened PR [#116](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
+2. 🗣 Commented on [#51](https://github.com/kulterryan/who-to-bother-at-on-x/pull/51#issuecomment-3576879057) in [kulterryan/who-to-bother-at-on-x](https://github.com/kulterryan/who-to-bother-at-on-x)
+3. 💪 Opened PR [#114](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
+4. 💪 Opened PR [#30](undefined) in [laravel/roster](https://github.com/laravel/roster)
+5. 💪 Opened PR [#368](undefined) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
