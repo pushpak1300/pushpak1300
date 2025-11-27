@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#369](https://github.com/laravel/boost/pull/369#issuecomment-3586402543) in [laravel/boost](https://github.com/laravel/boost)
-2. 💪 Opened PR [#10932](undefined) in [laravel/docs](https://github.com/laravel/docs)
-3. 💪 Opened PR [#10931](undefined) in [laravel/docs](https://github.com/laravel/docs)
-4. 💪 Opened PR [#10930](undefined) in [laravel/docs](https://github.com/laravel/docs)
-5. 💪 Opened PR [#119](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
+1. 💪 Opened PR [#160](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+2. 🗣 Commented on [#369](https://github.com/laravel/boost/pull/369#issuecomment-3586402543) in [laravel/boost](https://github.com/laravel/boost)
+3. 💪 Opened PR [#10932](undefined) in [laravel/docs](https://github.com/laravel/docs)
+4. 💪 Opened PR [#10931](undefined) in [laravel/docs](https://github.com/laravel/docs)
+5. 💪 Opened PR [#10930](undefined) in [laravel/docs](https://github.com/laravel/docs)
 <!--END_SECTION:activity-->
