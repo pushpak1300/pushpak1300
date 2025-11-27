@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57942](undefined) in [laravel/framework](https://github.com/laravel/framework)
-2. 💪 Opened PR [#57940](undefined) in [laravel/framework](https://github.com/laravel/framework)
-3. 💪 Opened PR [#57939](undefined) in [laravel/framework](https://github.com/laravel/framework)
-4. 💪 Opened PR [#57938](undefined) in [laravel/framework](https://github.com/laravel/framework)
-5. 💪 Opened PR [#117](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
+1. 💪 Opened PR [#119](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
+2. ❗ Opened issue [#118](https://github.com/laravel/mcp/issues/118) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 💪 Opened PR [#57942](undefined) in [laravel/framework](https://github.com/laravel/framework)
+4. 💪 Opened PR [#57940](undefined) in [laravel/framework](https://github.com/laravel/framework)
+5. 💪 Opened PR [#57939](undefined) in [laravel/framework](https://github.com/laravel/framework)
 <!--END_SECTION:activity-->
