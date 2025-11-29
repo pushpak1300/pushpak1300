@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#121](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 💪 Opened PR [#120](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
-3. 🗣 Commented on [#362](https://github.com/laravel/boost/issues/362#issuecomment-3587930117) in [laravel/boost](https://github.com/laravel/boost)
-4. 💪 Opened PR [#160](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
-5. 🗣 Commented on [#369](https://github.com/laravel/boost/pull/369#issuecomment-3586402543) in [laravel/boost](https://github.com/laravel/boost)
+1. 🗣 Commented on [#162](https://github.com/laravel/livewire-starter-kit/pull/162#issuecomment-3591718605) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+2. 🗣 Commented on [#161](https://github.com/laravel/livewire-starter-kit/pull/161#issuecomment-3591718475) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+3. 💪 Opened PR [#121](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
+4. 💪 Opened PR [#120](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 🗣 Commented on [#362](https://github.com/laravel/boost/issues/362#issuecomment-3587930117) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
