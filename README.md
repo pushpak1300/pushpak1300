@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.0](https://github.com/laravel/mcp/releases/tag/v0.4.0) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 💪 Opened PR [#122](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
-3. 🗣 Commented on [#162](https://github.com/laravel/livewire-starter-kit/pull/162#issuecomment-3591718605) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
-4. 🗣 Commented on [#161](https://github.com/laravel/livewire-starter-kit/pull/161#issuecomment-3591718475) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
-5. 💪 Opened PR [#121](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
+1. 🚀 Published release [v0.3.0](https://github.com/laravel/roster/releases/tag/v0.3.0) in [laravel/roster](https://github.com/laravel/roster)
+2. 🚀 Published release [v0.4.0](https://github.com/laravel/mcp/releases/tag/v0.4.0) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 💪 Opened PR [#122](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
+4. 🗣 Commented on [#162](https://github.com/laravel/livewire-starter-kit/pull/162#issuecomment-3591718605) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+5. 🗣 Commented on [#161](https://github.com/laravel/livewire-starter-kit/pull/161#issuecomment-3591718475) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
 <!--END_SECTION:activity-->
