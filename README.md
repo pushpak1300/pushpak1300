@@ -29,6 +29,6 @@
 1. 🗣 Commented on [#123](https://github.com/laravel/mcp/issues/123#issuecomment-3598191119) in [laravel/mcp](https://github.com/laravel/mcp)
 2.  Labeled issue [#123](https://github.com/laravel/mcp/issues/123) in [laravel/mcp](https://github.com/laravel/mcp)
 3. 🚀 Published release [v0.3.0](https://github.com/laravel/roster/releases/tag/v0.3.0) in [laravel/roster](https://github.com/laravel/roster)
-4. 🚀 Published release [v0.4.0](https://github.com/laravel/mcp/releases/tag/v0.4.0) in [laravel/mcp](https://github.com/laravel/mcp)
-5. 💪 Opened PR [#122](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
+4. ❌ Merged PR [#10932](undefined) in [laravel/docs](https://github.com/laravel/docs)
+5. ❌ Merged PR [#10931](undefined) in [laravel/docs](https://github.com/laravel/docs)
 <!--END_SECTION:activity-->
