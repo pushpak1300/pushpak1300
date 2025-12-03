@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/laravel/mcp/issues/124#issuecomment-3607872550) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🗣 Commented on [#123](https://github.com/laravel/mcp/issues/123#issuecomment-3598191119) in [laravel/mcp](https://github.com/laravel/mcp)
-3.  Labeled issue [#123](https://github.com/laravel/mcp/issues/123) in [laravel/mcp](https://github.com/laravel/mcp)
-4. 🚀 Published release [v0.3.0](https://github.com/laravel/roster/releases/tag/v0.3.0) in [laravel/roster](https://github.com/laravel/roster)
-5. ❌ Merged PR [#10932](undefined) in [laravel/docs](https://github.com/laravel/docs)
+1. 💪 Opened PR [#125](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
+2. 🗣 Commented on [#124](https://github.com/laravel/mcp/issues/124#issuecomment-3608025966) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 🗣 Commented on [#124](https://github.com/laravel/mcp/issues/124#issuecomment-3607872550) in [laravel/mcp](https://github.com/laravel/mcp)
+4. 🗣 Commented on [#123](https://github.com/laravel/mcp/issues/123#issuecomment-3598191119) in [laravel/mcp](https://github.com/laravel/mcp)
+5.  Labeled issue [#123](https://github.com/laravel/mcp/issues/123) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
