@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com/laravel/mcp/issues/96#issuecomment-3612868585) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🔒 Closed issue [#96](https://github.com/laravel/mcp/issues/96) in [laravel/mcp](https://github.com/laravel/mcp)
-3. 🗣 Commented on [#368](https://github.com/laravel/boost/pull/368#issuecomment-3612760613) in [laravel/boost](https://github.com/laravel/boost)
-4. 💪 Opened PR [#10938](undefined) in [laravel/docs](https://github.com/laravel/docs)
-5. 💪 Opened PR [#10937](undefined) in [laravel/docs](https://github.com/laravel/docs)
+1. 🚀 Published release [v0.4.1](https://github.com/laravel/mcp/releases/tag/v0.4.1) in [laravel/mcp](https://github.com/laravel/mcp)
+2. ❌ Merged PR [#10938](undefined) in [laravel/docs](https://github.com/laravel/docs)
+3. ❌ Merged PR [#125](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
+4. ❌ Merged PR [#10937](undefined) in [laravel/docs](https://github.com/laravel/docs)
+5. 🗣 Commented on [#80](https://github.com/laravel/mcp/pull/80#issuecomment-3613327239) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
