@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/laravel/mcp/pull/119#issuecomment-3613753598) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🚀 Published release [v0.4.1](https://github.com/laravel/mcp/releases/tag/v0.4.1) in [laravel/mcp](https://github.com/laravel/mcp)
-3. ❌ Merged PR [#10938](undefined) in [laravel/docs](https://github.com/laravel/docs)
-4. ❌ Merged PR [#125](undefined) in [laravel/mcp](https://github.com/laravel/mcp)
-5. ❌ Merged PR [#10937](undefined) in [laravel/docs](https://github.com/laravel/docs)
+1. 🗣 Commented on [#373](https://github.com/laravel/boost/issues/373#issuecomment-3615426054) in [laravel/boost](https://github.com/laravel/boost)
+2. 🔒 Closed issue [#373](https://github.com/laravel/boost/issues/373) in [laravel/boost](https://github.com/laravel/boost)
+3. 🚀 Published release [v1.8.4](https://github.com/laravel/boost/releases/tag/v1.8.4) in [laravel/boost](https://github.com/laravel/boost)
+4. 🗣 Commented on [#119](https://github.com/laravel/mcp/pull/119#issuecomment-3613753598) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 🚀 Published release [v0.4.1](https://github.com/laravel/mcp/releases/tag/v0.4.1) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
