@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#368](undefined) in [laravel/boost](https://github.com/laravel/boost)
-2. ❌ Merged PR [#10945](undefined) in [laravel/docs](https://github.com/laravel/docs)
-3. 🗣 Commented on [#233](https://github.com/laravel/vue-starter-kit/pull/233#issuecomment-3627163292) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
-4. 💪 Opened PR [#10945](undefined) in [laravel/docs](https://github.com/laravel/docs)
-5. 🗣 Commented on [#233](https://github.com/laravel/vue-starter-kit/pull/233#issuecomment-3626970542) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
+1. 💪 Opened PR [#377](undefined) in [laravel/boost](https://github.com/laravel/boost)
+2. 🚀 Published release [v0.4.2](https://github.com/laravel/mcp/releases/tag/v0.4.2) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 🚀 Published release [v1.8.5](https://github.com/laravel/boost/releases/tag/v1.8.5) in [laravel/boost](https://github.com/laravel/boost)
+4. ❌ Merged PR [#368](undefined) in [laravel/boost](https://github.com/laravel/boost)
+5. ❌ Merged PR [#10945](undefined) in [laravel/docs](https://github.com/laravel/docs)
 <!--END_SECTION:activity-->
