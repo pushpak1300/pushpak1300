@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#5](undefined) in [laravel/blank-vue-starter-kit](https://github.com/laravel/blank-vue-starter-kit)
-2. ❌ Merged PR [#4](undefined) in [laravel/blank-livewire-starter-kit](https://github.com/laravel/blank-livewire-starter-kit)
-3. ❌ Merged PR [#7](undefined) in [laravel/blank-react-starter-kit](https://github.com/laravel/blank-react-starter-kit)
-4. ❌ Merged PR [#166](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
-5. ❌ Merged PR [#165](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+1. 🗣 Commented on [#378](https://github.com/laravel/boost/issues/378#issuecomment-3633506567) in [laravel/boost](https://github.com/laravel/boost)
+2. 🔒 Closed issue [#378](https://github.com/laravel/boost/issues/378) in [laravel/boost](https://github.com/laravel/boost)
+3. ❌ Merged PR [#5](undefined) in [laravel/blank-vue-starter-kit](https://github.com/laravel/blank-vue-starter-kit)
+4. ❌ Merged PR [#4](undefined) in [laravel/blank-livewire-starter-kit](https://github.com/laravel/blank-livewire-starter-kit)
+5. ❌ Merged PR [#7](undefined) in [laravel/blank-react-starter-kit](https://github.com/laravel/blank-react-starter-kit)
 <!--END_SECTION:activity-->
