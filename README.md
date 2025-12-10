@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#237](undefined) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
-2. 🗣 Commented on [#379](https://github.com/laravel/boost/issues/379#issuecomment-3633886735) in [laravel/boost](https://github.com/laravel/boost)
-3. 🔒 Closed issue [#379](https://github.com/laravel/boost/issues/379) in [laravel/boost](https://github.com/laravel/boost)
-4. 💪 Opened PR [#237](undefined) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
-5. 🔒 Closed issue [#372](https://github.com/laravel/boost/issues/372) in [laravel/boost](https://github.com/laravel/boost)
+1. 🔒 Closed issue [#362](https://github.com/laravel/boost/issues/362) in [laravel/boost](https://github.com/laravel/boost)
+2. 🗣 Commented on [#362](https://github.com/laravel/boost/issues/362#issuecomment-3635329850) in [laravel/boost](https://github.com/laravel/boost)
+3. 🗣 Commented on [#372](https://github.com/laravel/boost/issues/372#issuecomment-3635317387) in [laravel/boost](https://github.com/laravel/boost)
+4. ❌ Merged PR [#237](undefined) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
+5. 🗣 Commented on [#379](https://github.com/laravel/boost/issues/379#issuecomment-3633886735) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
