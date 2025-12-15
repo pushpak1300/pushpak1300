@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#130](https://github.com/laravel/mcp/issues/130#issuecomment-3654032737) in [laravel/mcp](https://github.com/laravel/mcp)
-2. ❌ Merged PR [#167](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
-3. ❌ Merged PR [#216](undefined) in [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit)
-4. ❌ Merged PR [#168](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
-5. ❌ Merged PR [#169](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+1. 💪 Opened PR [#389](undefined) in [laravel/boost](https://github.com/laravel/boost)
+2. 🗣 Commented on [#454](https://github.com/laravel/installer/issues/454#issuecomment-3655280487) in [laravel/installer](https://github.com/laravel/installer)
+3. 🔒 Closed issue [#454](https://github.com/laravel/installer/issues/454) in [laravel/installer](https://github.com/laravel/installer)
+4. 🗣 Commented on [#130](https://github.com/laravel/mcp/issues/130#issuecomment-3654032737) in [laravel/mcp](https://github.com/laravel/mcp)
+5. ❌ Merged PR [#167](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
 <!--END_SECTION:activity-->
