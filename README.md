@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#389](undefined) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#454](https://github.com/laravel/installer/issues/454#issuecomment-3655280487) in [laravel/installer](https://github.com/laravel/installer)
-3. 🔒 Closed issue [#454](https://github.com/laravel/installer/issues/454) in [laravel/installer](https://github.com/laravel/installer)
-4. 🗣 Commented on [#130](https://github.com/laravel/mcp/issues/130#issuecomment-3654032737) in [laravel/mcp](https://github.com/laravel/mcp)
-5. ❌ Merged PR [#167](undefined) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+1. 🔒 Closed issue [#77](https://github.com/laravel/mcp/issues/77) in [laravel/mcp](https://github.com/laravel/mcp)
+2.  Labeled issue [#123](https://github.com/laravel/mcp/issues/123) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 🗣 Commented on [#123](https://github.com/laravel/mcp/issues/123#issuecomment-3656597936) in [laravel/mcp](https://github.com/laravel/mcp)
+4. 🗣 Commented on [#130](https://github.com/laravel/mcp/issues/130#issuecomment-3656584099) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 🔒 Closed issue [#130](https://github.com/laravel/mcp/issues/130) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
