@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/laravel/blank-vue-starter-kit/pull/6) in [laravel/blank-vue-starter-kit](https://github.com/laravel/blank-vue-starter-kit)
-2. 🎉 Merged PR [#8](https://github.com/laravel/blank-react-starter-kit/pull/8) in [laravel/blank-react-starter-kit](https://github.com/laravel/blank-react-starter-kit)
-3. 🎉 Merged PR [#5](https://github.com/laravel/blank-livewire-starter-kit/pull/5) in [laravel/blank-livewire-starter-kit](https://github.com/laravel/blank-livewire-starter-kit)
-4. 🎉 Merged PR [#180](https://github.com/laravel/livewire-starter-kit/pull/180) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
-5. 🎉 Merged PR [#179](https://github.com/laravel/livewire-starter-kit/pull/179) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+1. 🎉 Merged PR [#153](https://github.com/laravel/livewire-starter-kit/pull/153) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+2. 🎉 Merged PR [#152](https://github.com/laravel/livewire-starter-kit/pull/152) in [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit)
+3. 🎉 Merged PR [#208](https://github.com/laravel/react-starter-kit/pull/208) in [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit)
+4. 🎉 Merged PR [#230](https://github.com/laravel/vue-starter-kit/pull/230) in [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit)
+5. 🎉 Merged PR [#6](https://github.com/laravel/blank-vue-starter-kit/pull/6) in [laravel/blank-vue-starter-kit](https://github.com/laravel/blank-vue-starter-kit)
 <!--END_SECTION:activity-->
