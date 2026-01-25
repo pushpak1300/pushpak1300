@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1613](https://github.com/pestphp/pest/pull/1613) in [pestphp/pest](https://github.com/pestphp/pest)
-2. 🎉 Merged PR [#464](https://github.com/laravel/installer/pull/464) in [laravel/installer](https://github.com/laravel/installer)
-3. 💪 Opened PR [#464](https://github.com/laravel/installer/pull/464) in [laravel/installer](https://github.com/laravel/installer)
-4. 🎉 Merged PR [#462](https://github.com/laravel/boost/pull/462) in [laravel/boost](https://github.com/laravel/boost)
-5. 💪 Opened PR [#462](https://github.com/laravel/boost/pull/462) in [laravel/boost](https://github.com/laravel/boost)
+1. 🗣 Commented on [#233](https://github.com/laravel/boost/issues/233#issuecomment-3795947933) in [laravel/boost](https://github.com/laravel/boost)
+2. 💪 Opened PR [#1613](https://github.com/pestphp/pest/pull/1613) in [pestphp/pest](https://github.com/pestphp/pest)
+3. 🎉 Merged PR [#464](https://github.com/laravel/installer/pull/464) in [laravel/installer](https://github.com/laravel/installer)
+4. 💪 Opened PR [#464](https://github.com/laravel/installer/pull/464) in [laravel/installer](https://github.com/laravel/installer)
+5. 🎉 Merged PR [#462](https://github.com/laravel/boost/pull/462) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
