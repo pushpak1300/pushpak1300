@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#630](https://github.com/laravel/fortify/pull/630) in [laravel/fortify](https://github.com/laravel/fortify)
-2. ℹ️ Unassigned issue [#316](https://github.com/laravel/boost/issues/316) in [laravel/boost](https://github.com/laravel/boost)
-3. ℹ️ Assigned issue [#316](https://github.com/laravel/boost/issues/316) in [laravel/boost](https://github.com/laravel/boost)
-4. 🗣 Commented on [#316](https://github.com/laravel/boost/issues/316#issuecomment-3796463625) in [laravel/boost](https://github.com/laravel/boost)
-5. 🗣 Commented on [#233](https://github.com/laravel/boost/issues/233#issuecomment-3795947933) in [laravel/boost](https://github.com/laravel/boost)
+1. ❗ Opened issue [#1](https://github.com/appoly/laravel-boost-trae-extension/issues/1) in [appoly/laravel-boost-trae-extension](https://github.com/appoly/laravel-boost-trae-extension)
+2. ❗ Opened issue [#1](https://github.com/GoneTone/laravel-boost-windsurf-extension/issues/1) in [GoneTone/laravel-boost-windsurf-extension](https://github.com/GoneTone/laravel-boost-windsurf-extension)
+3. ❗ Opened issue [#1](https://github.com/gldrenthe89/laravel-boost-augment-code-extension/issues/1) in [gldrenthe89/laravel-boost-augment-code-extension](https://github.com/gldrenthe89/laravel-boost-augment-code-extension)
+4. 🎉 Merged PR [#865](https://github.com/prism-php/prism/pull/865) in [prism-php/prism](https://github.com/prism-php/prism)
+5. 💪 Opened PR [#865](https://github.com/prism-php/prism/pull/865) in [prism-php/prism](https://github.com/prism-php/prism)
 <!--END_SECTION:activity-->
