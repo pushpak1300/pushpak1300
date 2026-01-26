@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/appoly/laravel-boost-trae-extension/issues/1) in [appoly/laravel-boost-trae-extension](https://github.com/appoly/laravel-boost-trae-extension)
-2. ❗ Opened issue [#1](https://github.com/GoneTone/laravel-boost-windsurf-extension/issues/1) in [GoneTone/laravel-boost-windsurf-extension](https://github.com/GoneTone/laravel-boost-windsurf-extension)
-3. ❗ Opened issue [#1](https://github.com/gldrenthe89/laravel-boost-augment-code-extension/issues/1) in [gldrenthe89/laravel-boost-augment-code-extension](https://github.com/gldrenthe89/laravel-boost-augment-code-extension)
-4. 🎉 Merged PR [#865](https://github.com/prism-php/prism/pull/865) in [prism-php/prism](https://github.com/prism-php/prism)
-5. 💪 Opened PR [#865](https://github.com/prism-php/prism/pull/865) in [prism-php/prism](https://github.com/prism-php/prism)
+1. ℹ️ Labeled issue [#134](https://github.com/laravel/mcp/issues/134) in [laravel/mcp](https://github.com/laravel/mcp)
+2. ❗ Opened issue [#1](https://github.com/appoly/laravel-boost-trae-extension/issues/1) in [appoly/laravel-boost-trae-extension](https://github.com/appoly/laravel-boost-trae-extension)
+3. ❗ Opened issue [#1](https://github.com/GoneTone/laravel-boost-windsurf-extension/issues/1) in [GoneTone/laravel-boost-windsurf-extension](https://github.com/GoneTone/laravel-boost-windsurf-extension)
+4. ❗ Opened issue [#1](https://github.com/gldrenthe89/laravel-boost-augment-code-extension/issues/1) in [gldrenthe89/laravel-boost-augment-code-extension](https://github.com/gldrenthe89/laravel-boost-augment-code-extension)
+5. 🎉 Merged PR [#865](https://github.com/prism-php/prism/pull/865) in [prism-php/prism](https://github.com/prism-php/prism)
 <!--END_SECTION:activity-->
