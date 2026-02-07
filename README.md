@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#539](https://github.com/laravel/boost/issues/539#issuecomment-3861988727) in [laravel/boost](https://github.com/laravel/boost)
-2. 🚀 Published release [v2.1.1](https://github.com/laravel/boost/releases/tag/v2.1.1) in [laravel/boost](https://github.com/laravel/boost)
-3. 🎉 Merged PR [#533](https://github.com/laravel/boost/pull/533) in [laravel/boost](https://github.com/laravel/boost)
-4. 🎉 Merged PR [#534](https://github.com/laravel/boost/pull/534) in [laravel/boost](https://github.com/laravel/boost)
-5. 💪 Opened PR [#534](https://github.com/laravel/boost/pull/534) in [laravel/boost](https://github.com/laravel/boost)
+1. 🗣 Commented on [#75](https://github.com/laravel/ai/pull/75#issuecomment-3863737022) in [laravel/ai](https://github.com/laravel/ai)
+2. ℹ️ Labeled issue [#39](https://github.com/laravel/ai/issues/39) in [laravel/ai](https://github.com/laravel/ai)
+3. ℹ️ Labeled issue [#77](https://github.com/laravel/ai/issues/77) in [laravel/ai](https://github.com/laravel/ai)
+4. 🗣 Commented on [#89](https://github.com/laravel/ai/pull/89#issuecomment-3863722682) in [laravel/ai](https://github.com/laravel/ai)
+5. 🗣 Commented on [#540](https://github.com/laravel/boost/issues/540#issuecomment-3863707399) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
