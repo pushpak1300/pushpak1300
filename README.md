@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#147](https://github.com/laravel/mcp/pull/147) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🎉 Merged PR [#1](https://github.com/spatie/boost-spatie-guidelines/pull/1) in [spatie/boost-spatie-guidelines](https://github.com/spatie/boost-spatie-guidelines)
-3. 💪 Opened PR [#147](https://github.com/laravel/mcp/pull/147) in [laravel/mcp](https://github.com/laravel/mcp)
-4. 🗣 Commented on [#137](https://github.com/laravel/mcp/issues/137#issuecomment-3871615006) in [laravel/mcp](https://github.com/laravel/mcp)
-5. 🗣 Commented on [#554](https://github.com/laravel/boost/pull/554#issuecomment-3871493854) in [laravel/boost](https://github.com/laravel/boost)
+1. 🎉 Merged PR [#555](https://github.com/laravel/boost/pull/555) in [laravel/boost](https://github.com/laravel/boost)
+2. 🔒 Closed issue [#551](https://github.com/laravel/boost/issues/551) in [laravel/boost](https://github.com/laravel/boost)
+3. 🗣 Commented on [#556](https://github.com/laravel/boost/issues/556#issuecomment-3877928085) in [laravel/boost](https://github.com/laravel/boost)
+4. ℹ️ Assigned issue [#556](https://github.com/laravel/boost/issues/556) in [laravel/boost](https://github.com/laravel/boost)
+5. ℹ️ Unassigned issue [#556](https://github.com/laravel/boost/issues/556) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
