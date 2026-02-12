@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#561](https://github.com/laravel/boost/pull/561#issuecomment-3890600782) in [laravel/boost](https://github.com/laravel/boost)
-2. 💪 Opened PR [#422](https://github.com/laravel/pint/pull/422) in [laravel/pint](https://github.com/laravel/pint)
-3. ❌ Closed PR [#1](https://github.com/pushpak1300/pint/pull/1) in [pushpak1300/pint](https://github.com/pushpak1300/pint)
-4. 💪 Opened PR [#1](https://github.com/pushpak1300/pint/pull/1) in [pushpak1300/pint](https://github.com/pushpak1300/pint)
-5. 🚀 Published release [v1.0.1](https://github.com/shipfastlabs/agent-detector/releases/tag/v1.0.1) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
+1. 💪 Opened PR [#566](https://github.com/laravel/boost/pull/566) in [laravel/boost](https://github.com/laravel/boost)
+2. ❌ Closed PR [#563](https://github.com/laravel/boost/pull/563) in [laravel/boost](https://github.com/laravel/boost)
+3. 🔒 Closed issue [#22](https://github.com/laravel/roster/issues/22) in [laravel/roster](https://github.com/laravel/roster)
+4. 🎉 Merged PR [#41](https://github.com/laravel/roster/pull/41) in [laravel/roster](https://github.com/laravel/roster)
+5. 🗣 Commented on [#561](https://github.com/laravel/boost/pull/561#issuecomment-3890600782) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
