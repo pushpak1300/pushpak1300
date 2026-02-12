@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#564](https://github.com/laravel/boost/issues/564) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#564](https://github.com/laravel/boost/issues/564#issuecomment-3886485910) in [laravel/boost](https://github.com/laravel/boost)
-3. 🎉 Merged PR [#562](https://github.com/laravel/boost/pull/562) in [laravel/boost](https://github.com/laravel/boost)
-4. 🗣 Commented on [#565](https://github.com/laravel/boost/pull/565#issuecomment-3886468166) in [laravel/boost](https://github.com/laravel/boost)
-5. 🗣 Commented on [#28](https://github.com/laravel/roster/pull/28#issuecomment-3886026301) in [laravel/roster](https://github.com/laravel/roster)
+1. 🗣 Commented on [#1](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/1#issuecomment-3888571063) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
+2. 🚀 Published release [v2.1.3](https://github.com/laravel/boost/releases/tag/v2.1.3) in [laravel/boost](https://github.com/laravel/boost)
+3. 🔓 Reopened issue [#564](https://github.com/laravel/boost/issues/564) in [laravel/boost](https://github.com/laravel/boost)
+4. ℹ️ Labeled issue [#564](https://github.com/laravel/boost/issues/564) in [laravel/boost](https://github.com/laravel/boost)
+5. 🔒 Closed issue [#564](https://github.com/laravel/boost/issues/564) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
