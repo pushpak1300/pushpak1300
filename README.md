@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.3](https://github.com/shipfastlabs/link/releases/tag/v1.0.3) in [shipfastlabs/link](https://github.com/shipfastlabs/link)
-2. 🚀 Published release [v1.0.2](https://github.com/shipfastlabs/link/releases/tag/v1.0.2) in [shipfastlabs/link](https://github.com/shipfastlabs/link)
-3. 🚀 Published release [v1.0.1](https://github.com/shipfastlabs/link/releases/tag/v1.0.1) in [shipfastlabs/link](https://github.com/shipfastlabs/link)
-4. 🚀 Published release [v1.0.0](https://github.com/shipfastlabs/link/releases/tag/v1.0.0) in [shipfastlabs/link](https://github.com/shipfastlabs/link)
-5. 🗣 Commented on [#1](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/1#issuecomment-3888643438) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
+1. 🚀 Published release [v1.0.1](https://github.com/shipfastlabs/agent-detector/releases/tag/v1.0.1) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
+2. 🚀 Published release [v1.0.3](https://github.com/shipfastlabs/link/releases/tag/v1.0.3) in [shipfastlabs/link](https://github.com/shipfastlabs/link)
+3. 🚀 Published release [v1.0.2](https://github.com/shipfastlabs/link/releases/tag/v1.0.2) in [shipfastlabs/link](https://github.com/shipfastlabs/link)
+4. 🚀 Published release [v1.0.1](https://github.com/shipfastlabs/link/releases/tag/v1.0.1) in [shipfastlabs/link](https://github.com/shipfastlabs/link)
+5. 🚀 Published release [v1.0.0](https://github.com/shipfastlabs/link/releases/tag/v1.0.0) in [shipfastlabs/link](https://github.com/shipfastlabs/link)
 <!--END_SECTION:activity-->
