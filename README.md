@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#151](https://github.com/laravel/mcp/pull/151) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🎉 Merged PR [#422](https://github.com/laravel/pint/pull/422) in [laravel/pint](https://github.com/laravel/pint)
-3. 🗣 Commented on [#143](https://github.com/laravel/ai/pull/143#issuecomment-3890931401) in [laravel/ai](https://github.com/laravel/ai)
-4. 💪 Opened PR [#566](https://github.com/laravel/boost/pull/566) in [laravel/boost](https://github.com/laravel/boost)
-5. ❌ Closed PR [#563](https://github.com/laravel/boost/pull/563) in [laravel/boost](https://github.com/laravel/boost)
+1. 🎉 Merged PR [#545](https://github.com/laravel/boost/pull/545) in [laravel/boost](https://github.com/laravel/boost)
+2. 🎉 Merged PR [#544](https://github.com/laravel/boost/pull/544) in [laravel/boost](https://github.com/laravel/boost)
+3. 🎉 Merged PR [#543](https://github.com/laravel/boost/pull/543) in [laravel/boost](https://github.com/laravel/boost)
+4. 🎉 Merged PR [#151](https://github.com/laravel/mcp/pull/151) in [laravel/mcp](https://github.com/laravel/mcp)
+5. ℹ️ Labeled issue [#145](https://github.com/laravel/ai/issues/145) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
