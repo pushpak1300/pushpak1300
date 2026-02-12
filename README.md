@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/1#issuecomment-3888643438) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
-2. ❌ Closed PR [#1](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/1) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
-3. 🗣 Commented on [#1](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/1#issuecomment-3888616631) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
-4. 🗣 Commented on [#1](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/1#issuecomment-3888612561) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
-5. 🗣 Commented on [#1](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/1#issuecomment-3888571063) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
+1. 🚀 Published release [v1.0.0](https://github.com/shipfastlabs/link/releases/tag/v1.0.0) in [shipfastlabs/link](https://github.com/shipfastlabs/link)
+2. 🗣 Commented on [#1](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/1#issuecomment-3888643438) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
+3. ❌ Closed PR [#1](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/1) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
+4. 🗣 Commented on [#1](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/1#issuecomment-3888616631) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
+5. 🗣 Commented on [#1](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/1#issuecomment-3888612561) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
 <!--END_SECTION:activity-->
