@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/shipfastlabs/agent-detector/releases/tag/v1.0.1) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
-2. 🚀 Published release [v1.0.3](https://github.com/shipfastlabs/link/releases/tag/v1.0.3) in [shipfastlabs/link](https://github.com/shipfastlabs/link)
-3. 🚀 Published release [v1.0.2](https://github.com/shipfastlabs/link/releases/tag/v1.0.2) in [shipfastlabs/link](https://github.com/shipfastlabs/link)
-4. 🚀 Published release [v1.0.1](https://github.com/shipfastlabs/link/releases/tag/v1.0.1) in [shipfastlabs/link](https://github.com/shipfastlabs/link)
-5. 🚀 Published release [v1.0.0](https://github.com/shipfastlabs/link/releases/tag/v1.0.0) in [shipfastlabs/link](https://github.com/shipfastlabs/link)
+1. 💪 Opened PR [#422](https://github.com/laravel/pint/pull/422) in [laravel/pint](https://github.com/laravel/pint)
+2. ❌ Closed PR [#1](https://github.com/pushpak1300/pint/pull/1) in [pushpak1300/pint](https://github.com/pushpak1300/pint)
+3. 💪 Opened PR [#1](https://github.com/pushpak1300/pint/pull/1) in [pushpak1300/pint](https://github.com/pushpak1300/pint)
+4. 🚀 Published release [v1.0.1](https://github.com/shipfastlabs/agent-detector/releases/tag/v1.0.1) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
+5. 🚀 Published release [v1.0.3](https://github.com/shipfastlabs/link/releases/tag/v1.0.3) in [shipfastlabs/link](https://github.com/shipfastlabs/link)
 <!--END_SECTION:activity-->
