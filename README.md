@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#828](https://github.com/inertiajs/inertia-laravel/pull/828) in [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel)
-2. 💪 Opened PR [#423](https://github.com/laravel/pint/pull/423) in [laravel/pint](https://github.com/laravel/pint)
-3. ❌ Closed PR [#2](https://github.com/pushpak1300/pint/pull/2) in [pushpak1300/pint](https://github.com/pushpak1300/pint)
-4. 💪 Opened PR [#2](https://github.com/pushpak1300/pint/pull/2) in [pushpak1300/pint](https://github.com/pushpak1300/pint)
-5. 💪 Opened PR [#161](https://github.com/laravel/pennant/pull/161) in [laravel/pennant](https://github.com/laravel/pennant)
+1. 💪 Opened PR [#2896](https://github.com/inertiajs/inertia/pull/2896) in [inertiajs/inertia](https://github.com/inertiajs/inertia)
+2. 💪 Opened PR [#828](https://github.com/inertiajs/inertia-laravel/pull/828) in [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel)
+3. 💪 Opened PR [#423](https://github.com/laravel/pint/pull/423) in [laravel/pint](https://github.com/laravel/pint)
+4. ❌ Closed PR [#2](https://github.com/pushpak1300/pint/pull/2) in [pushpak1300/pint](https://github.com/pushpak1300/pint)
+5. 💪 Opened PR [#2](https://github.com/pushpak1300/pint/pull/2) in [pushpak1300/pint](https://github.com/pushpak1300/pint)
 <!--END_SECTION:activity-->
