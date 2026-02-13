@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#153](https://github.com/laravel/mcp/pull/153) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🗣 Commented on [#568](https://github.com/laravel/boost/pull/568#issuecomment-3897847416) in [laravel/boost](https://github.com/laravel/boost)
-3. 🔒 Closed issue [#571](https://github.com/laravel/boost/issues/571) in [laravel/boost](https://github.com/laravel/boost)
-4. 🗣 Commented on [#571](https://github.com/laravel/boost/issues/571#issuecomment-3897190704) in [laravel/boost](https://github.com/laravel/boost)
-5. 🚀 Published release [v2.1.4](https://github.com/laravel/boost/releases/tag/v2.1.4) in [laravel/boost](https://github.com/laravel/boost)
+1. 💪 Opened PR [#828](https://github.com/inertiajs/inertia-laravel/pull/828) in [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel)
+2. 💪 Opened PR [#423](https://github.com/laravel/pint/pull/423) in [laravel/pint](https://github.com/laravel/pint)
+3. ❌ Closed PR [#2](https://github.com/pushpak1300/pint/pull/2) in [pushpak1300/pint](https://github.com/pushpak1300/pint)
+4. 💪 Opened PR [#2](https://github.com/pushpak1300/pint/pull/2) in [pushpak1300/pint](https://github.com/pushpak1300/pint)
+5. 💪 Opened PR [#161](https://github.com/laravel/pennant/pull/161) in [laravel/pennant](https://github.com/laravel/pennant)
 <!--END_SECTION:activity-->
