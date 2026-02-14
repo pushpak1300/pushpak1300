@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2896](https://github.com/inertiajs/inertia/pull/2896) in [inertiajs/inertia](https://github.com/inertiajs/inertia)
-2. 💪 Opened PR [#828](https://github.com/inertiajs/inertia-laravel/pull/828) in [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel)
-3. 💪 Opened PR [#423](https://github.com/laravel/pint/pull/423) in [laravel/pint](https://github.com/laravel/pint)
-4. ❌ Closed PR [#2](https://github.com/pushpak1300/pint/pull/2) in [pushpak1300/pint](https://github.com/pushpak1300/pint)
-5. 💪 Opened PR [#2](https://github.com/pushpak1300/pint/pull/2) in [pushpak1300/pint](https://github.com/pushpak1300/pint)
+1. 🔒 Closed issue [#572](https://github.com/laravel/boost/issues/572) in [laravel/boost](https://github.com/laravel/boost)
+2. 🗣 Commented on [#572](https://github.com/laravel/boost/issues/572#issuecomment-3901760739) in [laravel/boost](https://github.com/laravel/boost)
+3. 💪 Opened PR [#2896](https://github.com/inertiajs/inertia/pull/2896) in [inertiajs/inertia](https://github.com/inertiajs/inertia)
+4. 💪 Opened PR [#828](https://github.com/inertiajs/inertia-laravel/pull/828) in [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel)
+5. 💪 Opened PR [#423](https://github.com/laravel/pint/pull/423) in [laravel/pint](https://github.com/laravel/pint)
 <!--END_SECTION:activity-->
