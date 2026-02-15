@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#572](https://github.com/laravel/boost/issues/572) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#572](https://github.com/laravel/boost/issues/572#issuecomment-3901760739) in [laravel/boost](https://github.com/laravel/boost)
-3. 💪 Opened PR [#2896](https://github.com/inertiajs/inertia/pull/2896) in [inertiajs/inertia](https://github.com/inertiajs/inertia)
-4. 💪 Opened PR [#828](https://github.com/inertiajs/inertia-laravel/pull/828) in [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel)
-5. 💪 Opened PR [#423](https://github.com/laravel/pint/pull/423) in [laravel/pint](https://github.com/laravel/pint)
+1. 🗣 Commented on [#4939](https://github.com/phpstan/phpstan-src/pull/4939#issuecomment-3904417894) in [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)
+2. 💪 Opened PR [#4939](https://github.com/phpstan/phpstan-src/pull/4939) in [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)
+3. ❌ Closed PR [#4938](https://github.com/phpstan/phpstan-src/pull/4938) in [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)
+4. 🗣 Commented on [#4938](https://github.com/phpstan/phpstan-src/pull/4938#issuecomment-3904405243) in [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)
+5. 💪 Opened PR [#4938](https://github.com/phpstan/phpstan-src/pull/4938) in [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)
 <!--END_SECTION:activity-->
