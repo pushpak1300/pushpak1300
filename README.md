@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4942](https://github.com/phpstan/phpstan-src/pull/4942) in [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)
-2. 💪 Opened PR [#4940](https://github.com/phpstan/phpstan-src/pull/4940) in [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)
-3. 🗣 Commented on [#4939](https://github.com/phpstan/phpstan-src/pull/4939#issuecomment-3904417894) in [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)
-4. 💪 Opened PR [#4939](https://github.com/phpstan/phpstan-src/pull/4939) in [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)
-5. ❌ Closed PR [#4938](https://github.com/phpstan/phpstan-src/pull/4938) in [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)
+1. 💪 Opened PR [#574](https://github.com/laravel/boost/pull/574) in [laravel/boost](https://github.com/laravel/boost)
+2. 💪 Opened PR [#167](https://github.com/agentskills/agentskills/pull/167) in [agentskills/agentskills](https://github.com/agentskills/agentskills)
+3. ℹ️ Labeled issue [#539](https://github.com/laravel/boost/issues/539) in [laravel/boost](https://github.com/laravel/boost)
+4. 💪 Opened PR [#4942](https://github.com/phpstan/phpstan-src/pull/4942) in [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)
+5. 💪 Opened PR [#4940](https://github.com/phpstan/phpstan-src/pull/4940) in [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)
 <!--END_SECTION:activity-->
