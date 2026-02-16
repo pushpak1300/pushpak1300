@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#154](https://github.com/laravel/mcp/pull/154) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 💪 Opened PR [#154](https://github.com/laravel/mcp/pull/154) in [laravel/mcp](https://github.com/laravel/mcp)
-3. 🗣 Commented on [#4942](https://github.com/phpstan/phpstan-src/pull/4942#issuecomment-3909687673) in [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src)
-4. 🎉 Merged PR [#574](https://github.com/laravel/boost/pull/574) in [laravel/boost](https://github.com/laravel/boost)
-5. 🔒 Closed issue [#573](https://github.com/laravel/boost/issues/573) in [laravel/boost](https://github.com/laravel/boost)
+1. 🔒 Closed issue [#139](https://github.com/laravel/mcp/issues/139) in [laravel/mcp](https://github.com/laravel/mcp)
+2. 🗣 Commented on [#139](https://github.com/laravel/mcp/issues/139#issuecomment-3910259095) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 🔒 Closed issue [#90](https://github.com/laravel/mcp/issues/90) in [laravel/mcp](https://github.com/laravel/mcp)
+4. 🗣 Commented on [#90](https://github.com/laravel/mcp/issues/90#issuecomment-3910201524) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 🔒 Closed issue [#79](https://github.com/laravel/mcp/issues/79) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
