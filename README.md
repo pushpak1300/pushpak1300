@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.2.0](https://github.com/laravel/boost/releases/tag/v2.2.0) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#905](https://github.com/prism-php/prism/issues/905#issuecomment-3936459864) in [prism-php/prism](https://github.com/prism-php/prism)
-3. 🗣 Commented on [#31](https://github.com/laravel/ai/pull/31#issuecomment-3936238544) in [laravel/ai](https://github.com/laravel/ai)
-4. 🗣 Commented on [#162](https://github.com/laravel/ai/pull/162#issuecomment-3936230446) in [laravel/ai](https://github.com/laravel/ai)
-5. 🎉 Merged PR [#566](https://github.com/laravel/boost/pull/566) in [laravel/boost](https://github.com/laravel/boost)
+1. 🎉 Merged PR [#161](https://github.com/laravel/pennant/pull/161) in [laravel/pennant](https://github.com/laravel/pennant)
+2. 🎉 Merged PR [#155](https://github.com/laravel/folio/pull/155) in [laravel/folio](https://github.com/laravel/folio)
+3. 🎉 Merged PR [#151](https://github.com/livewire/volt/pull/151) in [livewire/volt](https://github.com/livewire/volt)
+4. 🎉 Merged PR [#423](https://github.com/laravel/pint/pull/423) in [laravel/pint](https://github.com/laravel/pint)
+5. 🎉 Merged PR [#153](https://github.com/laravel/mcp/pull/153) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
