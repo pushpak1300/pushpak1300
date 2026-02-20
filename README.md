@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#583](https://github.com/laravel/boost/issues/583) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#583](https://github.com/laravel/boost/issues/583#issuecomment-3925082687) in [laravel/boost](https://github.com/laravel/boost)
-3. 🎉 Merged PR [#155](https://github.com/laravel/mcp/pull/155) in [laravel/mcp](https://github.com/laravel/mcp)
-4. ❌ Closed PR [#720](https://github.com/pushpak1300/pushpak1300.me/pull/720) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-5. ❌ Closed PR [#730](https://github.com/pushpak1300/pushpak1300.me/pull/730) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+1. ℹ️ Labeled issue [#584](https://github.com/laravel/boost/issues/584) in [laravel/boost](https://github.com/laravel/boost)
+2. ❌ Closed PR [#585](https://github.com/laravel/boost/pull/585) in [laravel/boost](https://github.com/laravel/boost)
+3. 🗣 Commented on [#585](https://github.com/laravel/boost/pull/585#issuecomment-3932176860) in [laravel/boost](https://github.com/laravel/boost)
+4. 🗣 Commented on [#588](https://github.com/laravel/boost/pull/588#issuecomment-3932174599) in [laravel/boost](https://github.com/laravel/boost)
+5. 🗣 Commented on [#589](https://github.com/laravel/boost/pull/589#issuecomment-3932161336) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
