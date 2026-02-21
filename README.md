@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#919](https://github.com/prism-php/prism/issues/919#issuecomment-3938611887) in [prism-php/prism](https://github.com/prism-php/prism)
-2. 🗣 Commented on [#584](https://github.com/laravel/boost/issues/584#issuecomment-3938096407) in [laravel/boost](https://github.com/laravel/boost)
-3. 🎉 Merged PR [#161](https://github.com/laravel/pennant/pull/161) in [laravel/pennant](https://github.com/laravel/pennant)
-4. 🎉 Merged PR [#155](https://github.com/laravel/folio/pull/155) in [laravel/folio](https://github.com/laravel/folio)
-5. 🎉 Merged PR [#151](https://github.com/livewire/volt/pull/151) in [livewire/volt](https://github.com/livewire/volt)
+1. 💪 Opened PR [#32](https://github.com/prism-php/relay/pull/32) in [prism-php/relay](https://github.com/prism-php/relay)
+2. 🗣 Commented on [#919](https://github.com/prism-php/prism/issues/919#issuecomment-3938611887) in [prism-php/prism](https://github.com/prism-php/prism)
+3. 🗣 Commented on [#584](https://github.com/laravel/boost/issues/584#issuecomment-3938096407) in [laravel/boost](https://github.com/laravel/boost)
+4. 🎉 Merged PR [#161](https://github.com/laravel/pennant/pull/161) in [laravel/pennant](https://github.com/laravel/pennant)
+5. 🎉 Merged PR [#155](https://github.com/laravel/folio/pull/155) in [laravel/folio](https://github.com/laravel/folio)
 <!--END_SECTION:activity-->
