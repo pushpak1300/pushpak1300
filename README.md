@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/pushpak1300/relay/pull/1) in [pushpak1300/relay](https://github.com/pushpak1300/relay)
-2. 💪 Opened PR [#32](https://github.com/prism-php/relay/pull/32) in [prism-php/relay](https://github.com/prism-php/relay)
-3. 🗣 Commented on [#919](https://github.com/prism-php/prism/issues/919#issuecomment-3938611887) in [prism-php/prism](https://github.com/prism-php/prism)
-4. 🗣 Commented on [#584](https://github.com/laravel/boost/issues/584#issuecomment-3938096407) in [laravel/boost](https://github.com/laravel/boost)
-5. 🎉 Merged PR [#161](https://github.com/laravel/pennant/pull/161) in [laravel/pennant](https://github.com/laravel/pennant)
+1. 💪 Opened PR [#33](https://github.com/prism-php/relay/pull/33) in [prism-php/relay](https://github.com/prism-php/relay)
+2. 💪 Opened PR [#1](https://github.com/pushpak1300/relay/pull/1) in [pushpak1300/relay](https://github.com/pushpak1300/relay)
+3. 💪 Opened PR [#32](https://github.com/prism-php/relay/pull/32) in [prism-php/relay](https://github.com/prism-php/relay)
+4. 🗣 Commented on [#919](https://github.com/prism-php/prism/issues/919#issuecomment-3938611887) in [prism-php/prism](https://github.com/prism-php/prism)
+5. 🗣 Commented on [#584](https://github.com/laravel/boost/issues/584#issuecomment-3938096407) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
