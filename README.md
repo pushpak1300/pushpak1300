@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#596](https://github.com/laravel/boost/pull/596#issuecomment-3939309589) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#33](https://github.com/prism-php/relay/pull/33#issuecomment-3939249348) in [prism-php/relay](https://github.com/prism-php/relay)
-3. 💪 Opened PR [#33](https://github.com/prism-php/relay/pull/33) in [prism-php/relay](https://github.com/prism-php/relay)
-4. 💪 Opened PR [#1](https://github.com/pushpak1300/relay/pull/1) in [pushpak1300/relay](https://github.com/pushpak1300/relay)
-5. 💪 Opened PR [#32](https://github.com/prism-php/relay/pull/32) in [prism-php/relay](https://github.com/prism-php/relay)
+1. 🗣 Commented on [#597](https://github.com/laravel/boost/issues/597#issuecomment-3940992035) in [laravel/boost](https://github.com/laravel/boost)
+2. 🔒 Closed issue [#597](https://github.com/laravel/boost/issues/597) in [laravel/boost](https://github.com/laravel/boost)
+3. 🗣 Commented on [#596](https://github.com/laravel/boost/pull/596#issuecomment-3939309589) in [laravel/boost](https://github.com/laravel/boost)
+4. 🗣 Commented on [#33](https://github.com/prism-php/relay/pull/33#issuecomment-3939249348) in [prism-php/relay](https://github.com/prism-php/relay)
+5. 💪 Opened PR [#33](https://github.com/prism-php/relay/pull/33) in [prism-php/relay](https://github.com/prism-php/relay)
 <!--END_SECTION:activity-->
