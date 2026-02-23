@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#162](https://github.com/laravel/mcp/pull/162) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🎉 Merged PR [#161](https://github.com/laravel/mcp/pull/161) in [laravel/mcp](https://github.com/laravel/mcp)
-3. 🗣 Commented on [#600](https://github.com/laravel/boost/issues/600#issuecomment-3944276446) in [laravel/boost](https://github.com/laravel/boost)
-4. 🗣 Commented on [#595](https://github.com/laravel/boost/pull/595#issuecomment-3944154228) in [laravel/boost](https://github.com/laravel/boost)
-5. 🗣 Commented on [#921](https://github.com/prism-php/prism/issues/921#issuecomment-3943524567) in [prism-php/prism](https://github.com/prism-php/prism)
+1. 🎉 Merged PR [#29](https://github.com/NativePHP/mobile-air/pull/29) in [NativePHP/mobile-air](https://github.com/NativePHP/mobile-air)
+2. 🎉 Merged PR [#162](https://github.com/laravel/mcp/pull/162) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 🎉 Merged PR [#161](https://github.com/laravel/mcp/pull/161) in [laravel/mcp](https://github.com/laravel/mcp)
+4. 🗣 Commented on [#600](https://github.com/laravel/boost/issues/600#issuecomment-3944276446) in [laravel/boost](https://github.com/laravel/boost)
+5. 🗣 Commented on [#595](https://github.com/laravel/boost/pull/595#issuecomment-3944154228) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
