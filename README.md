@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#595](https://github.com/laravel/boost/pull/595#issuecomment-3944154228) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#921](https://github.com/prism-php/prism/issues/921#issuecomment-3943524567) in [prism-php/prism](https://github.com/prism-php/prism)
-3. 💪 Opened PR [#162](https://github.com/laravel/mcp/pull/162) in [laravel/mcp](https://github.com/laravel/mcp)
-4. 💪 Opened PR [#333](https://github.com/laravel/nightwatch/pull/333) in [laravel/nightwatch](https://github.com/laravel/nightwatch)
-5. 💪 Opened PR [#161](https://github.com/laravel/mcp/pull/161) in [laravel/mcp](https://github.com/laravel/mcp)
+1. 🗣 Commented on [#600](https://github.com/laravel/boost/issues/600#issuecomment-3944276446) in [laravel/boost](https://github.com/laravel/boost)
+2. 🗣 Commented on [#595](https://github.com/laravel/boost/pull/595#issuecomment-3944154228) in [laravel/boost](https://github.com/laravel/boost)
+3. 🗣 Commented on [#921](https://github.com/prism-php/prism/issues/921#issuecomment-3943524567) in [prism-php/prism](https://github.com/prism-php/prism)
+4. 💪 Opened PR [#162](https://github.com/laravel/mcp/pull/162) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 💪 Opened PR [#333](https://github.com/laravel/nightwatch/pull/333) in [laravel/nightwatch](https://github.com/laravel/nightwatch)
 <!--END_SECTION:activity-->
