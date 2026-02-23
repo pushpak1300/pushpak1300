@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#167](https://github.com/agentskills/agentskills/pull/167) in [agentskills/agentskills](https://github.com/agentskills/agentskills)
-2. 🗣 Commented on [#597](https://github.com/laravel/boost/issues/597#issuecomment-3941336638) in [laravel/boost](https://github.com/laravel/boost)
-3. 💪 Opened PR [#29](https://github.com/NativePHP/mobile-air/pull/29) in [NativePHP/mobile-air](https://github.com/NativePHP/mobile-air)
-4. 🗣 Commented on [#597](https://github.com/laravel/boost/issues/597#issuecomment-3940992035) in [laravel/boost](https://github.com/laravel/boost)
-5. 🔒 Closed issue [#597](https://github.com/laravel/boost/issues/597) in [laravel/boost](https://github.com/laravel/boost)
+1. 💪 Opened PR [#161](https://github.com/laravel/mcp/pull/161) in [laravel/mcp](https://github.com/laravel/mcp)
+2. 🎉 Merged PR [#167](https://github.com/agentskills/agentskills/pull/167) in [agentskills/agentskills](https://github.com/agentskills/agentskills)
+3. 🗣 Commented on [#597](https://github.com/laravel/boost/issues/597#issuecomment-3941336638) in [laravel/boost](https://github.com/laravel/boost)
+4. 💪 Opened PR [#29](https://github.com/NativePHP/mobile-air/pull/29) in [NativePHP/mobile-air](https://github.com/NativePHP/mobile-air)
+5. 🗣 Commented on [#597](https://github.com/laravel/boost/issues/597#issuecomment-3940992035) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
