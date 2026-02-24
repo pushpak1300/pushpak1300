@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Reopened PR [#557](https://github.com/laravel/boost/pull/557) in [laravel/boost](https://github.com/laravel/boost)
-2. ❌ Closed PR [#557](https://github.com/laravel/boost/pull/557) in [laravel/boost](https://github.com/laravel/boost)
-3. ℹ️ Reopened PR [#557](https://github.com/laravel/boost/pull/557) in [laravel/boost](https://github.com/laravel/boost)
-4. ❌ Closed PR [#557](https://github.com/laravel/boost/pull/557) in [laravel/boost](https://github.com/laravel/boost)
-5. 🗣 Commented on [#164](https://github.com/laravel/mcp/pull/164#issuecomment-3950101670) in [laravel/mcp](https://github.com/laravel/mcp)
+1. 🎉 Merged PR [#828](https://github.com/inertiajs/inertia-laravel/pull/828) in [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel)
+2. ℹ️ Reopened PR [#557](https://github.com/laravel/boost/pull/557) in [laravel/boost](https://github.com/laravel/boost)
+3. ❌ Closed PR [#557](https://github.com/laravel/boost/pull/557) in [laravel/boost](https://github.com/laravel/boost)
+4. ℹ️ Reopened PR [#557](https://github.com/laravel/boost/pull/557) in [laravel/boost](https://github.com/laravel/boost)
+5. ❌ Closed PR [#557](https://github.com/laravel/boost/pull/557) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
