@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#163](https://github.com/laravel/mcp/pull/163) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🗣 Commented on [#600](https://github.com/laravel/boost/issues/600#issuecomment-3946848166) in [laravel/boost](https://github.com/laravel/boost)
-3. 🎉 Merged PR [#29](https://github.com/NativePHP/mobile-air/pull/29) in [NativePHP/mobile-air](https://github.com/NativePHP/mobile-air)
-4. 🎉 Merged PR [#162](https://github.com/laravel/mcp/pull/162) in [laravel/mcp](https://github.com/laravel/mcp)
-5. 🎉 Merged PR [#161](https://github.com/laravel/mcp/pull/161) in [laravel/mcp](https://github.com/laravel/mcp)
+1. 🎉 Merged PR [#163](https://github.com/laravel/mcp/pull/163) in [laravel/mcp](https://github.com/laravel/mcp)
+2. 💪 Opened PR [#163](https://github.com/laravel/mcp/pull/163) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 🗣 Commented on [#600](https://github.com/laravel/boost/issues/600#issuecomment-3946848166) in [laravel/boost](https://github.com/laravel/boost)
+4. 🎉 Merged PR [#29](https://github.com/NativePHP/mobile-air/pull/29) in [NativePHP/mobile-air](https://github.com/NativePHP/mobile-air)
+5. 🎉 Merged PR [#162](https://github.com/laravel/mcp/pull/162) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
