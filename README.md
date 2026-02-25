@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/pushpak1300/cypress-mailpit/pull/62) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-2. 💪 Opened PR [#62](https://github.com/pushpak1300/cypress-mailpit/pull/62) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-3. 🗣 Commented on [#445](https://github.com/laravel/boost/issues/445#issuecomment-3960899811) in [laravel/boost](https://github.com/laravel/boost)
-4. 🔒 Closed issue [#445](https://github.com/laravel/boost/issues/445) in [laravel/boost](https://github.com/laravel/boost)
-5. 🔒 Closed issue [#176](https://github.com/laravel/boost/issues/176) in [laravel/boost](https://github.com/laravel/boost)
+1. 🎉 Merged PR [#63](https://github.com/pushpak1300/cypress-mailpit/pull/63) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+2. 💪 Opened PR [#65](https://github.com/pushpak1300/cypress-mailpit/pull/65) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+3. 🎉 Merged PR [#64](https://github.com/pushpak1300/cypress-mailpit/pull/64) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+4. 💪 Opened PR [#64](https://github.com/pushpak1300/cypress-mailpit/pull/64) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+5. 💪 Opened PR [#63](https://github.com/pushpak1300/cypress-mailpit/pull/63) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
 <!--END_SECTION:activity-->
