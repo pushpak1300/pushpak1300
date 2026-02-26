@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#151](https://github.com/laravel/ai/pull/151) in [laravel/ai](https://github.com/laravel/ai)
-2. 🗣 Commented on [#151](https://github.com/laravel/ai/pull/151#issuecomment-3965985321) in [laravel/ai](https://github.com/laravel/ai)
-3. 🚀 Published release [v2.0.1](https://github.com/pushpak1300/cypress-mailpit/releases/tag/v2.0.1) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-4. 🎉 Merged PR [#71](https://github.com/pushpak1300/cypress-mailpit/pull/71) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-5. 💪 Opened PR [#71](https://github.com/pushpak1300/cypress-mailpit/pull/71) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+1. 💪 Opened PR [#2914](https://github.com/inertiajs/inertia/pull/2914) in [inertiajs/inertia](https://github.com/inertiajs/inertia)
+2. ❌ Closed PR [#151](https://github.com/laravel/ai/pull/151) in [laravel/ai](https://github.com/laravel/ai)
+3. 🗣 Commented on [#151](https://github.com/laravel/ai/pull/151#issuecomment-3965985321) in [laravel/ai](https://github.com/laravel/ai)
+4. 🚀 Published release [v2.0.1](https://github.com/pushpak1300/cypress-mailpit/releases/tag/v2.0.1) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+5. 🎉 Merged PR [#71](https://github.com/pushpak1300/cypress-mailpit/pull/71) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
 <!--END_SECTION:activity-->
