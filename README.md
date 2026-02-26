@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#657](https://github.com/laravel/fortify/pull/657) in [laravel/fortify](https://github.com/laravel/fortify)
-2. ❌ Closed PR [#656](https://github.com/laravel/fortify/pull/656) in [laravel/fortify](https://github.com/laravel/fortify)
-3. 💪 Opened PR [#656](https://github.com/laravel/fortify/pull/656) in [laravel/fortify](https://github.com/laravel/fortify)
-4. 💪 Opened PR [#764](https://github.com/laravel/socialite/pull/764) in [laravel/socialite](https://github.com/laravel/socialite)
-5. 🗣 Commented on [#606](https://github.com/laravel/boost/issues/606#issuecomment-3966464721) in [laravel/boost](https://github.com/laravel/boost)
+1. 🎉 Merged PR [#2914](https://github.com/inertiajs/inertia/pull/2914) in [inertiajs/inertia](https://github.com/inertiajs/inertia)
+2. 💪 Opened PR [#657](https://github.com/laravel/fortify/pull/657) in [laravel/fortify](https://github.com/laravel/fortify)
+3. ❌ Closed PR [#656](https://github.com/laravel/fortify/pull/656) in [laravel/fortify](https://github.com/laravel/fortify)
+4. 💪 Opened PR [#656](https://github.com/laravel/fortify/pull/656) in [laravel/fortify](https://github.com/laravel/fortify)
+5. 💪 Opened PR [#764](https://github.com/laravel/socialite/pull/764) in [laravel/socialite](https://github.com/laravel/socialite)
 <!--END_SECTION:activity-->
