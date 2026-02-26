@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#606](https://github.com/laravel/boost/issues/606#issuecomment-3966464721) in [laravel/boost](https://github.com/laravel/boost)
-2. 💪 Opened PR [#2914](https://github.com/inertiajs/inertia/pull/2914) in [inertiajs/inertia](https://github.com/inertiajs/inertia)
-3. ❌ Closed PR [#151](https://github.com/laravel/ai/pull/151) in [laravel/ai](https://github.com/laravel/ai)
-4. 🗣 Commented on [#151](https://github.com/laravel/ai/pull/151#issuecomment-3965985321) in [laravel/ai](https://github.com/laravel/ai)
-5. 🚀 Published release [v2.0.1](https://github.com/pushpak1300/cypress-mailpit/releases/tag/v2.0.1) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
+1. 💪 Opened PR [#657](https://github.com/laravel/fortify/pull/657) in [laravel/fortify](https://github.com/laravel/fortify)
+2. ❌ Closed PR [#656](https://github.com/laravel/fortify/pull/656) in [laravel/fortify](https://github.com/laravel/fortify)
+3. 💪 Opened PR [#656](https://github.com/laravel/fortify/pull/656) in [laravel/fortify](https://github.com/laravel/fortify)
+4. 💪 Opened PR [#764](https://github.com/laravel/socialite/pull/764) in [laravel/socialite](https://github.com/laravel/socialite)
+5. 🗣 Commented on [#606](https://github.com/laravel/boost/issues/606#issuecomment-3966464721) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
