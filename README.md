@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#613](https://github.com/laravel/boost/issues/613#issuecomment-3976537468) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#600](https://github.com/laravel/boost/issues/600#issuecomment-3974190237) in [laravel/boost](https://github.com/laravel/boost)
-3. 🎉 Merged PR [#657](https://github.com/laravel/fortify/pull/657) in [laravel/fortify](https://github.com/laravel/fortify)
-4. 🎉 Merged PR [#764](https://github.com/laravel/socialite/pull/764) in [laravel/socialite](https://github.com/laravel/socialite)
-5. 🎉 Merged PR [#227](https://github.com/laravel/ai/pull/227) in [laravel/ai](https://github.com/laravel/ai)
+1. 🔒 Closed issue [#613](https://github.com/laravel/boost/issues/613) in [laravel/boost](https://github.com/laravel/boost)
+2. 🗣 Commented on [#613](https://github.com/laravel/boost/issues/613#issuecomment-3976537468) in [laravel/boost](https://github.com/laravel/boost)
+3. 🗣 Commented on [#600](https://github.com/laravel/boost/issues/600#issuecomment-3974190237) in [laravel/boost](https://github.com/laravel/boost)
+4. 🎉 Merged PR [#657](https://github.com/laravel/fortify/pull/657) in [laravel/fortify](https://github.com/laravel/fortify)
+5. 🎉 Merged PR [#764](https://github.com/laravel/socialite/pull/764) in [laravel/socialite](https://github.com/laravel/socialite)
 <!--END_SECTION:activity-->
