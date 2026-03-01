@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#172](https://github.com/laravel/wayfinder/pull/172) in [laravel/wayfinder](https://github.com/laravel/wayfinder)
-2. 🔒 Closed issue [#613](https://github.com/laravel/boost/issues/613) in [laravel/boost](https://github.com/laravel/boost)
-3. 🗣 Commented on [#613](https://github.com/laravel/boost/issues/613#issuecomment-3976537468) in [laravel/boost](https://github.com/laravel/boost)
-4. 🗣 Commented on [#600](https://github.com/laravel/boost/issues/600#issuecomment-3974190237) in [laravel/boost](https://github.com/laravel/boost)
-5. 🎉 Merged PR [#657](https://github.com/laravel/fortify/pull/657) in [laravel/fortify](https://github.com/laravel/fortify)
+1. 🎉 Merged PR [#32](https://github.com/prism-php/relay/pull/32) in [prism-php/relay](https://github.com/prism-php/relay)
+2. 🎉 Merged PR [#172](https://github.com/laravel/wayfinder/pull/172) in [laravel/wayfinder](https://github.com/laravel/wayfinder)
+3. 🔒 Closed issue [#613](https://github.com/laravel/boost/issues/613) in [laravel/boost](https://github.com/laravel/boost)
+4. 🗣 Commented on [#613](https://github.com/laravel/boost/issues/613#issuecomment-3976537468) in [laravel/boost](https://github.com/laravel/boost)
+5. 🗣 Commented on [#600](https://github.com/laravel/boost/issues/600#issuecomment-3974190237) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
