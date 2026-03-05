@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59088](https://github.com/laravel/framework/pull/59088) in [laravel/framework](https://github.com/laravel/framework)
-2. 💪 Opened PR [#480](https://github.com/laravel/echo/pull/480) in [laravel/echo](https://github.com/laravel/echo)
-3. 💪 Opened PR [#629](https://github.com/laravel/boost/pull/629) in [laravel/boost](https://github.com/laravel/boost)
-4. 🚀 Published release [v1.0.0](https://github.com/shipfastlabs/terminal-detector/releases/tag/v1.0.0) in [shipfastlabs/terminal-detector](https://github.com/shipfastlabs/terminal-detector)
-5. 🚀 Published release [v1.0.2](https://github.com/shipfastlabs/agent-detector/releases/tag/v1.0.2) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
+1. 🎉 Merged PR [#44](https://github.com/laravel/roster/pull/44) in [laravel/roster](https://github.com/laravel/roster)
+2. 💪 Opened PR [#44](https://github.com/laravel/roster/pull/44) in [laravel/roster](https://github.com/laravel/roster)
+3. 💪 Opened PR [#59088](https://github.com/laravel/framework/pull/59088) in [laravel/framework](https://github.com/laravel/framework)
+4. 💪 Opened PR [#480](https://github.com/laravel/echo/pull/480) in [laravel/echo](https://github.com/laravel/echo)
+5. 💪 Opened PR [#629](https://github.com/laravel/boost/pull/629) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
