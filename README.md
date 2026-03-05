@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#43](https://github.com/laravel/roster/issues/43) in [laravel/roster](https://github.com/laravel/roster)
-2. 🎉 Merged PR [#480](https://github.com/laravel/echo/pull/480) in [laravel/echo](https://github.com/laravel/echo)
-3. 🎉 Merged PR [#1893](https://github.com/laravel/passport/pull/1893) in [laravel/passport](https://github.com/laravel/passport)
-4. 🎉 Merged PR [#979](https://github.com/laravel/scout/pull/979) in [laravel/scout](https://github.com/laravel/scout)
-5. 🗣 Commented on [#631](https://github.com/laravel/boost/issues/631#issuecomment-4005517684) in [laravel/boost](https://github.com/laravel/boost)
+1. 💪 Opened PR [#1825](https://github.com/laravel/cashier-stripe/pull/1825) in [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe)
+2. 💪 Opened PR [#1723](https://github.com/laravel/horizon/pull/1723) in [laravel/horizon](https://github.com/laravel/horizon)
+3. 💪 Opened PR [#484](https://github.com/laravel/pulse/pull/484) in [laravel/pulse](https://github.com/laravel/pulse)
+4. 🔒 Closed issue [#43](https://github.com/laravel/roster/issues/43) in [laravel/roster](https://github.com/laravel/roster)
+5. 🎉 Merged PR [#480](https://github.com/laravel/echo/pull/480) in [laravel/echo](https://github.com/laravel/echo)
 <!--END_SECTION:activity-->
