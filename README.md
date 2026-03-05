@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/laravel/roster/pull/44) in [laravel/roster](https://github.com/laravel/roster)
-2. 💪 Opened PR [#44](https://github.com/laravel/roster/pull/44) in [laravel/roster](https://github.com/laravel/roster)
-3. 💪 Opened PR [#59088](https://github.com/laravel/framework/pull/59088) in [laravel/framework](https://github.com/laravel/framework)
-4. 💪 Opened PR [#480](https://github.com/laravel/echo/pull/480) in [laravel/echo](https://github.com/laravel/echo)
-5. 💪 Opened PR [#629](https://github.com/laravel/boost/pull/629) in [laravel/boost](https://github.com/laravel/boost)
+1. 🚀 Published release [v0.5.1](https://github.com/laravel/roster/releases/tag/v0.5.1) in [laravel/roster](https://github.com/laravel/roster)
+2. 🎉 Merged PR [#44](https://github.com/laravel/roster/pull/44) in [laravel/roster](https://github.com/laravel/roster)
+3. 💪 Opened PR [#44](https://github.com/laravel/roster/pull/44) in [laravel/roster](https://github.com/laravel/roster)
+4. 💪 Opened PR [#59088](https://github.com/laravel/framework/pull/59088) in [laravel/framework](https://github.com/laravel/framework)
+5. 💪 Opened PR [#480](https://github.com/laravel/echo/pull/480) in [laravel/echo](https://github.com/laravel/echo)
 <!--END_SECTION:activity-->
