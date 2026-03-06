@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1099](https://github.com/laravel/octane/pull/1099) in [laravel/octane](https://github.com/laravel/octane)
-2. 🎉 Merged PR [#635](https://github.com/laravel/boost/pull/635) in [laravel/boost](https://github.com/laravel/boost)
-3. 💪 Opened PR [#309](https://github.com/laravel/cashier-paddle/pull/309) in [laravel/cashier-paddle](https://github.com/laravel/cashier-paddle)
-4. 💪 Opened PR [#635](https://github.com/laravel/boost/pull/635) in [laravel/boost](https://github.com/laravel/boost)
-5. 💪 Opened PR [#1825](https://github.com/laravel/cashier-stripe/pull/1825) in [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe)
+1. 🎉 Merged PR [#1099](https://github.com/laravel/octane/pull/1099) in [laravel/octane](https://github.com/laravel/octane)
+2. ❌ Closed PR [#1](https://github.com/pushpak1300/pingcrm/pull/1) in [pushpak1300/pingcrm](https://github.com/pushpak1300/pingcrm)
+3. 💪 Opened PR [#1](https://github.com/pushpak1300/pingcrm/pull/1) in [pushpak1300/pingcrm](https://github.com/pushpak1300/pingcrm)
+4. 💪 Opened PR [#1099](https://github.com/laravel/octane/pull/1099) in [laravel/octane](https://github.com/laravel/octane)
+5. 🎉 Merged PR [#635](https://github.com/laravel/boost/pull/635) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
