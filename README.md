@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#647](https://github.com/laravel/boost/pull/647) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#942](https://github.com/prism-php/prism/issues/942#issuecomment-4033522094) in [prism-php/prism](https://github.com/prism-php/prism)
-3. 💪 Opened PR [#1725](https://github.com/laravel/horizon/pull/1725) in [laravel/horizon](https://github.com/laravel/horizon)
-4. 🎉 Merged PR [#645](https://github.com/laravel/boost/pull/645) in [laravel/boost](https://github.com/laravel/boost)
-5. 🎉 Merged PR [#644](https://github.com/laravel/boost/pull/644) in [laravel/boost](https://github.com/laravel/boost)
+1. 💪 Opened PR [#1727](https://github.com/laravel/horizon/pull/1727) in [laravel/horizon](https://github.com/laravel/horizon)
+2. 💪 Opened PR [#647](https://github.com/laravel/boost/pull/647) in [laravel/boost](https://github.com/laravel/boost)
+3. 🗣 Commented on [#942](https://github.com/prism-php/prism/issues/942#issuecomment-4033522094) in [prism-php/prism](https://github.com/prism-php/prism)
+4. 💪 Opened PR [#1725](https://github.com/laravel/horizon/pull/1725) in [laravel/horizon](https://github.com/laravel/horizon)
+5. 🎉 Merged PR [#645](https://github.com/laravel/boost/pull/645) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
