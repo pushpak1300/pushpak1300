@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1727](https://github.com/laravel/horizon/pull/1727) in [laravel/horizon](https://github.com/laravel/horizon)
-2. 🗣 Commented on [#646](https://github.com/laravel/boost/pull/646#issuecomment-4034050382) in [laravel/boost](https://github.com/laravel/boost)
-3. 💪 Opened PR [#3](https://github.com/laravel/claude-code/pull/3) in [laravel/claude-code](https://github.com/laravel/claude-code)
-4. 💪 Opened PR [#1727](https://github.com/laravel/horizon/pull/1727) in [laravel/horizon](https://github.com/laravel/horizon)
-5. 💪 Opened PR [#647](https://github.com/laravel/boost/pull/647) in [laravel/boost](https://github.com/laravel/boost)
+1. 🎉 Merged PR [#3](https://github.com/laravel/claude-code/pull/3) in [laravel/claude-code](https://github.com/laravel/claude-code)
+2. 🎉 Merged PR [#1727](https://github.com/laravel/horizon/pull/1727) in [laravel/horizon](https://github.com/laravel/horizon)
+3. 🗣 Commented on [#646](https://github.com/laravel/boost/pull/646#issuecomment-4034050382) in [laravel/boost](https://github.com/laravel/boost)
+4. 💪 Opened PR [#3](https://github.com/laravel/claude-code/pull/3) in [laravel/claude-code](https://github.com/laravel/claude-code)
+5. 💪 Opened PR [#1727](https://github.com/laravel/horizon/pull/1727) in [laravel/horizon](https://github.com/laravel/horizon)
 <!--END_SECTION:activity-->
