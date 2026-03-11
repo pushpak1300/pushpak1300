@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.3.0](https://github.com/laravel/boost/releases/tag/v2.3.0) in [laravel/boost](https://github.com/laravel/boost)
-2. 🎉 Merged PR [#636](https://github.com/laravel/boost/pull/636) in [laravel/boost](https://github.com/laravel/boost)
-3. 🗣 Commented on [#648](https://github.com/laravel/boost/pull/648#issuecomment-4040081309) in [laravel/boost](https://github.com/laravel/boost)
-4. ❌ Closed PR [#648](https://github.com/laravel/boost/pull/648) in [laravel/boost](https://github.com/laravel/boost)
-5. 🎉 Merged PR [#4](https://github.com/laravel/agent-skills/pull/4) in [laravel/agent-skills](https://github.com/laravel/agent-skills)
+1. 💪 Opened PR [#654](https://github.com/laravel/boost/pull/654) in [laravel/boost](https://github.com/laravel/boost)
+2. 🚀 Published release [v1.1.0](https://github.com/shipfastlabs/agent-detector/releases/tag/v1.1.0) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
+3. 🎉 Merged PR [#4](https://github.com/shipfastlabs/agent-detector/pull/4) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
+4. 🔒 Closed issue [#653](https://github.com/laravel/boost/issues/653) in [laravel/boost](https://github.com/laravel/boost)
+5. 💪 Opened PR [#4](https://github.com/shipfastlabs/agent-detector/pull/4) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
 <!--END_SECTION:activity-->
