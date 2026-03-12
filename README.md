@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11086](https://github.com/laravel/docs/pull/11086) in [laravel/docs](https://github.com/laravel/docs)
-2. 🚀 Published release [v2.3.1](https://github.com/laravel/boost/releases/tag/v2.3.1) in [laravel/boost](https://github.com/laravel/boost)
-3. ℹ️ Labeled issue [#218](https://github.com/laravel/ai/issues/218) in [laravel/ai](https://github.com/laravel/ai)
+1. 🗣 Commented on [#657](https://github.com/laravel/boost/pull/657#issuecomment-4045754914) in [laravel/boost](https://github.com/laravel/boost)
+2. 💪 Opened PR [#11086](https://github.com/laravel/docs/pull/11086) in [laravel/docs](https://github.com/laravel/docs)
+3. 🚀 Published release [v2.3.1](https://github.com/laravel/boost/releases/tag/v2.3.1) in [laravel/boost](https://github.com/laravel/boost)
 4. ℹ️ Labeled issue [#218](https://github.com/laravel/ai/issues/218) in [laravel/ai](https://github.com/laravel/ai)
-5. ℹ️ Labeled issue [#238](https://github.com/laravel/ai/issues/238) in [laravel/ai](https://github.com/laravel/ai)
+5. ℹ️ Labeled issue [#218](https://github.com/laravel/ai/issues/218) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
