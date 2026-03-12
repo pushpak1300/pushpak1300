@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#144](https://github.com/laravel/ai/issues/144) in [laravel/ai](https://github.com/laravel/ai)
-2. ℹ️ Labeled issue [#130](https://github.com/laravel/ai/issues/130) in [laravel/ai](https://github.com/laravel/ai)
-3. ℹ️ Unlabeled issue [#130](https://github.com/laravel/ai/issues/130) in [laravel/ai](https://github.com/laravel/ai)
-4. 🔒 Closed issue [#128](https://github.com/laravel/ai/issues/128) in [laravel/ai](https://github.com/laravel/ai)
-5. 🔓 Reopened issue [#121](https://github.com/laravel/ai/issues/121) in [laravel/ai](https://github.com/laravel/ai)
+1. 🚀 Published release [v2.3.1](https://github.com/laravel/boost/releases/tag/v2.3.1) in [laravel/boost](https://github.com/laravel/boost)
+2. ℹ️ Labeled issue [#218](https://github.com/laravel/ai/issues/218) in [laravel/ai](https://github.com/laravel/ai)
+3. ℹ️ Labeled issue [#218](https://github.com/laravel/ai/issues/218) in [laravel/ai](https://github.com/laravel/ai)
+4. ℹ️ Labeled issue [#238](https://github.com/laravel/ai/issues/238) in [laravel/ai](https://github.com/laravel/ai)
+5. ℹ️ Labeled issue [#238](https://github.com/laravel/ai/issues/238) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
