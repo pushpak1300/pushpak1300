@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#473](https://github.com/laravel/installer/pull/473) in [laravel/installer](https://github.com/laravel/installer)
-2. 💪 Opened PR [#666](https://github.com/laravel/boost/pull/666) in [laravel/boost](https://github.com/laravel/boost)
-3. 💪 Opened PR [#473](https://github.com/laravel/installer/pull/473) in [laravel/installer](https://github.com/laravel/installer)
-4. 🗣 Commented on [#651](https://github.com/laravel/boost/pull/651#issuecomment-4060346553) in [laravel/boost](https://github.com/laravel/boost)
-5. 🗣 Commented on [#266](https://github.com/laravel/ai/pull/266#issuecomment-4054681466) in [laravel/ai](https://github.com/laravel/ai)
+1. 🗣 Commented on [#231](https://github.com/laravel/ai/issues/231#issuecomment-4060928756) in [laravel/ai](https://github.com/laravel/ai)
+2. 🔒 Closed issue [#231](https://github.com/laravel/ai/issues/231) in [laravel/ai](https://github.com/laravel/ai)
+3. 🎉 Merged PR [#473](https://github.com/laravel/installer/pull/473) in [laravel/installer](https://github.com/laravel/installer)
+4. 💪 Opened PR [#666](https://github.com/laravel/boost/pull/666) in [laravel/boost](https://github.com/laravel/boost)
+5. 💪 Opened PR [#473](https://github.com/laravel/installer/pull/473) in [laravel/installer](https://github.com/laravel/installer)
 <!--END_SECTION:activity-->
