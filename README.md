@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#668](https://github.com/laravel/boost/pull/668) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#231](https://github.com/laravel/ai/issues/231#issuecomment-4060928756) in [laravel/ai](https://github.com/laravel/ai)
-3. 🔒 Closed issue [#231](https://github.com/laravel/ai/issues/231) in [laravel/ai](https://github.com/laravel/ai)
-4. 🎉 Merged PR [#473](https://github.com/laravel/installer/pull/473) in [laravel/installer](https://github.com/laravel/installer)
-5. 💪 Opened PR [#666](https://github.com/laravel/boost/pull/666) in [laravel/boost](https://github.com/laravel/boost)
+1. ℹ️ Labeled PR [#748](https://github.com/pushpak1300/pushpak1300.me/pull/748) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+2. 💪 Opened PR [#748](https://github.com/pushpak1300/pushpak1300.me/pull/748) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+3. ❌ Closed PR [#745](https://github.com/pushpak1300/pushpak1300.me/pull/745) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+4. ❌ Closed PR [#746](https://github.com/pushpak1300/pushpak1300.me/pull/746) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+5. ❌ Closed PR [#744](https://github.com/pushpak1300/pushpak1300.me/pull/744) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
 <!--END_SECTION:activity-->
