@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#748](https://github.com/pushpak1300/pushpak1300.me/pull/748) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-2. ℹ️ Labeled PR [#748](https://github.com/pushpak1300/pushpak1300.me/pull/748) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-3. 💪 Opened PR [#748](https://github.com/pushpak1300/pushpak1300.me/pull/748) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-4. ❌ Closed PR [#745](https://github.com/pushpak1300/pushpak1300.me/pull/745) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-5. ❌ Closed PR [#746](https://github.com/pushpak1300/pushpak1300.me/pull/746) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+1. 💪 Opened PR [#670](https://github.com/laravel/boost/pull/670) in [laravel/boost](https://github.com/laravel/boost)
+2. 🎉 Merged PR [#748](https://github.com/pushpak1300/pushpak1300.me/pull/748) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+3. ℹ️ Labeled PR [#748](https://github.com/pushpak1300/pushpak1300.me/pull/748) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+4. 💪 Opened PR [#748](https://github.com/pushpak1300/pushpak1300.me/pull/748) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+5. ❌ Closed PR [#745](https://github.com/pushpak1300/pushpak1300.me/pull/745) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
 <!--END_SECTION:activity-->
