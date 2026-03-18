@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#765](https://github.com/laravel/socialite/issues/765) in [laravel/socialite](https://github.com/laravel/socialite)
-2. 🗣 Commented on [#765](https://github.com/laravel/socialite/issues/765#issuecomment-4081506462) in [laravel/socialite](https://github.com/laravel/socialite)
-3. 🗣 Commented on [#695](https://github.com/laravel/boost/pull/695#issuecomment-4081404803) in [laravel/boost](https://github.com/laravel/boost)
-4. ℹ️ Labeled issue [#694](https://github.com/laravel/boost/issues/694) in [laravel/boost](https://github.com/laravel/boost)
-5. 🔒 Closed issue [#696](https://github.com/laravel/boost/issues/696) in [laravel/boost](https://github.com/laravel/boost)
+1. 💪 Opened PR [#154](https://github.com/livewire/volt/pull/154) in [livewire/volt](https://github.com/livewire/volt)
+2. ❌ Closed PR [#153](https://github.com/livewire/volt/pull/153) in [livewire/volt](https://github.com/livewire/volt)
+3. 💪 Opened PR [#153](https://github.com/livewire/volt/pull/153) in [livewire/volt](https://github.com/livewire/volt)
+4. 💪 Opened PR [#198](https://github.com/laravel/wayfinder/pull/198) in [laravel/wayfinder](https://github.com/laravel/wayfinder)
+5. 💪 Opened PR [#164](https://github.com/laravel/pennant/pull/164) in [laravel/pennant](https://github.com/laravel/pennant)
 <!--END_SECTION:activity-->
