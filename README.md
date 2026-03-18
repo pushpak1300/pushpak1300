@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1729](https://github.com/laravel/horizon/pull/1729) in [laravel/horizon](https://github.com/laravel/horizon)
-2. 💪 Opened PR [#980](https://github.com/laravel/scout/pull/980) in [laravel/scout](https://github.com/laravel/scout)
-3. 💪 Opened PR [#175](https://github.com/laravel/mcp/pull/175) in [laravel/mcp](https://github.com/laravel/mcp)
-4. 💪 Opened PR [#491](https://github.com/laravel/pulse/pull/491) in [laravel/pulse](https://github.com/laravel/pulse)
-5. 💪 Opened PR [#1829](https://github.com/laravel/cashier-stripe/pull/1829) in [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe)
+1. 🎉 Merged PR [#1729](https://github.com/laravel/horizon/pull/1729) in [laravel/horizon](https://github.com/laravel/horizon)
+2. 🎉 Merged PR [#1829](https://github.com/laravel/cashier-stripe/pull/1829) in [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe)
+3. 🎉 Merged PR [#157](https://github.com/laravel/folio/pull/157) in [laravel/folio](https://github.com/laravel/folio)
+4. 🎉 Merged PR [#164](https://github.com/laravel/pennant/pull/164) in [laravel/pennant](https://github.com/laravel/pennant)
+5. 🎉 Merged PR [#154](https://github.com/livewire/volt/pull/154) in [livewire/volt](https://github.com/livewire/volt)
 <!--END_SECTION:activity-->
