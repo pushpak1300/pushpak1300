@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#287](https://github.com/laravel/ai/pull/287) in [laravel/ai](https://github.com/laravel/ai)
-2. 🔒 Closed issue [#698](https://github.com/laravel/boost/issues/698) in [laravel/boost](https://github.com/laravel/boost)
-3. 🗣 Commented on [#698](https://github.com/laravel/boost/issues/698#issuecomment-4087965945) in [laravel/boost](https://github.com/laravel/boost)
-4. 🎉 Merged PR [#311](https://github.com/laravel/cashier-paddle/pull/311) in [laravel/cashier-paddle](https://github.com/laravel/cashier-paddle)
-5. 💪 Opened PR [#311](https://github.com/laravel/cashier-paddle/pull/311) in [laravel/cashier-paddle](https://github.com/laravel/cashier-paddle)
+1. 💪 Opened PR [#662](https://github.com/laravel/fortify/pull/662) in [laravel/fortify](https://github.com/laravel/fortify)
+2. 💪 Opened PR [#287](https://github.com/laravel/ai/pull/287) in [laravel/ai](https://github.com/laravel/ai)
+3. 🔒 Closed issue [#698](https://github.com/laravel/boost/issues/698) in [laravel/boost](https://github.com/laravel/boost)
+4. 🗣 Commented on [#698](https://github.com/laravel/boost/issues/698#issuecomment-4087965945) in [laravel/boost](https://github.com/laravel/boost)
+5. 🎉 Merged PR [#311](https://github.com/laravel/cashier-paddle/pull/311) in [laravel/cashier-paddle](https://github.com/laravel/cashier-paddle)
 <!--END_SECTION:activity-->
