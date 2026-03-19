@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#311](https://github.com/laravel/cashier-paddle/pull/311) in [laravel/cashier-paddle](https://github.com/laravel/cashier-paddle)
-2. 💪 Opened PR [#311](https://github.com/laravel/cashier-paddle/pull/311) in [laravel/cashier-paddle](https://github.com/laravel/cashier-paddle)
-3. 🎉 Merged PR [#1729](https://github.com/laravel/horizon/pull/1729) in [laravel/horizon](https://github.com/laravel/horizon)
-4. 🎉 Merged PR [#1829](https://github.com/laravel/cashier-stripe/pull/1829) in [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe)
-5. 🎉 Merged PR [#157](https://github.com/laravel/folio/pull/157) in [laravel/folio](https://github.com/laravel/folio)
+1. 🔒 Closed issue [#698](https://github.com/laravel/boost/issues/698) in [laravel/boost](https://github.com/laravel/boost)
+2. 🗣 Commented on [#698](https://github.com/laravel/boost/issues/698#issuecomment-4087965945) in [laravel/boost](https://github.com/laravel/boost)
+3. 🎉 Merged PR [#311](https://github.com/laravel/cashier-paddle/pull/311) in [laravel/cashier-paddle](https://github.com/laravel/cashier-paddle)
+4. 💪 Opened PR [#311](https://github.com/laravel/cashier-paddle/pull/311) in [laravel/cashier-paddle](https://github.com/laravel/cashier-paddle)
+5. 🎉 Merged PR [#1729](https://github.com/laravel/horizon/pull/1729) in [laravel/horizon](https://github.com/laravel/horizon)
 <!--END_SECTION:activity-->
