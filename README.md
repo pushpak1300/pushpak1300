@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#668](https://github.com/laravel/boost/pull/668#issuecomment-4100747493) in [laravel/boost](https://github.com/laravel/boost)
-2. 🎉 Merged PR [#662](https://github.com/laravel/fortify/pull/662) in [laravel/fortify](https://github.com/laravel/fortify)
-3. 🎉 Merged PR [#628](https://github.com/laravel/boost/pull/628) in [laravel/boost](https://github.com/laravel/boost)
-4. ℹ️ Assigned issue [#46](https://github.com/laravel/roster/issues/46) in [laravel/roster](https://github.com/laravel/roster)
-5. 🔒 Closed issue [#663](https://github.com/laravel/boost/issues/663) in [laravel/boost](https://github.com/laravel/boost)
+1. 🎉 Merged PR [#333](https://github.com/laravel/nightwatch/pull/333) in [laravel/nightwatch](https://github.com/laravel/nightwatch)
+2. 🗣 Commented on [#668](https://github.com/laravel/boost/pull/668#issuecomment-4100747493) in [laravel/boost](https://github.com/laravel/boost)
+3. 🎉 Merged PR [#662](https://github.com/laravel/fortify/pull/662) in [laravel/fortify](https://github.com/laravel/fortify)
+4. 🎉 Merged PR [#628](https://github.com/laravel/boost/pull/628) in [laravel/boost](https://github.com/laravel/boost)
+5. ℹ️ Assigned issue [#46](https://github.com/laravel/roster/issues/46) in [laravel/roster](https://github.com/laravel/roster)
 <!--END_SECTION:activity-->
