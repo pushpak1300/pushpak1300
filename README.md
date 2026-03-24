@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#198](https://github.com/laravel/wayfinder/pull/198) in [laravel/wayfinder](https://github.com/laravel/wayfinder)
-2. 🔒 Closed issue [#667](https://github.com/laravel/boost/issues/667) in [laravel/boost](https://github.com/laravel/boost)
-3. 🗣 Commented on [#667](https://github.com/laravel/boost/issues/667#issuecomment-4113028432) in [laravel/boost](https://github.com/laravel/boost)
-4. 🔓 Reopened issue [#173](https://github.com/laravel/mcp/issues/173) in [laravel/mcp](https://github.com/laravel/mcp)
-5. 🗣 Commented on [#173](https://github.com/laravel/mcp/issues/173#issuecomment-4112593155) in [laravel/mcp](https://github.com/laravel/mcp)
+1. 💪 Opened PR [#708](https://github.com/laravel/boost/pull/708) in [laravel/boost](https://github.com/laravel/boost)
+2. 🎉 Merged PR [#198](https://github.com/laravel/wayfinder/pull/198) in [laravel/wayfinder](https://github.com/laravel/wayfinder)
+3. 🔒 Closed issue [#667](https://github.com/laravel/boost/issues/667) in [laravel/boost](https://github.com/laravel/boost)
+4. 🗣 Commented on [#667](https://github.com/laravel/boost/issues/667#issuecomment-4113028432) in [laravel/boost](https://github.com/laravel/boost)
+5. 🔓 Reopened issue [#173](https://github.com/laravel/mcp/issues/173) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
