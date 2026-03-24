@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#667](https://github.com/laravel/boost/issues/667#issuecomment-4120898415) in [laravel/boost](https://github.com/laravel/boost)
-2. 🚀 Published release [v2.4.0](https://github.com/laravel/boost/releases/tag/v2.4.0) in [laravel/boost](https://github.com/laravel/boost)
-3. 💪 Opened PR [#207](https://github.com/laravel/wayfinder/pull/207) in [laravel/wayfinder](https://github.com/laravel/wayfinder)
-4. 💪 Opened PR [#708](https://github.com/laravel/boost/pull/708) in [laravel/boost](https://github.com/laravel/boost)
-5. 🎉 Merged PR [#198](https://github.com/laravel/wayfinder/pull/198) in [laravel/wayfinder](https://github.com/laravel/wayfinder)
+1. ℹ️ Labeled issue [#709](https://github.com/laravel/boost/issues/709) in [laravel/boost](https://github.com/laravel/boost)
+2. 💪 Opened PR [#711](https://github.com/laravel/boost/pull/711) in [laravel/boost](https://github.com/laravel/boost)
+3. 🗣 Commented on [#667](https://github.com/laravel/boost/issues/667#issuecomment-4120898415) in [laravel/boost](https://github.com/laravel/boost)
+4. 🚀 Published release [v2.4.0](https://github.com/laravel/boost/releases/tag/v2.4.0) in [laravel/boost](https://github.com/laravel/boost)
+5. 💪 Opened PR [#207](https://github.com/laravel/wayfinder/pull/207) in [laravel/wayfinder](https://github.com/laravel/wayfinder)
 <!--END_SECTION:activity-->
