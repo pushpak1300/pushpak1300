@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#312](https://github.com/laravel/ai/pull/312) in [laravel/ai](https://github.com/laravel/ai)
-2. 💪 Opened PR [#311](https://github.com/laravel/ai/pull/311) in [laravel/ai](https://github.com/laravel/ai)
-3. 💪 Opened PR [#310](https://github.com/laravel/ai/pull/310) in [laravel/ai](https://github.com/laravel/ai)
-4. 💪 Opened PR [#6](https://github.com/laravel/locket/pull/6) in [laravel/locket](https://github.com/laravel/locket)
-5. 💪 Opened PR [#309](https://github.com/laravel/ai/pull/309) in [laravel/ai](https://github.com/laravel/ai)
+1. 🎉 Merged PR [#207](https://github.com/laravel/wayfinder/pull/207) in [laravel/wayfinder](https://github.com/laravel/wayfinder)
+2. 💪 Opened PR [#312](https://github.com/laravel/ai/pull/312) in [laravel/ai](https://github.com/laravel/ai)
+3. 💪 Opened PR [#311](https://github.com/laravel/ai/pull/311) in [laravel/ai](https://github.com/laravel/ai)
+4. 💪 Opened PR [#310](https://github.com/laravel/ai/pull/310) in [laravel/ai](https://github.com/laravel/ai)
+5. 💪 Opened PR [#6](https://github.com/laravel/locket/pull/6) in [laravel/locket](https://github.com/laravel/locket)
 <!--END_SECTION:activity-->
