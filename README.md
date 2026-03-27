@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#213](https://github.com/laravel/ai/issues/213#issuecomment-4141376457) in [laravel/ai](https://github.com/laravel/ai)
-2. 🔒 Closed issue [#719](https://github.com/laravel/boost/issues/719) in [laravel/boost](https://github.com/laravel/boost)
-3. 🗣 Commented on [#719](https://github.com/laravel/boost/issues/719#issuecomment-4135441525) in [laravel/boost](https://github.com/laravel/boost)
-4. ℹ️ Unlabeled issue [#719](https://github.com/laravel/boost/issues/719) in [laravel/boost](https://github.com/laravel/boost)
-5. ℹ️ Assigned issue [#314](https://github.com/laravel/ai/issues/314) in [laravel/ai](https://github.com/laravel/ai)
+1. ℹ️ Assigned issue [#716](https://github.com/laravel/boost/issues/716) in [laravel/boost](https://github.com/laravel/boost)
+2. 🗣 Commented on [#213](https://github.com/laravel/ai/issues/213#issuecomment-4141376457) in [laravel/ai](https://github.com/laravel/ai)
+3. 🔒 Closed issue [#719](https://github.com/laravel/boost/issues/719) in [laravel/boost](https://github.com/laravel/boost)
+4. 🗣 Commented on [#719](https://github.com/laravel/boost/issues/719#issuecomment-4135441525) in [laravel/boost](https://github.com/laravel/boost)
+5. ℹ️ Unlabeled issue [#719](https://github.com/laravel/boost/issues/719) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
