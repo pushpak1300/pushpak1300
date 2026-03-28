@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#321](https://github.com/laravel/ai/issues/321) in [laravel/ai](https://github.com/laravel/ai)
-2. 🚀 Published release [v0.0.1](https://github.com/shipfastlabs/pest-plugin-evals/releases/tag/v0.0.1) in [shipfastlabs/pest-plugin-evals](https://github.com/shipfastlabs/pest-plugin-evals)
-3. 💪 Opened PR [#7](https://github.com/laravel/locket/pull/7) in [laravel/locket](https://github.com/laravel/locket)
-4. 🚀 Published release [v1.8.13](https://github.com/laravel/boost/releases/tag/v1.8.13) in [laravel/boost](https://github.com/laravel/boost)
-5. ℹ️ Assigned issue [#716](https://github.com/laravel/boost/issues/716) in [laravel/boost](https://github.com/laravel/boost)
+1. 🔒 Closed issue [#725](https://github.com/laravel/boost/issues/725) in [laravel/boost](https://github.com/laravel/boost)
+2. 🗣 Commented on [#725](https://github.com/laravel/boost/issues/725#issuecomment-4147543330) in [laravel/boost](https://github.com/laravel/boost)
+3. 🎉 Merged PR [#708](https://github.com/laravel/boost/pull/708) in [laravel/boost](https://github.com/laravel/boost)
+4. ℹ️ Assigned issue [#321](https://github.com/laravel/ai/issues/321) in [laravel/ai](https://github.com/laravel/ai)
+5. 🚀 Published release [v0.0.1](https://github.com/shipfastlabs/pest-plugin-evals/releases/tag/v0.0.1) in [shipfastlabs/pest-plugin-evals](https://github.com/shipfastlabs/pest-plugin-evals)
 <!--END_SECTION:activity-->
