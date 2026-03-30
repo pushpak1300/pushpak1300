@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/laravel/agent-skills/pull/6) in [laravel/agent-skills](https://github.com/laravel/agent-skills)
-2. 💪 Opened PR [#6](https://github.com/laravel/agent-skills/pull/6) in [laravel/agent-skills](https://github.com/laravel/agent-skills)
-3. 🗣 Commented on [#731](https://github.com/laravel/boost/issues/731#issuecomment-4151949495) in [laravel/boost](https://github.com/laravel/boost)
-4. 🔒 Closed issue [#731](https://github.com/laravel/boost/issues/731) in [laravel/boost](https://github.com/laravel/boost)
-5. 🎉 Merged PR [#770](https://github.com/laravel/socialite/pull/770) in [laravel/socialite](https://github.com/laravel/socialite)
+1. 🔒 Closed issue [#709](https://github.com/laravel/boost/issues/709) in [laravel/boost](https://github.com/laravel/boost)
+2. 🎉 Merged PR [#6](https://github.com/laravel/agent-skills/pull/6) in [laravel/agent-skills](https://github.com/laravel/agent-skills)
+3. 💪 Opened PR [#6](https://github.com/laravel/agent-skills/pull/6) in [laravel/agent-skills](https://github.com/laravel/agent-skills)
+4. 🗣 Commented on [#731](https://github.com/laravel/boost/issues/731#issuecomment-4151949495) in [laravel/boost](https://github.com/laravel/boost)
+5. 🔒 Closed issue [#731](https://github.com/laravel/boost/issues/731) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
