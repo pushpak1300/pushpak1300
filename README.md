@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#112](https://github.com/laravel/cloud-cli/pull/112) in [laravel/cloud-cli](https://github.com/laravel/cloud-cli)
-2. 🗣 Commented on [#112](https://github.com/laravel/cloud-cli/pull/112#issuecomment-4156593895) in [laravel/cloud-cli](https://github.com/laravel/cloud-cli)
-3. 🎉 Merged PR [#116](https://github.com/laravel/cloud-cli/pull/116) in [laravel/cloud-cli](https://github.com/laravel/cloud-cli)
-4. 💪 Opened PR [#116](https://github.com/laravel/cloud-cli/pull/116) in [laravel/cloud-cli](https://github.com/laravel/cloud-cli)
-5. 🔒 Closed issue [#709](https://github.com/laravel/boost/issues/709) in [laravel/boost](https://github.com/laravel/boost)
+1. 🗣 Commented on [#322](https://github.com/laravel/ai/pull/322#issuecomment-4161034303) in [laravel/ai](https://github.com/laravel/ai)
+2. ❌ Closed PR [#112](https://github.com/laravel/cloud-cli/pull/112) in [laravel/cloud-cli](https://github.com/laravel/cloud-cli)
+3. 🗣 Commented on [#112](https://github.com/laravel/cloud-cli/pull/112#issuecomment-4156593895) in [laravel/cloud-cli](https://github.com/laravel/cloud-cli)
+4. 🎉 Merged PR [#116](https://github.com/laravel/cloud-cli/pull/116) in [laravel/cloud-cli](https://github.com/laravel/cloud-cli)
+5. 💪 Opened PR [#116](https://github.com/laravel/cloud-cli/pull/116) in [laravel/cloud-cli](https://github.com/laravel/cloud-cli)
 <!--END_SECTION:activity-->
