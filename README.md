@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#723](https://github.com/laravel/boost/issues/723) in [laravel/boost](https://github.com/laravel/boost)
-2. 🎉 Merged PR [#730](https://github.com/laravel/boost/pull/730) in [laravel/boost](https://github.com/laravel/boost)
-3. ❌ Closed PR [#33](https://github.com/prism-php/relay/pull/33) in [prism-php/relay](https://github.com/prism-php/relay)
-4. 🗣 Commented on [#322](https://github.com/laravel/ai/pull/322#issuecomment-4161034303) in [laravel/ai](https://github.com/laravel/ai)
-5. ❌ Closed PR [#112](https://github.com/laravel/cloud-cli/pull/112) in [laravel/cloud-cli](https://github.com/laravel/cloud-cli)
+1. 🎉 Merged PR [#732](https://github.com/laravel/boost/pull/732) in [laravel/boost](https://github.com/laravel/boost)
+2. 🔒 Closed issue [#724](https://github.com/laravel/boost/issues/724) in [laravel/boost](https://github.com/laravel/boost)
+3. 💪 Opened PR [#732](https://github.com/laravel/boost/pull/732) in [laravel/boost](https://github.com/laravel/boost)
+4. 🔒 Closed issue [#723](https://github.com/laravel/boost/issues/723) in [laravel/boost](https://github.com/laravel/boost)
+5. 🎉 Merged PR [#730](https://github.com/laravel/boost/pull/730) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
