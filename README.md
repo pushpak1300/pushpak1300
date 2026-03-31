@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#704](https://github.com/laravel/boost/issues/704) in [laravel/boost](https://github.com/laravel/boost)
-2. ℹ️ Assigned PR [#285](https://github.com/laravel/ai/pull/285) in [laravel/ai](https://github.com/laravel/ai)
-3. 💪 Opened PR [#338](https://github.com/laravel/ai/pull/338) in [laravel/ai](https://github.com/laravel/ai)
-4. 🗣 Commented on [#1613](https://github.com/pestphp/pest/pull/1613#issuecomment-4163124271) in [pestphp/pest](https://github.com/pestphp/pest)
-5. ❌ Closed PR [#1613](https://github.com/pestphp/pest/pull/1613) in [pestphp/pest](https://github.com/pestphp/pest)
+1. 🗣 Commented on [#734](https://github.com/laravel/boost/pull/734#issuecomment-4164884812) in [laravel/boost](https://github.com/laravel/boost)
+2. 🗣 Commented on [#6778](https://github.com/laravel/laravel/pull/6778#issuecomment-4164879328) in [laravel/laravel](https://github.com/laravel/laravel)
+3. 💪 Opened PR [#7](https://github.com/laravel/agent-skills/pull/7) in [laravel/agent-skills](https://github.com/laravel/agent-skills)
+4. 🔒 Closed issue [#704](https://github.com/laravel/boost/issues/704) in [laravel/boost](https://github.com/laravel/boost)
+5. ℹ️ Assigned PR [#285](https://github.com/laravel/ai/pull/285) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
