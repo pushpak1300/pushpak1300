@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1613](https://github.com/pestphp/pest/pull/1613#issuecomment-4163124271) in [pestphp/pest](https://github.com/pestphp/pest)
-2. ❌ Closed PR [#1613](https://github.com/pestphp/pest/pull/1613) in [pestphp/pest](https://github.com/pestphp/pest)
-3. 🔒 Closed issue [#856](https://github.com/laravel/sail/issues/856) in [laravel/sail](https://github.com/laravel/sail)
-4. 🎉 Merged PR [#732](https://github.com/laravel/boost/pull/732) in [laravel/boost](https://github.com/laravel/boost)
-5. 🔒 Closed issue [#724](https://github.com/laravel/boost/issues/724) in [laravel/boost](https://github.com/laravel/boost)
+1. ℹ️ Assigned PR [#285](https://github.com/laravel/ai/pull/285) in [laravel/ai](https://github.com/laravel/ai)
+2. 💪 Opened PR [#338](https://github.com/laravel/ai/pull/338) in [laravel/ai](https://github.com/laravel/ai)
+3. 🗣 Commented on [#1613](https://github.com/pestphp/pest/pull/1613#issuecomment-4163124271) in [pestphp/pest](https://github.com/pestphp/pest)
+4. ❌ Closed PR [#1613](https://github.com/pestphp/pest/pull/1613) in [pestphp/pest](https://github.com/pestphp/pest)
+5. 🔒 Closed issue [#856](https://github.com/laravel/sail/issues/856) in [laravel/sail](https://github.com/laravel/sail)
 <!--END_SECTION:activity-->
