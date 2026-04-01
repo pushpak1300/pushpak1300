@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1901](https://github.com/laravel/passport/pull/1901) in [laravel/passport](https://github.com/laravel/passport)
-2. 💪 Opened PR [#8](https://github.com/laravel/agent-skills/pull/8) in [laravel/agent-skills](https://github.com/laravel/agent-skills)
-3. 🚀 Published release [v0.6.5](https://github.com/laravel/mcp/releases/tag/v0.6.5) in [laravel/mcp](https://github.com/laravel/mcp)
-4. 💪 Opened PR [#340](https://github.com/laravel/ai/pull/340) in [laravel/ai](https://github.com/laravel/ai)
-5. 🔒 Closed issue [#339](https://github.com/laravel/ai/issues/339) in [laravel/ai](https://github.com/laravel/ai)
+1. 🎉 Merged PR [#1901](https://github.com/laravel/passport/pull/1901) in [laravel/passport](https://github.com/laravel/passport)
+2. 🗣 Commented on [#343](https://github.com/laravel/ai/issues/343#issuecomment-4170665185) in [laravel/ai](https://github.com/laravel/ai)
+3. 💪 Opened PR [#1901](https://github.com/laravel/passport/pull/1901) in [laravel/passport](https://github.com/laravel/passport)
+4. 💪 Opened PR [#8](https://github.com/laravel/agent-skills/pull/8) in [laravel/agent-skills](https://github.com/laravel/agent-skills)
+5. 🚀 Published release [v0.6.5](https://github.com/laravel/mcp/releases/tag/v0.6.5) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
