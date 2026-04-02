@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#736](https://github.com/laravel/boost/pull/736) in [laravel/boost](https://github.com/laravel/boost)
-2. ℹ️ Assigned PR [#340](https://github.com/laravel/ai/pull/340) in [laravel/ai](https://github.com/laravel/ai)
-3. 🔒 Closed issue [#356](https://github.com/laravel/nightwatch/issues/356) in [laravel/nightwatch](https://github.com/laravel/nightwatch)
-4. 🎉 Merged PR [#1901](https://github.com/laravel/passport/pull/1901) in [laravel/passport](https://github.com/laravel/passport)
-5. 🗣 Commented on [#343](https://github.com/laravel/ai/issues/343#issuecomment-4170665185) in [laravel/ai](https://github.com/laravel/ai)
+1. 🔒 Closed issue [#733](https://github.com/laravel/boost/issues/733) in [laravel/boost](https://github.com/laravel/boost)
+2. ❌ Closed PR [#737](https://github.com/laravel/boost/pull/737) in [laravel/boost](https://github.com/laravel/boost)
+3. 🗣 Commented on [#737](https://github.com/laravel/boost/pull/737#issuecomment-4175050638) in [laravel/boost](https://github.com/laravel/boost)
+4. ℹ️ Assigned PR [#736](https://github.com/laravel/boost/pull/736) in [laravel/boost](https://github.com/laravel/boost)
+5. ℹ️ Assigned PR [#340](https://github.com/laravel/ai/pull/340) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
