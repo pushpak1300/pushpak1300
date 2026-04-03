@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/laravel/agent-skills/pull/9) in [laravel/agent-skills](https://github.com/laravel/agent-skills)
-2. 🎉 Merged PR [#8](https://github.com/laravel/agent-skills/pull/8) in [laravel/agent-skills](https://github.com/laravel/agent-skills)
-3. 🗣 Commented on [#3](https://github.com/nunomaduro/pao/issues/3#issuecomment-4183535877) in [nunomaduro/pao](https://github.com/nunomaduro/pao)
-4. 🗣 Commented on [#743](https://github.com/laravel/boost/issues/743#issuecomment-4183456423) in [laravel/boost](https://github.com/laravel/boost)
-5. ℹ️ Labeled issue [#743](https://github.com/laravel/boost/issues/743) in [laravel/boost](https://github.com/laravel/boost)
+1. 🎉 Merged PR [#9](https://github.com/laravel/agent-skills/pull/9) in [laravel/agent-skills](https://github.com/laravel/agent-skills)
+2. 🎉 Merged PR [#311](https://github.com/laravel/ai/pull/311) in [laravel/ai](https://github.com/laravel/ai)
+3. 💪 Opened PR [#9](https://github.com/laravel/agent-skills/pull/9) in [laravel/agent-skills](https://github.com/laravel/agent-skills)
+4. 🎉 Merged PR [#8](https://github.com/laravel/agent-skills/pull/8) in [laravel/agent-skills](https://github.com/laravel/agent-skills)
+5. 🗣 Commented on [#3](https://github.com/nunomaduro/pao/issues/3#issuecomment-4183535877) in [nunomaduro/pao](https://github.com/nunomaduro/pao)
 <!--END_SECTION:activity-->
