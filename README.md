@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#743](https://github.com/laravel/boost/issues/743#issuecomment-4183456423) in [laravel/boost](https://github.com/laravel/boost)
-2. ℹ️ Labeled issue [#743](https://github.com/laravel/boost/issues/743) in [laravel/boost](https://github.com/laravel/boost)
-3. 🗣 Commented on [#347](https://github.com/laravel/ai/issues/347#issuecomment-4179734374) in [laravel/ai](https://github.com/laravel/ai)
-4. 🗣 Commented on [#742](https://github.com/laravel/boost/pull/742#issuecomment-4179324010) in [laravel/boost](https://github.com/laravel/boost)
-5. ❌ Closed PR [#742](https://github.com/laravel/boost/pull/742) in [laravel/boost](https://github.com/laravel/boost)
+1. 🗣 Commented on [#3](https://github.com/nunomaduro/pao/issues/3#issuecomment-4183535877) in [nunomaduro/pao](https://github.com/nunomaduro/pao)
+2. 🗣 Commented on [#743](https://github.com/laravel/boost/issues/743#issuecomment-4183456423) in [laravel/boost](https://github.com/laravel/boost)
+3. ℹ️ Labeled issue [#743](https://github.com/laravel/boost/issues/743) in [laravel/boost](https://github.com/laravel/boost)
+4. 🗣 Commented on [#347](https://github.com/laravel/ai/issues/347#issuecomment-4179734374) in [laravel/ai](https://github.com/laravel/ai)
+5. 🗣 Commented on [#742](https://github.com/laravel/boost/pull/742#issuecomment-4179324010) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
