@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#270](https://github.com/laravel/ai/pull/270#issuecomment-4188515507) in [laravel/ai](https://github.com/laravel/ai)
-2. 🔒 Closed issue [#187](https://github.com/laravel/mcp/issues/187) in [laravel/mcp](https://github.com/laravel/mcp)
+1. 🔒 Closed issue [#858](https://github.com/laravel/sail/issues/858) in [laravel/sail](https://github.com/laravel/sail)
+2. 🗣 Commented on [#270](https://github.com/laravel/ai/pull/270#issuecomment-4188515507) in [laravel/ai](https://github.com/laravel/ai)
 3. 🔒 Closed issue [#187](https://github.com/laravel/mcp/issues/187) in [laravel/mcp](https://github.com/laravel/mcp)
-4. 🎉 Merged PR [#340](https://github.com/laravel/ai/pull/340) in [laravel/ai](https://github.com/laravel/ai)
-5. 🎉 Merged PR [#309](https://github.com/laravel/ai/pull/309) in [laravel/ai](https://github.com/laravel/ai)
+4. 🔒 Closed issue [#187](https://github.com/laravel/mcp/issues/187) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 🎉 Merged PR [#340](https://github.com/laravel/ai/pull/340) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
