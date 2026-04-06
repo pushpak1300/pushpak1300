@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#739](https://github.com/laravel/boost/pull/739#issuecomment-4191506194) in [laravel/boost](https://github.com/laravel/boost)
-2. ℹ️ Assigned issue [#356](https://github.com/laravel/ai/issues/356) in [laravel/ai](https://github.com/laravel/ai)
-3. 🔒 Closed issue [#858](https://github.com/laravel/sail/issues/858) in [laravel/sail](https://github.com/laravel/sail)
-4. 🗣 Commented on [#270](https://github.com/laravel/ai/pull/270#issuecomment-4188515507) in [laravel/ai](https://github.com/laravel/ai)
-5. 🔒 Closed issue [#187](https://github.com/laravel/mcp/issues/187) in [laravel/mcp](https://github.com/laravel/mcp)
+1. ❌ Closed PR [#746](https://github.com/laravel/boost/pull/746) in [laravel/boost](https://github.com/laravel/boost)
+2. 🗣 Commented on [#746](https://github.com/laravel/boost/pull/746#issuecomment-4191915869) in [laravel/boost](https://github.com/laravel/boost)
+3. 🗣 Commented on [#739](https://github.com/laravel/boost/pull/739#issuecomment-4191506194) in [laravel/boost](https://github.com/laravel/boost)
+4. ℹ️ Assigned issue [#356](https://github.com/laravel/ai/issues/356) in [laravel/ai](https://github.com/laravel/ai)
+5. 🔒 Closed issue [#858](https://github.com/laravel/sail/issues/858) in [laravel/sail](https://github.com/laravel/sail)
 <!--END_SECTION:activity-->
