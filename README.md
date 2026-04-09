@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#368](https://github.com/laravel/ai/pull/368) in [laravel/ai](https://github.com/laravel/ai)
-2. 🚀 Published release [v1.1.2](https://github.com/shipfastlabs/agent-detector/releases/tag/v1.1.2) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
-3. 🗣 Commented on [#367](https://github.com/laravel/ai/issues/367#issuecomment-4214473599) in [laravel/ai](https://github.com/laravel/ai)
-4. 🗣 Commented on [#367](https://github.com/laravel/ai/issues/367#issuecomment-4214247298) in [laravel/ai](https://github.com/laravel/ai)
-5. ℹ️ Assigned PR [#363](https://github.com/laravel/ai/pull/363) in [laravel/ai](https://github.com/laravel/ai)
+1. 💪 Opened PR [#370](https://github.com/laravel/ai/pull/370) in [laravel/ai](https://github.com/laravel/ai)
+2. 🔒 Closed issue [#296](https://github.com/laravel/ai/issues/296) in [laravel/ai](https://github.com/laravel/ai)
+3. 🗣 Commented on [#296](https://github.com/laravel/ai/issues/296#issuecomment-4215598525) in [laravel/ai](https://github.com/laravel/ai)
+4. 🔒 Closed issue [#290](https://github.com/laravel/ai/issues/290) in [laravel/ai](https://github.com/laravel/ai)
+5. 🔒 Closed issue [#292](https://github.com/laravel/ai/issues/292) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
