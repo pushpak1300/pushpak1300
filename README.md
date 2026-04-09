@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#213](https://github.com/laravel/ai/issues/213) in [laravel/ai](https://github.com/laravel/ai)
-2. 💪 Opened PR [#7338](https://github.com/github/advisory-database/pull/7338) in [github/advisory-database](https://github.com/github/advisory-database)
-3. 💪 Opened PR [#363](https://github.com/laravel/ai/pull/363) in [laravel/ai](https://github.com/laravel/ai)
-4. 🗣 Commented on [#3](https://github.com/nunomaduro/pao/issues/3#issuecomment-4208464769) in [nunomaduro/pao](https://github.com/nunomaduro/pao)
-5. 🔒 Closed issue [#334](https://github.com/laravel/ai/issues/334) in [laravel/ai](https://github.com/laravel/ai)
+1. 🗣 Commented on [#162](https://github.com/laravel/ai/pull/162#issuecomment-4211791357) in [laravel/ai](https://github.com/laravel/ai)
+2. ❌ Closed PR [#162](https://github.com/laravel/ai/pull/162) in [laravel/ai](https://github.com/laravel/ai)
+3. 🗣 Commented on [#131](https://github.com/laravel/ai/pull/131#issuecomment-4211776818) in [laravel/ai](https://github.com/laravel/ai)
+4. ❌ Closed PR [#131](https://github.com/laravel/ai/pull/131) in [laravel/ai](https://github.com/laravel/ai)
+5. 💪 Opened PR [#761](https://github.com/laravel/boost/pull/761) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
