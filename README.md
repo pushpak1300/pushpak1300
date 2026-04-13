@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/laravel/sail-server/pull/35) in [laravel/sail-server](https://github.com/laravel/sail-server)
-2. 💪 Opened PR [#390](https://github.com/laravel/ai/pull/390) in [laravel/ai](https://github.com/laravel/ai)
-3. 🗣 Commented on [#864](https://github.com/laravel/sail/issues/864#issuecomment-4235466558) in [laravel/sail](https://github.com/laravel/sail)
-4. 🗣 Commented on [#367](https://github.com/laravel/ai/issues/367#issuecomment-4235377597) in [laravel/ai](https://github.com/laravel/ai)
-5. 🗣 Commented on [#387](https://github.com/laravel/ai/issues/387#issuecomment-4235302907) in [laravel/ai](https://github.com/laravel/ai)
+1. ℹ️ Assigned issue [#388](https://github.com/laravel/ai/issues/388) in [laravel/ai](https://github.com/laravel/ai)
+2. 🗣 Commented on [#388](https://github.com/laravel/ai/issues/388#issuecomment-4235881258) in [laravel/ai](https://github.com/laravel/ai)
+3. 💪 Opened PR [#35](https://github.com/laravel/sail-server/pull/35) in [laravel/sail-server](https://github.com/laravel/sail-server)
+4. 💪 Opened PR [#390](https://github.com/laravel/ai/pull/390) in [laravel/ai](https://github.com/laravel/ai)
+5. 🗣 Commented on [#864](https://github.com/laravel/sail/issues/864#issuecomment-4235466558) in [laravel/sail](https://github.com/laravel/sail)
 <!--END_SECTION:activity-->
