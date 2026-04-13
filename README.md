@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#396](https://github.com/laravel/ai/pull/396) in [laravel/ai](https://github.com/laravel/ai)
-2. 🗣 Commented on [#3](https://github.com/nunomaduro/pao/issues/3#issuecomment-4237496497) in [nunomaduro/pao](https://github.com/nunomaduro/pao)
-3. 💪 Opened PR [#395](https://github.com/laravel/ai/pull/395) in [laravel/ai](https://github.com/laravel/ai)
-4. 🎉 Merged PR [#391](https://github.com/laravel/ai/pull/391) in [laravel/ai](https://github.com/laravel/ai)
-5. 🎉 Merged PR [#386](https://github.com/laravel/ai/pull/386) in [laravel/ai](https://github.com/laravel/ai)
+1. 🎉 Merged PR [#7338](https://github.com/github/advisory-database/pull/7338) in [github/advisory-database](https://github.com/github/advisory-database)
+2. 💪 Opened PR [#396](https://github.com/laravel/ai/pull/396) in [laravel/ai](https://github.com/laravel/ai)
+3. 🗣 Commented on [#3](https://github.com/nunomaduro/pao/issues/3#issuecomment-4237496497) in [nunomaduro/pao](https://github.com/nunomaduro/pao)
+4. 💪 Opened PR [#395](https://github.com/laravel/ai/pull/395) in [laravel/ai](https://github.com/laravel/ai)
+5. 🎉 Merged PR [#391](https://github.com/laravel/ai/pull/391) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
