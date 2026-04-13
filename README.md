@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#397](https://github.com/laravel/ai/pull/397) in [laravel/ai](https://github.com/laravel/ai)
-2. 🗣 Commented on [#1908](https://github.com/laravel/passport/issues/1908#issuecomment-4238521102) in [laravel/passport](https://github.com/laravel/passport)
-3. 🔒 Closed issue [#1908](https://github.com/laravel/passport/issues/1908) in [laravel/passport](https://github.com/laravel/passport)
-4. 🎉 Merged PR [#7338](https://github.com/github/advisory-database/pull/7338) in [github/advisory-database](https://github.com/github/advisory-database)
-5. 💪 Opened PR [#396](https://github.com/laravel/ai/pull/396) in [laravel/ai](https://github.com/laravel/ai)
+1. 💪 Opened PR [#400](https://github.com/laravel/ai/pull/400) in [laravel/ai](https://github.com/laravel/ai)
+2. 💪 Opened PR [#399](https://github.com/laravel/ai/pull/399) in [laravel/ai](https://github.com/laravel/ai)
+3. 💪 Opened PR [#398](https://github.com/laravel/ai/pull/398) in [laravel/ai](https://github.com/laravel/ai)
+4. 💪 Opened PR [#397](https://github.com/laravel/ai/pull/397) in [laravel/ai](https://github.com/laravel/ai)
+5. 🗣 Commented on [#1908](https://github.com/laravel/passport/issues/1908#issuecomment-4238521102) in [laravel/passport](https://github.com/laravel/passport)
 <!--END_SECTION:activity-->
