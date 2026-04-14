@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#183](https://github.com/laravel/mcp/issues/183) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🎉 Merged PR [#182](https://github.com/laravel/mcp/pull/182) in [laravel/mcp](https://github.com/laravel/mcp)
-3. 🗣 Commented on [#192](https://github.com/laravel/mcp/pull/192#issuecomment-4241742949) in [laravel/mcp](https://github.com/laravel/mcp)
-4. 🎉 Merged PR [#397](https://github.com/laravel/ai/pull/397) in [laravel/ai](https://github.com/laravel/ai)
-5. 🚀 Published release [v1.1.3](https://github.com/shipfastlabs/agent-detector/releases/tag/v1.1.3) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
+1. 💪 Opened PR [#865](https://github.com/laravel/sail/pull/865) in [laravel/sail](https://github.com/laravel/sail)
+2. 🗣 Commented on [#270](https://github.com/laravel/ai/pull/270#issuecomment-4242847836) in [laravel/ai](https://github.com/laravel/ai)
+3. 💪 Opened PR [#196](https://github.com/laravel/mcp/pull/196) in [laravel/mcp](https://github.com/laravel/mcp)
+4. 🎉 Merged PR [#195](https://github.com/laravel/mcp/pull/195) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 💪 Opened PR [#195](https://github.com/laravel/mcp/pull/195) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
