@@ -26,7 +26,7 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#192](https://github.com/laravel/mcp/pull/192#issuecomment-4241209223) in [laravel/mcp](https://github.com/laravel/mcp)
+1. 🗣 Commented on [#192](https://github.com/laravel/mcp/pull/192#issuecomment-4241742949) in [laravel/mcp](https://github.com/laravel/mcp)
 2. 🎉 Merged PR [#397](https://github.com/laravel/ai/pull/397) in [laravel/ai](https://github.com/laravel/ai)
 3. 🚀 Published release [v1.1.3](https://github.com/shipfastlabs/agent-detector/releases/tag/v1.1.3) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
 4. 💪 Opened PR [#400](https://github.com/laravel/ai/pull/400) in [laravel/ai](https://github.com/laravel/ai)
