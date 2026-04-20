@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/shipfastlabs/agent-detector/pull/10#issuecomment-4279895895) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
-2. 🗣 Commented on [#81](https://github.com/laravel/ai/pull/81#issuecomment-4279643450) in [laravel/ai](https://github.com/laravel/ai)
-3. 🔒 Closed issue [#778](https://github.com/laravel/boost/issues/778) in [laravel/boost](https://github.com/laravel/boost)
+1. 🗣 Commented on [#33](https://github.com/prism-php/relay/pull/33#issuecomment-4279920958) in [prism-php/relay](https://github.com/prism-php/relay)
+2. 🗣 Commented on [#10](https://github.com/shipfastlabs/agent-detector/pull/10#issuecomment-4279895895) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
+3. 🗣 Commented on [#81](https://github.com/laravel/ai/pull/81#issuecomment-4279643450) in [laravel/ai](https://github.com/laravel/ai)
 4. 🔒 Closed issue [#778](https://github.com/laravel/boost/issues/778) in [laravel/boost](https://github.com/laravel/boost)
-5. 🔒 Closed issue [#429](https://github.com/laravel/ai/issues/429) in [laravel/ai](https://github.com/laravel/ai)
+5. 🔒 Closed issue [#778](https://github.com/laravel/boost/issues/778) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
