@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/shipfastlabs/agent-detector/pull/10#issuecomment-4287772960) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
-2. 🎉 Merged PR [#196](https://github.com/laravel/mcp/pull/196) in [laravel/mcp](https://github.com/laravel/mcp)
-3. 🗣 Commented on [#10](https://github.com/shipfastlabs/agent-detector/pull/10#issuecomment-4282469735) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
-4. 🔒 Closed issue [#329](https://github.com/laravel/ai/issues/329) in [laravel/ai](https://github.com/laravel/ai)
-5. 🗣 Commented on [#33](https://github.com/prism-php/relay/pull/33#issuecomment-4279920958) in [prism-php/relay](https://github.com/prism-php/relay)
+1. ℹ️ Assigned PR [#81](https://github.com/laravel/ai/pull/81) in [laravel/ai](https://github.com/laravel/ai)
+2. ❌ Closed PR [#432](https://github.com/laravel/ai/pull/432) in [laravel/ai](https://github.com/laravel/ai)
+3. 🗣 Commented on [#432](https://github.com/laravel/ai/pull/432#issuecomment-4287887063) in [laravel/ai](https://github.com/laravel/ai)
+4. 🗣 Commented on [#10](https://github.com/shipfastlabs/agent-detector/pull/10#issuecomment-4287772960) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
+5. 🎉 Merged PR [#196](https://github.com/laravel/mcp/pull/196) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
