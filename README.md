@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#414](https://github.com/laravel/ai/pull/414) in [laravel/ai](https://github.com/laravel/ai)
-2. ℹ️ Assigned PR [#81](https://github.com/laravel/ai/pull/81) in [laravel/ai](https://github.com/laravel/ai)
-3. ❌ Closed PR [#432](https://github.com/laravel/ai/pull/432) in [laravel/ai](https://github.com/laravel/ai)
-4. 🗣 Commented on [#432](https://github.com/laravel/ai/pull/432#issuecomment-4287887063) in [laravel/ai](https://github.com/laravel/ai)
-5. 🗣 Commented on [#10](https://github.com/shipfastlabs/agent-detector/pull/10#issuecomment-4287772960) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
+1. ❌ Closed PR [#203](https://github.com/laravel/mcp/pull/203) in [laravel/mcp](https://github.com/laravel/mcp)
+2. 💪 Opened PR [#203](https://github.com/laravel/mcp/pull/203) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 🎉 Merged PR [#414](https://github.com/laravel/ai/pull/414) in [laravel/ai](https://github.com/laravel/ai)
+4. ℹ️ Assigned PR [#81](https://github.com/laravel/ai/pull/81) in [laravel/ai](https://github.com/laravel/ai)
+5. ❌ Closed PR [#432](https://github.com/laravel/ai/pull/432) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
