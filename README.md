@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11172](https://github.com/laravel/docs/pull/11172) in [laravel/docs](https://github.com/laravel/docs)
-2. 🔒 Closed issue [#417](https://github.com/laravel/ai/issues/417) in [laravel/ai](https://github.com/laravel/ai)
-3. 🚀 Published release [v2.4.5](https://github.com/laravel/boost/releases/tag/v2.4.5) in [laravel/boost](https://github.com/laravel/boost)
-4. ℹ️ Reopened PR [#435](https://github.com/laravel/ai/pull/435) in [laravel/ai](https://github.com/laravel/ai)
-5. ❌ Closed PR [#435](https://github.com/laravel/ai/pull/435) in [laravel/ai](https://github.com/laravel/ai)
+1. 💪 Opened PR [#442](https://github.com/laravel/ai/pull/442) in [laravel/ai](https://github.com/laravel/ai)
+2. 💪 Opened PR [#11172](https://github.com/laravel/docs/pull/11172) in [laravel/docs](https://github.com/laravel/docs)
+3. 🔒 Closed issue [#417](https://github.com/laravel/ai/issues/417) in [laravel/ai](https://github.com/laravel/ai)
+4. 🚀 Published release [v2.4.5](https://github.com/laravel/boost/releases/tag/v2.4.5) in [laravel/boost](https://github.com/laravel/boost)
+5. ℹ️ Reopened PR [#435](https://github.com/laravel/ai/pull/435) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
