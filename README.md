@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/shipfastlabs/agent-detector/pull/12) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
-2. 💪 Opened PR [#12](https://github.com/shipfastlabs/agent-detector/pull/12) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
-3. 🎉 Merged PR [#11](https://github.com/shipfastlabs/agent-detector/pull/11) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
-4. 💪 Opened PR [#11](https://github.com/shipfastlabs/agent-detector/pull/11) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
-5. 🗣 Commented on [#81](https://github.com/laravel/ai/pull/81#issuecomment-4320351687) in [laravel/ai](https://github.com/laravel/ai)
+1. 💪 Opened PR [#867](https://github.com/laravel/sail/pull/867) in [laravel/sail](https://github.com/laravel/sail)
+2. 🗣 Commented on [#20](https://github.com/nunomaduro/pao/issues/20#issuecomment-4322627559) in [nunomaduro/pao](https://github.com/nunomaduro/pao)
+3. 🚀 Published release [v1.1.4](https://github.com/shipfastlabs/agent-detector/releases/tag/v1.1.4) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
+4. 🎉 Merged PR [#12](https://github.com/shipfastlabs/agent-detector/pull/12) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
+5. 💪 Opened PR [#12](https://github.com/shipfastlabs/agent-detector/pull/12) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
 <!--END_SECTION:activity-->
