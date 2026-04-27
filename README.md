@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#787](https://github.com/laravel/boost/pull/787) in [laravel/boost](https://github.com/laravel/boost)
-2. 🎉 Merged PR [#785](https://github.com/laravel/boost/pull/785) in [laravel/boost](https://github.com/laravel/boost)
-3. 💪 Opened PR [#867](https://github.com/laravel/sail/pull/867) in [laravel/sail](https://github.com/laravel/sail)
-4. 🗣 Commented on [#20](https://github.com/nunomaduro/pao/issues/20#issuecomment-4322627559) in [nunomaduro/pao](https://github.com/nunomaduro/pao)
-5. 🚀 Published release [v1.1.4](https://github.com/shipfastlabs/agent-detector/releases/tag/v1.1.4) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
+1. 🗣 Commented on [#784](https://github.com/laravel/boost/issues/784#issuecomment-4326582843) in [laravel/boost](https://github.com/laravel/boost)
+2. 🔒 Closed issue [#784](https://github.com/laravel/boost/issues/784) in [laravel/boost](https://github.com/laravel/boost)
+3. 🔒 Closed issue [#512](https://github.com/laravel/boost/issues/512) in [laravel/boost](https://github.com/laravel/boost)
+4. 🗣 Commented on [#512](https://github.com/laravel/boost/issues/512#issuecomment-4326571645) in [laravel/boost](https://github.com/laravel/boost)
+5. 🗣 Commented on [#770](https://github.com/laravel/boost/pull/770#issuecomment-4326561664) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
