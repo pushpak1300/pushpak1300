@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#867](https://github.com/laravel/sail/pull/867) in [laravel/sail](https://github.com/laravel/sail)
-2. 🗣 Commented on [#20](https://github.com/nunomaduro/pao/issues/20#issuecomment-4322627559) in [nunomaduro/pao](https://github.com/nunomaduro/pao)
-3. 🚀 Published release [v1.1.4](https://github.com/shipfastlabs/agent-detector/releases/tag/v1.1.4) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
-4. 🎉 Merged PR [#12](https://github.com/shipfastlabs/agent-detector/pull/12) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
-5. 💪 Opened PR [#12](https://github.com/shipfastlabs/agent-detector/pull/12) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
+1. 💪 Opened PR [#787](https://github.com/laravel/boost/pull/787) in [laravel/boost](https://github.com/laravel/boost)
+2. 🎉 Merged PR [#785](https://github.com/laravel/boost/pull/785) in [laravel/boost](https://github.com/laravel/boost)
+3. 💪 Opened PR [#867](https://github.com/laravel/sail/pull/867) in [laravel/sail](https://github.com/laravel/sail)
+4. 🗣 Commented on [#20](https://github.com/nunomaduro/pao/issues/20#issuecomment-4322627559) in [nunomaduro/pao](https://github.com/nunomaduro/pao)
+5. 🚀 Published release [v1.1.4](https://github.com/shipfastlabs/agent-detector/releases/tag/v1.1.4) in [shipfastlabs/agent-detector](https://github.com/shipfastlabs/agent-detector)
 <!--END_SECTION:activity-->
