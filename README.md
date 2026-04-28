@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.6.4](https://github.com/laravel/ai/releases/tag/v0.6.4) in [laravel/ai](https://github.com/laravel/ai)
-2. 🎉 Merged PR [#754](https://github.com/laravel/boost/pull/754) in [laravel/boost](https://github.com/laravel/boost)
-3. 🔒 Closed issue [#716](https://github.com/laravel/boost/issues/716) in [laravel/boost](https://github.com/laravel/boost)
-4. ❌ Closed PR [#9](https://github.com/laravel/agent-detector/pull/9) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
-5. 🎉 Merged PR [#867](https://github.com/laravel/sail/pull/867) in [laravel/sail](https://github.com/laravel/sail)
+1. ❌ Closed PR [#441](https://github.com/laravel/ai/pull/441) in [laravel/ai](https://github.com/laravel/ai)
+2. 🚀 Published release [v0.6.4](https://github.com/laravel/ai/releases/tag/v0.6.4) in [laravel/ai](https://github.com/laravel/ai)
+3. 🎉 Merged PR [#754](https://github.com/laravel/boost/pull/754) in [laravel/boost](https://github.com/laravel/boost)
+4. 🔒 Closed issue [#716](https://github.com/laravel/boost/issues/716) in [laravel/boost](https://github.com/laravel/boost)
+5. ❌ Closed PR [#9](https://github.com/laravel/agent-detector/pull/9) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
 <!--END_SECTION:activity-->
