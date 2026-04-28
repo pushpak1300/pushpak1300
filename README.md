@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#441](https://github.com/laravel/ai/pull/441) in [laravel/ai](https://github.com/laravel/ai)
-2. 🚀 Published release [v0.6.4](https://github.com/laravel/ai/releases/tag/v0.6.4) in [laravel/ai](https://github.com/laravel/ai)
-3. 🎉 Merged PR [#754](https://github.com/laravel/boost/pull/754) in [laravel/boost](https://github.com/laravel/boost)
-4. 🔒 Closed issue [#716](https://github.com/laravel/boost/issues/716) in [laravel/boost](https://github.com/laravel/boost)
-5. ❌ Closed PR [#9](https://github.com/laravel/agent-detector/pull/9) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
+1. 🔒 Closed issue [#788](https://github.com/laravel/boost/issues/788) in [laravel/boost](https://github.com/laravel/boost)
+2. 🗣 Commented on [#788](https://github.com/laravel/boost/issues/788#issuecomment-4334473235) in [laravel/boost](https://github.com/laravel/boost)
+3. 🚀 Published release [v1.1.18](https://github.com/laravel/folio/releases/tag/v1.1.18) in [laravel/folio](https://github.com/laravel/folio)
+4. ❌ Closed PR [#441](https://github.com/laravel/ai/pull/441) in [laravel/ai](https://github.com/laravel/ai)
+5. 🚀 Published release [v0.6.4](https://github.com/laravel/ai/releases/tag/v0.6.4) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
