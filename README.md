@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#788](https://github.com/laravel/boost/issues/788) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#788](https://github.com/laravel/boost/issues/788#issuecomment-4334473235) in [laravel/boost](https://github.com/laravel/boost)
-3. 🚀 Published release [v1.1.18](https://github.com/laravel/folio/releases/tag/v1.1.18) in [laravel/folio](https://github.com/laravel/folio)
-4. ❌ Closed PR [#441](https://github.com/laravel/ai/pull/441) in [laravel/ai](https://github.com/laravel/ai)
-5. 🚀 Published release [v0.6.4](https://github.com/laravel/ai/releases/tag/v0.6.4) in [laravel/ai](https://github.com/laravel/ai)
+1. 🚀 Published release [v2.4.6](https://github.com/laravel/boost/releases/tag/v2.4.6) in [laravel/boost](https://github.com/laravel/boost)
+2. 🎉 Merged PR [#787](https://github.com/laravel/boost/pull/787) in [laravel/boost](https://github.com/laravel/boost)
+3. 🔒 Closed issue [#788](https://github.com/laravel/boost/issues/788) in [laravel/boost](https://github.com/laravel/boost)
+4. 🗣 Commented on [#788](https://github.com/laravel/boost/issues/788#issuecomment-4334473235) in [laravel/boost](https://github.com/laravel/boost)
+5. 🚀 Published release [v1.1.18](https://github.com/laravel/folio/releases/tag/v1.1.18) in [laravel/folio](https://github.com/laravel/folio)
 <!--END_SECTION:activity-->
