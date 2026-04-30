@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#477](https://github.com/laravel/ai/pull/477#issuecomment-4351431488) in [laravel/ai](https://github.com/laravel/ai)
-2. ❌ Closed PR [#477](https://github.com/laravel/ai/pull/477) in [laravel/ai](https://github.com/laravel/ai)
-3. 🗣 Commented on [#476](https://github.com/laravel/ai/pull/476#issuecomment-4350274175) in [laravel/ai](https://github.com/laravel/ai)
-4. 🚀 Published release [v2.0.2](https://github.com/laravel/agent-detector/releases/tag/v2.0.2) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
-5. 🗣 Commented on [#17](https://github.com/laravel/agent-detector/pull/17#issuecomment-4346467193) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
+1. ℹ️ Assigned PR [#476](https://github.com/laravel/ai/pull/476) in [laravel/ai](https://github.com/laravel/ai)
+2. ℹ️ Assigned PR [#474](https://github.com/laravel/ai/pull/474) in [laravel/ai](https://github.com/laravel/ai)
+3. ℹ️ Assigned PR [#469](https://github.com/laravel/ai/pull/469) in [laravel/ai](https://github.com/laravel/ai)
+4. ℹ️ Assigned PR [#473](https://github.com/laravel/ai/pull/473) in [laravel/ai](https://github.com/laravel/ai)
+5. ℹ️ Assigned PR [#462](https://github.com/laravel/ai/pull/462) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
