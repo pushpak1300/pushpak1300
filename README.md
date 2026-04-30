@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#476](https://github.com/laravel/ai/pull/476) in [laravel/ai](https://github.com/laravel/ai)
-2. ℹ️ Assigned PR [#474](https://github.com/laravel/ai/pull/474) in [laravel/ai](https://github.com/laravel/ai)
-3. ℹ️ Assigned PR [#469](https://github.com/laravel/ai/pull/469) in [laravel/ai](https://github.com/laravel/ai)
-4. ℹ️ Assigned PR [#473](https://github.com/laravel/ai/pull/473) in [laravel/ai](https://github.com/laravel/ai)
-5. ℹ️ Assigned PR [#462](https://github.com/laravel/ai/pull/462) in [laravel/ai](https://github.com/laravel/ai)
+1. 🔒 Closed issue [#288](https://github.com/laravel/ai/issues/288) in [laravel/ai](https://github.com/laravel/ai)
+2. ℹ️ Assigned PR [#476](https://github.com/laravel/ai/pull/476) in [laravel/ai](https://github.com/laravel/ai)
+3. ℹ️ Assigned PR [#474](https://github.com/laravel/ai/pull/474) in [laravel/ai](https://github.com/laravel/ai)
+4. ℹ️ Assigned PR [#469](https://github.com/laravel/ai/pull/469) in [laravel/ai](https://github.com/laravel/ai)
+5. ℹ️ Assigned PR [#473](https://github.com/laravel/ai/pull/473) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
