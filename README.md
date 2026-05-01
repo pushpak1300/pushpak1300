@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#485](https://github.com/laravel/ai/pull/485#issuecomment-4358448105) in [laravel/ai](https://github.com/laravel/ai)
-2. ❌ Closed PR [#485](https://github.com/laravel/ai/pull/485) in [laravel/ai](https://github.com/laravel/ai)
-3. 🗣 Commented on [#484](https://github.com/laravel/ai/pull/484#issuecomment-4354744361) in [laravel/ai](https://github.com/laravel/ai)
-4. ℹ️ Assigned PR [#205](https://github.com/laravel/mcp/pull/205) in [laravel/mcp](https://github.com/laravel/mcp)
-5. 🔒 Closed issue [#288](https://github.com/laravel/ai/issues/288) in [laravel/ai](https://github.com/laravel/ai)
+1. 💪 Opened PR [#12](https://github.com/laravel/agent-skills/pull/12) in [laravel/agent-skills](https://github.com/laravel/agent-skills)
+2. 🗣 Commented on [#485](https://github.com/laravel/ai/pull/485#issuecomment-4358448105) in [laravel/ai](https://github.com/laravel/ai)
+3. ❌ Closed PR [#485](https://github.com/laravel/ai/pull/485) in [laravel/ai](https://github.com/laravel/ai)
+4. 🗣 Commented on [#484](https://github.com/laravel/ai/pull/484#issuecomment-4354744361) in [laravel/ai](https://github.com/laravel/ai)
+5. ℹ️ Assigned PR [#205](https://github.com/laravel/mcp/pull/205) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
