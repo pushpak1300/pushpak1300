@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#490](https://github.com/laravel/ai/pull/490) in [laravel/ai](https://github.com/laravel/ai)
-2. ℹ️ Reopened PR [#362](https://github.com/laravel/ai/pull/362) in [laravel/ai](https://github.com/laravel/ai)
-3. 💪 Opened PR [#488](https://github.com/laravel/ai/pull/488) in [laravel/ai](https://github.com/laravel/ai)
-4. 🎉 Merged PR [#487](https://github.com/laravel/ai/pull/487) in [laravel/ai](https://github.com/laravel/ai)
-5. 💪 Opened PR [#487](https://github.com/laravel/ai/pull/487) in [laravel/ai](https://github.com/laravel/ai)
+1. 💪 Opened PR [#1](https://github.com/pestphp/pest-plugin-ai/pull/1) in [pestphp/pest-plugin-ai](https://github.com/pestphp/pest-plugin-ai)
+2. 💪 Opened PR [#490](https://github.com/laravel/ai/pull/490) in [laravel/ai](https://github.com/laravel/ai)
+3. ℹ️ Reopened PR [#362](https://github.com/laravel/ai/pull/362) in [laravel/ai](https://github.com/laravel/ai)
+4. 💪 Opened PR [#488](https://github.com/laravel/ai/pull/488) in [laravel/ai](https://github.com/laravel/ai)
+5. 🎉 Merged PR [#487](https://github.com/laravel/ai/pull/487) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
