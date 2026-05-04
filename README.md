@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#491](https://github.com/laravel/ai/pull/491) in [laravel/ai](https://github.com/laravel/ai)
-2. 💪 Opened PR [#491](https://github.com/laravel/ai/pull/491) in [laravel/ai](https://github.com/laravel/ai)
-3. 🎉 Merged PR [#490](https://github.com/laravel/ai/pull/490) in [laravel/ai](https://github.com/laravel/ai)
-4. 🔒 Closed issue [#489](https://github.com/laravel/ai/issues/489) in [laravel/ai](https://github.com/laravel/ai)
-5. 🔒 Closed issue [#298](https://github.com/laravel/ai/issues/298) in [laravel/ai](https://github.com/laravel/ai)
+1. 💪 Opened PR [#492](https://github.com/laravel/ai/pull/492) in [laravel/ai](https://github.com/laravel/ai)
+2. 🎉 Merged PR [#491](https://github.com/laravel/ai/pull/491) in [laravel/ai](https://github.com/laravel/ai)
+3. 💪 Opened PR [#491](https://github.com/laravel/ai/pull/491) in [laravel/ai](https://github.com/laravel/ai)
+4. 🎉 Merged PR [#490](https://github.com/laravel/ai/pull/490) in [laravel/ai](https://github.com/laravel/ai)
+5. 🔒 Closed issue [#489](https://github.com/laravel/ai/issues/489) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
