@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#298](https://github.com/laravel/ai/issues/298) in [laravel/ai](https://github.com/laravel/ai)
-2. 💪 Opened PR [#13](https://github.com/laravel/agent-skills/pull/13) in [laravel/agent-skills](https://github.com/laravel/agent-skills)
-3. 🎉 Merged PR [#1](https://github.com/pestphp/pest-plugin-ai/pull/1) in [pestphp/pest-plugin-ai](https://github.com/pestphp/pest-plugin-ai)
-4. 🎉 Merged PR [#2](https://github.com/pestphp/pest-plugin-ai/pull/2) in [pestphp/pest-plugin-ai](https://github.com/pestphp/pest-plugin-ai)
-5. 🗣 Commented on [#1](https://github.com/pestphp/pest-plugin-ai/pull/1#issuecomment-4367876328) in [pestphp/pest-plugin-ai](https://github.com/pestphp/pest-plugin-ai)
+1. 🎉 Merged PR [#491](https://github.com/laravel/ai/pull/491) in [laravel/ai](https://github.com/laravel/ai)
+2. 💪 Opened PR [#491](https://github.com/laravel/ai/pull/491) in [laravel/ai](https://github.com/laravel/ai)
+3. 🎉 Merged PR [#490](https://github.com/laravel/ai/pull/490) in [laravel/ai](https://github.com/laravel/ai)
+4. 🔒 Closed issue [#489](https://github.com/laravel/ai/issues/489) in [laravel/ai](https://github.com/laravel/ai)
+5. 🔒 Closed issue [#298](https://github.com/laravel/ai/issues/298) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
