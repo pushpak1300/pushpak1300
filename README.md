@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#508](https://github.com/laravel/ai/issues/508#issuecomment-4411807363) in [laravel/ai](https://github.com/laravel/ai)
-2. 🗣 Commented on [#508](https://github.com/laravel/ai/issues/508#issuecomment-4411804351) in [laravel/ai](https://github.com/laravel/ai)
-3. ℹ️ Assigned issue [#508](https://github.com/laravel/ai/issues/508) in [laravel/ai](https://github.com/laravel/ai)
-4. 💪 Opened PR [#554](https://github.com/laravel/ai/pull/554) in [laravel/ai](https://github.com/laravel/ai)
-5. 🗣 Commented on [#798](https://github.com/laravel/boost/pull/798#issuecomment-4411608333) in [laravel/boost](https://github.com/laravel/boost)
+1. 🗣 Commented on [#556](https://github.com/laravel/ai/pull/556#issuecomment-4413014645) in [laravel/ai](https://github.com/laravel/ai)
+2. 🔒 Closed issue [#372](https://github.com/laravel/ai/issues/372) in [laravel/ai](https://github.com/laravel/ai)
+3. 🔒 Closed issue [#341](https://github.com/laravel/ai/issues/341) in [laravel/ai](https://github.com/laravel/ai)
+4. 🗣 Commented on [#508](https://github.com/laravel/ai/issues/508#issuecomment-4411807363) in [laravel/ai](https://github.com/laravel/ai)
+5. 🗣 Commented on [#508](https://github.com/laravel/ai/issues/508#issuecomment-4411804351) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
