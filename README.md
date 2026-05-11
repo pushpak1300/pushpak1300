@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#381](https://github.com/laravel/reverb/pull/381) in [laravel/reverb](https://github.com/laravel/reverb)
-2. 💪 Opened PR [#381](https://github.com/laravel/reverb/pull/381) in [laravel/reverb](https://github.com/laravel/reverb)
-3. 🗣 Commented on [#556](https://github.com/laravel/ai/pull/556#issuecomment-4413014645) in [laravel/ai](https://github.com/laravel/ai)
-4. 🔒 Closed issue [#372](https://github.com/laravel/ai/issues/372) in [laravel/ai](https://github.com/laravel/ai)
-5. 🔒 Closed issue [#341](https://github.com/laravel/ai/issues/341) in [laravel/ai](https://github.com/laravel/ai)
+1. 🔒 Closed issue [#533](https://github.com/laravel/ai/issues/533) in [laravel/ai](https://github.com/laravel/ai)
+2. 🎉 Merged PR [#381](https://github.com/laravel/reverb/pull/381) in [laravel/reverb](https://github.com/laravel/reverb)
+3. 💪 Opened PR [#381](https://github.com/laravel/reverb/pull/381) in [laravel/reverb](https://github.com/laravel/reverb)
+4. 🗣 Commented on [#556](https://github.com/laravel/ai/pull/556#issuecomment-4413014645) in [laravel/ai](https://github.com/laravel/ai)
+5. 🔒 Closed issue [#372](https://github.com/laravel/ai/issues/372) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
