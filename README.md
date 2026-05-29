@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#227](https://github.com/laravel/mcp/pull/227) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🚀 Published release [v0.7.2](https://github.com/laravel/ai/releases/tag/v0.7.2) in [laravel/ai](https://github.com/laravel/ai)
-3. 🎉 Merged PR [#670](https://github.com/laravel/ai/pull/670) in [laravel/ai](https://github.com/laravel/ai)
-4. 💪 Opened PR [#670](https://github.com/laravel/ai/pull/670) in [laravel/ai](https://github.com/laravel/ai)
-5. 💪 Opened PR [#830](https://github.com/laravel/boost/pull/830) in [laravel/boost](https://github.com/laravel/boost)
+1. 🚀 Published release [v0.0.1](https://github.com/shipfastlabs/skeleton-php/releases/tag/v0.0.1) in [shipfastlabs/skeleton-php](https://github.com/shipfastlabs/skeleton-php)
+2. 🎉 Merged PR [#227](https://github.com/laravel/mcp/pull/227) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 🚀 Published release [v0.7.2](https://github.com/laravel/ai/releases/tag/v0.7.2) in [laravel/ai](https://github.com/laravel/ai)
+4. 🎉 Merged PR [#670](https://github.com/laravel/ai/pull/670) in [laravel/ai](https://github.com/laravel/ai)
+5. 💪 Opened PR [#670](https://github.com/laravel/ai/pull/670) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
