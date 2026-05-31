@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.2](https://github.com/shipfastlabs/parsel/releases/tag/v0.0.2) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
-2. 🔒 Closed issue [#2](https://github.com/shipfastlabs/parsel/issues/2) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
-3. 🗣 Commented on [#2](https://github.com/shipfastlabs/parsel/issues/2#issuecomment-4581595585) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
-4. 🎉 Merged PR [#228](https://github.com/laravel/mcp/pull/228) in [laravel/mcp](https://github.com/laravel/mcp)
-5. 🚀 Published release [v0.0.1](https://github.com/shipfastlabs/parsel/releases/tag/v0.0.1) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+1. 🚀 Published release [v0.0.2](https://github.com/shipfastlabs/skeleton-php/releases/tag/v0.0.2) in [shipfastlabs/skeleton-php](https://github.com/shipfastlabs/skeleton-php)
+2. 🚀 Published release [v0.0.2](https://github.com/shipfastlabs/parsel/releases/tag/v0.0.2) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+3. 🔒 Closed issue [#2](https://github.com/shipfastlabs/parsel/issues/2) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+4. 🗣 Commented on [#2](https://github.com/shipfastlabs/parsel/issues/2#issuecomment-4581595585) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+5. 🎉 Merged PR [#228](https://github.com/laravel/mcp/pull/228) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
