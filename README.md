@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#230](https://github.com/laravel/mcp/pull/230) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🗣 Commented on [#60319](https://github.com/laravel/framework/issues/60319#issuecomment-4593063248) in [laravel/framework](https://github.com/laravel/framework)
-3. 🔓 Reopened issue [#60319](https://github.com/laravel/framework/issues/60319) in [laravel/framework](https://github.com/laravel/framework)
-4. 🗣 Commented on [#231](https://github.com/laravel/mcp/pull/231#issuecomment-4592436585) in [laravel/mcp](https://github.com/laravel/mcp)
-5. 🗣 Commented on [#623](https://github.com/laravel/ai/pull/623#issuecomment-4592159867) in [laravel/ai](https://github.com/laravel/ai)
+1. 💪 Opened PR [#232](https://github.com/laravel/mcp/pull/232) in [laravel/mcp](https://github.com/laravel/mcp)
+2. 🎉 Merged PR [#819](https://github.com/laravel/boost/pull/819) in [laravel/boost](https://github.com/laravel/boost)
+3. 🗣 Commented on [#6](https://github.com/shipfastlabs/parsel/pull/6#issuecomment-4594272167) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+4. 🎉 Merged PR [#230](https://github.com/laravel/mcp/pull/230) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 🗣 Commented on [#60319](https://github.com/laravel/framework/issues/60319#issuecomment-4593063248) in [laravel/framework](https://github.com/laravel/framework)
 <!--END_SECTION:activity-->
