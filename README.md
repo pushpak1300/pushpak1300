@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/shipfastlabs/toolkit-database/releases/tag/1.0.0) in [shipfastlabs/toolkit-database](https://github.com/shipfastlabs/toolkit-database)
-2. 🚀 Published release [1.0.0](https://github.com/shipfastlabs/toolkit-calculator/releases/tag/1.0.0) in [shipfastlabs/toolkit-calculator](https://github.com/shipfastlabs/toolkit-calculator)
-3. 🚀 Published release [v0.0.2](https://github.com/shipfastlabs/skeleton-php/releases/tag/v0.0.2) in [shipfastlabs/skeleton-php](https://github.com/shipfastlabs/skeleton-php)
-4. 🚀 Published release [v0.0.2](https://github.com/shipfastlabs/parsel/releases/tag/v0.0.2) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
-5. 🔒 Closed issue [#2](https://github.com/shipfastlabs/parsel/issues/2) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+1. 💪 Opened PR [#230](https://github.com/laravel/mcp/pull/230) in [laravel/mcp](https://github.com/laravel/mcp)
+2. ℹ️ Labeled PR [#5](https://github.com/shipfastlabs/toolkit/pull/5) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
+3. 💪 Opened PR [#5](https://github.com/shipfastlabs/toolkit/pull/5) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
+4. 🎉 Merged PR [#27](https://github.com/laravel/pao/pull/27) in [laravel/pao](https://github.com/laravel/pao)
+5. 🚀 Published release [1.0.0](https://github.com/shipfastlabs/toolkit-database/releases/tag/1.0.0) in [shipfastlabs/toolkit-database](https://github.com/shipfastlabs/toolkit-database)
 <!--END_SECTION:activity-->
