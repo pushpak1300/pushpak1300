@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#230](https://github.com/laravel/mcp/pull/230) in [laravel/mcp](https://github.com/laravel/mcp)
-2. ℹ️ Labeled PR [#5](https://github.com/shipfastlabs/toolkit/pull/5) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
-3. 💪 Opened PR [#5](https://github.com/shipfastlabs/toolkit/pull/5) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
-4. 🎉 Merged PR [#27](https://github.com/laravel/pao/pull/27) in [laravel/pao](https://github.com/laravel/pao)
-5. 🚀 Published release [1.0.0](https://github.com/shipfastlabs/toolkit-database/releases/tag/1.0.0) in [shipfastlabs/toolkit-database](https://github.com/shipfastlabs/toolkit-database)
+1. 🗣 Commented on [#231](https://github.com/laravel/mcp/pull/231#issuecomment-4592436585) in [laravel/mcp](https://github.com/laravel/mcp)
+2. 🗣 Commented on [#623](https://github.com/laravel/ai/pull/623#issuecomment-4592159867) in [laravel/ai](https://github.com/laravel/ai)
+3. ❌ Closed PR [#623](https://github.com/laravel/ai/pull/623) in [laravel/ai](https://github.com/laravel/ai)
+4. 🗣 Commented on [#671](https://github.com/laravel/ai/pull/671#issuecomment-4592086582) in [laravel/ai](https://github.com/laravel/ai)
+5. 🔒 Closed issue [#60319](https://github.com/laravel/framework/issues/60319) in [laravel/framework](https://github.com/laravel/framework)
 <!--END_SECTION:activity-->
