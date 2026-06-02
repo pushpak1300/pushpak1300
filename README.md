@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#9](https://github.com/shipfastlabs/parsel/issues/9) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
-2. 🗣 Commented on [#9](https://github.com/shipfastlabs/parsel/issues/9#issuecomment-4599943073) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
-3. 🗣 Commented on [#665](https://github.com/laravel/ai/issues/665#issuecomment-4599701719) in [laravel/ai](https://github.com/laravel/ai)
-4. 🔒 Closed issue [#665](https://github.com/laravel/ai/issues/665) in [laravel/ai](https://github.com/laravel/ai)
-5. 💪 Opened PR [#232](https://github.com/laravel/mcp/pull/232) in [laravel/mcp](https://github.com/laravel/mcp)
+1. 🗣 Commented on [#833](https://github.com/laravel/boost/pull/833#issuecomment-4603828647) in [laravel/boost](https://github.com/laravel/boost)
+2. ❌ Closed PR [#833](https://github.com/laravel/boost/pull/833) in [laravel/boost](https://github.com/laravel/boost)
+3. 🔒 Closed issue [#9](https://github.com/shipfastlabs/parsel/issues/9) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+4. 🗣 Commented on [#9](https://github.com/shipfastlabs/parsel/issues/9#issuecomment-4599943073) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+5. 🗣 Commented on [#665](https://github.com/laravel/ai/issues/665#issuecomment-4599701719) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
