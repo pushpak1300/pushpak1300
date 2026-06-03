@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#235](https://github.com/laravel/mcp/pull/235) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🗣 Commented on [#875](https://github.com/laravel/sail/issues/875#issuecomment-4610872984) in [laravel/sail](https://github.com/laravel/sail)
-3. 🔒 Closed issue [#875](https://github.com/laravel/sail/issues/875) in [laravel/sail](https://github.com/laravel/sail)
-4. ❌ Closed PR [#232](https://github.com/laravel/mcp/pull/232) in [laravel/mcp](https://github.com/laravel/mcp)
-5. 💪 Opened PR [#233](https://github.com/laravel/mcp/pull/233) in [laravel/mcp](https://github.com/laravel/mcp)
+1. 🎉 Merged PR [#235](https://github.com/laravel/mcp/pull/235) in [laravel/mcp](https://github.com/laravel/mcp)
+2. 💪 Opened PR [#235](https://github.com/laravel/mcp/pull/235) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 🗣 Commented on [#875](https://github.com/laravel/sail/issues/875#issuecomment-4610872984) in [laravel/sail](https://github.com/laravel/sail)
+4. 🔒 Closed issue [#875](https://github.com/laravel/sail/issues/875) in [laravel/sail](https://github.com/laravel/sail)
+5. ❌ Closed PR [#232](https://github.com/laravel/mcp/pull/232) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
