@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#239](https://github.com/laravel/mcp/pull/239) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🎉 Merged PR [#60387](https://github.com/laravel/framework/pull/60387) in [laravel/framework](https://github.com/laravel/framework)
-3. 💪 Opened PR [#60387](https://github.com/laravel/framework/pull/60387) in [laravel/framework](https://github.com/laravel/framework)
-4. 🎉 Merged PR [#60384](https://github.com/laravel/framework/pull/60384) in [laravel/framework](https://github.com/laravel/framework)
-5. 🎉 Merged PR [#688](https://github.com/laravel/ai/pull/688) in [laravel/ai](https://github.com/laravel/ai)
+1. 🎉 Merged PR [#239](https://github.com/laravel/mcp/pull/239) in [laravel/mcp](https://github.com/laravel/mcp)
+2. 💪 Opened PR [#239](https://github.com/laravel/mcp/pull/239) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 🎉 Merged PR [#60387](https://github.com/laravel/framework/pull/60387) in [laravel/framework](https://github.com/laravel/framework)
+4. 💪 Opened PR [#60387](https://github.com/laravel/framework/pull/60387) in [laravel/framework](https://github.com/laravel/framework)
+5. 🎉 Merged PR [#60384](https://github.com/laravel/framework/pull/60384) in [laravel/framework](https://github.com/laravel/framework)
 <!--END_SECTION:activity-->
