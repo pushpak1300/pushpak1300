@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/shipfastlabs/toolkit/pull/8) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
-2. ℹ️ Labeled PR [#8](https://github.com/shipfastlabs/toolkit/pull/8) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
-3. 💪 Opened PR [#8](https://github.com/shipfastlabs/toolkit/pull/8) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
-4. 🎉 Merged PR [#7](https://github.com/shipfastlabs/toolkit/pull/7) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
-5. ℹ️ Labeled PR [#7](https://github.com/shipfastlabs/toolkit/pull/7) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
+1. 🎉 Merged PR [#9](https://github.com/shipfastlabs/toolkit/pull/9) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
+2. ℹ️ Labeled PR [#9](https://github.com/shipfastlabs/toolkit/pull/9) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
+3. 💪 Opened PR [#9](https://github.com/shipfastlabs/toolkit/pull/9) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
+4. 🎉 Merged PR [#8](https://github.com/shipfastlabs/toolkit/pull/8) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
+5. ℹ️ Labeled PR [#8](https://github.com/shipfastlabs/toolkit/pull/8) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
 <!--END_SECTION:activity-->
