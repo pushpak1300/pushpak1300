@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#305](https://github.com/laravel/ai/pull/305#issuecomment-4639997776) in [laravel/ai](https://github.com/laravel/ai)
-2. 🎉 Merged PR [#233](https://github.com/laravel/mcp/pull/233) in [laravel/mcp](https://github.com/laravel/mcp)
-3. 🗣 Commented on [#819](https://github.com/laravel/boost/pull/819#issuecomment-4634382666) in [laravel/boost](https://github.com/laravel/boost)
-4. 🎉 Merged PR [#655](https://github.com/laravel/ai/pull/655) in [laravel/ai](https://github.com/laravel/ai)
-5. 🗣 Commented on [#841](https://github.com/laravel/boost/pull/841#issuecomment-4633210460) in [laravel/boost](https://github.com/laravel/boost)
+1. 🗣 Commented on [#841](https://github.com/laravel/boost/pull/841#issuecomment-4642068599) in [laravel/boost](https://github.com/laravel/boost)
+2. ❌ Closed PR [#2](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/2) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
+3. ❌ Closed PR [#6](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/6) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
+4. ❌ Closed PR [#3](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/3) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
+5. ❌ Closed PR [#7](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/7) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
 <!--END_SECTION:activity-->
