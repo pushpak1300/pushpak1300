@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.3](https://github.com/shipfastlabs/parsel/releases/tag/v0.0.3) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
-2. ❌ Closed PR [#10](https://github.com/shipfastlabs/parsel/pull/10) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
-3. 🗣 Commented on [#10](https://github.com/shipfastlabs/parsel/pull/10#issuecomment-4642147105) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
-4. 🗣 Commented on [#841](https://github.com/laravel/boost/pull/841#issuecomment-4642068599) in [laravel/boost](https://github.com/laravel/boost)
-5. ❌ Closed PR [#2](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/2) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
+1. 🚀 Published release [1.0.0](https://github.com/shipfastlabs/toolkit-tavily/releases/tag/1.0.0) in [shipfastlabs/toolkit-tavily](https://github.com/shipfastlabs/toolkit-tavily)
+2. 🎉 Merged PR [#5](https://github.com/shipfastlabs/toolkit/pull/5) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
+3. 🚀 Published release [v0.0.3](https://github.com/shipfastlabs/parsel/releases/tag/v0.0.3) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+4. ❌ Closed PR [#10](https://github.com/shipfastlabs/parsel/pull/10) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+5. 🗣 Commented on [#10](https://github.com/shipfastlabs/parsel/pull/10#issuecomment-4642147105) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
 <!--END_SECTION:activity-->
