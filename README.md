@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/shipfastlabs/toolkit/pull/9) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
-2. ℹ️ Labeled PR [#9](https://github.com/shipfastlabs/toolkit/pull/9) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
-3. 💪 Opened PR [#9](https://github.com/shipfastlabs/toolkit/pull/9) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
-4. 🎉 Merged PR [#8](https://github.com/shipfastlabs/toolkit/pull/8) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
-5. ℹ️ Labeled PR [#8](https://github.com/shipfastlabs/toolkit/pull/8) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
+1. 🚀 Published release [v1.0.0](https://github.com/shipfastlabs/toolkit-database/releases/tag/v1.0.0) in [shipfastlabs/toolkit-database](https://github.com/shipfastlabs/toolkit-database)
+2. 🚀 Published release [v1.0.0](https://github.com/shipfastlabs/toolkit-calculator/releases/tag/v1.0.0) in [shipfastlabs/toolkit-calculator](https://github.com/shipfastlabs/toolkit-calculator)
+3. 🚀 Published release [v1.0.0](https://github.com/shipfastlabs/toolkit-tavily/releases/tag/v1.0.0) in [shipfastlabs/toolkit-tavily](https://github.com/shipfastlabs/toolkit-tavily)
+4. 🚀 Published release [v1.0.0](https://github.com/shipfastlabs/toolkit-perplexity/releases/tag/v1.0.0) in [shipfastlabs/toolkit-perplexity](https://github.com/shipfastlabs/toolkit-perplexity)
+5. 🚀 Published release [v1.0.0](https://github.com/shipfastlabs/toolkit-jigsawstack/releases/tag/v1.0.0) in [shipfastlabs/toolkit-jigsawstack](https://github.com/shipfastlabs/toolkit-jigsawstack)
 <!--END_SECTION:activity-->
