@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11232](https://github.com/laravel/docs/pull/11232) in [laravel/docs](https://github.com/laravel/docs)
-2. 🚀 Published release [v1.0.0](https://github.com/shipfastlabs/toolkit-database/releases/tag/v1.0.0) in [shipfastlabs/toolkit-database](https://github.com/shipfastlabs/toolkit-database)
-3. 🚀 Published release [v1.0.0](https://github.com/shipfastlabs/toolkit-calculator/releases/tag/v1.0.0) in [shipfastlabs/toolkit-calculator](https://github.com/shipfastlabs/toolkit-calculator)
-4. 🚀 Published release [v1.0.0](https://github.com/shipfastlabs/toolkit-tavily/releases/tag/v1.0.0) in [shipfastlabs/toolkit-tavily](https://github.com/shipfastlabs/toolkit-tavily)
-5. 🚀 Published release [v1.0.0](https://github.com/shipfastlabs/toolkit-perplexity/releases/tag/v1.0.0) in [shipfastlabs/toolkit-perplexity](https://github.com/shipfastlabs/toolkit-perplexity)
+1. 🗣 Commented on [#686](https://github.com/laravel/ai/pull/686#issuecomment-4648984549) in [laravel/ai](https://github.com/laravel/ai)
+2. ❌ Closed PR [#690](https://github.com/laravel/ai/pull/690) in [laravel/ai](https://github.com/laravel/ai)
+3. 🗣 Commented on [#690](https://github.com/laravel/ai/pull/690#issuecomment-4648946190) in [laravel/ai](https://github.com/laravel/ai)
+4. 🗣 Commented on [#844](https://github.com/laravel/boost/issues/844#issuecomment-4648841656) in [laravel/boost](https://github.com/laravel/boost)
+5. 🗣 Commented on [#241](https://github.com/laravel/mcp/pull/241#issuecomment-4648820780) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
