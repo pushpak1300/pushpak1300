@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#844](https://github.com/laravel/boost/issues/844#issuecomment-4660736589) in [laravel/boost](https://github.com/laravel/boost)
-2. 🎉 Merged PR [#60462](https://github.com/laravel/framework/pull/60462) in [laravel/framework](https://github.com/laravel/framework)
-3. 💪 Opened PR [#60462](https://github.com/laravel/framework/pull/60462) in [laravel/framework](https://github.com/laravel/framework)
-4. 🎉 Merged PR [#60455](https://github.com/laravel/framework/pull/60455) in [laravel/framework](https://github.com/laravel/framework)
-5. 💪 Opened PR [#696](https://github.com/laravel/ai/pull/696) in [laravel/ai](https://github.com/laravel/ai)
+1. 🗣 Commented on [#246](https://github.com/laravel/mcp/issues/246#issuecomment-4669872469) in [laravel/mcp](https://github.com/laravel/mcp)
+2. 🔒 Closed issue [#246](https://github.com/laravel/mcp/issues/246) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 🎉 Merged PR [#696](https://github.com/laravel/ai/pull/696) in [laravel/ai](https://github.com/laravel/ai)
+4. 🗣 Commented on [#844](https://github.com/laravel/boost/issues/844#issuecomment-4660736589) in [laravel/boost](https://github.com/laravel/boost)
+5. 🎉 Merged PR [#60462](https://github.com/laravel/framework/pull/60462) in [laravel/framework](https://github.com/laravel/framework)
 <!--END_SECTION:activity-->
