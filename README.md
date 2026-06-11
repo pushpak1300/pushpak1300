@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#250](https://github.com/laravel/mcp/pull/250) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🚀 Published release [v0.8.1](https://github.com/laravel/ai/releases/tag/v0.8.1) in [laravel/ai](https://github.com/laravel/ai)
-3. 💪 Opened PR [#250](https://github.com/laravel/mcp/pull/250) in [laravel/mcp](https://github.com/laravel/mcp)
-4. 💪 Opened PR [#249](https://github.com/laravel/mcp/pull/249) in [laravel/mcp](https://github.com/laravel/mcp)
-5. 🔒 Closed issue [#248](https://github.com/laravel/mcp/issues/248) in [laravel/mcp](https://github.com/laravel/mcp)
+1. 🎉 Merged PR [#249](https://github.com/laravel/mcp/pull/249) in [laravel/mcp](https://github.com/laravel/mcp)
+2. 🎉 Merged PR [#250](https://github.com/laravel/mcp/pull/250) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 🚀 Published release [v0.8.1](https://github.com/laravel/ai/releases/tag/v0.8.1) in [laravel/ai](https://github.com/laravel/ai)
+4. 💪 Opened PR [#250](https://github.com/laravel/mcp/pull/250) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 💪 Opened PR [#249](https://github.com/laravel/mcp/pull/249) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
