@@ -26,9 +26,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#817](https://github.com/laravel/boost/issues/817) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#856](https://github.com/laravel/boost/pull/856#issuecomment-4807240751) in [laravel/boost](https://github.com/laravel/boost)
-3. 🗣 Commented on [#857](https://github.com/laravel/boost/pull/857#issuecomment-4807112077) in [laravel/boost](https://github.com/laravel/boost)
-4. 🗣 Commented on [#159](https://github.com/laravel/ai/issues/159#issuecomment-4807073466) in [laravel/ai](https://github.com/laravel/ai)
-5. ℹ️ Reopened PR [#254](https://github.com/laravel/mcp/pull/254) in [laravel/mcp](https://github.com/laravel/mcp)
+1. 🔓 Reopened issue [#26](https://github.com/laravel/agent-detector/issues/26) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
+2. 🗣 Commented on [#26](https://github.com/laravel/agent-detector/issues/26#issuecomment-4808072530) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
+3. 🔒 Closed issue [#26](https://github.com/laravel/agent-detector/issues/26) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
+4. 🗣 Commented on [#861](https://github.com/laravel/boost/issues/861#issuecomment-4807919030) in [laravel/boost](https://github.com/laravel/boost)
+5. 🔒 Closed issue [#861](https://github.com/laravel/boost/issues/861) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
