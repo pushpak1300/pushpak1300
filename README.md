@@ -1,3 +1,12 @@
+<div align="center">
+  <a href="https://commit-history.com/fabpot">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/pushpak1300?theme=dark" />
+      <img alt="fabpot's commit history" src="https://commit-history.com/embed/fabpot" />
+    </picture>
+  </a>
+</div>
+
 ### Hi there 👋
 
 ##### I am Pushpak, I am a Software Engineer and a problem solver.💻
@@ -22,6 +31,8 @@
 </p>
 
 ---
+
+
 
 ### ⚡ Recent Activity
 
