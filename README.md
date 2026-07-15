@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60771](https://github.com/laravel/framework/pull/60771#issuecomment-4973300559) in [laravel/framework](https://github.com/laravel/framework)
-2. 🗣 Commented on [#266](https://github.com/laravel/mcp/pull/266#issuecomment-4973205698) in [laravel/mcp](https://github.com/laravel/mcp)
-3. ❌ Closed PR [#266](https://github.com/laravel/mcp/pull/266) in [laravel/mcp](https://github.com/laravel/mcp)
-4. 🗣 Commented on [#266](https://github.com/laravel/mcp/pull/266#issuecomment-4973203031) in [laravel/mcp](https://github.com/laravel/mcp)
-5. ℹ️ Reopened PR [#757](https://github.com/laravel/ai/pull/757) in [laravel/ai](https://github.com/laravel/ai)
+1. 💪 Opened PR [#880](https://github.com/laravel/boost/pull/880) in [laravel/boost](https://github.com/laravel/boost)
+2. 🗣 Commented on [#875](https://github.com/laravel/boost/pull/875#issuecomment-4976627712) in [laravel/boost](https://github.com/laravel/boost)
+3. 🔒 Closed issue [#289](https://github.com/laravel/boost/issues/289) in [laravel/boost](https://github.com/laravel/boost)
+4. 🗣 Commented on [#60771](https://github.com/laravel/framework/pull/60771#issuecomment-4973300559) in [laravel/framework](https://github.com/laravel/framework)
+5. 🗣 Commented on [#266](https://github.com/laravel/mcp/pull/266#issuecomment-4973205698) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
