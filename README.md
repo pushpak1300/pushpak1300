@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#269](https://github.com/laravel/mcp/pull/269#issuecomment-4994579080) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🔒 Closed issue [#258](https://github.com/laravel/mcp/issues/258) in [laravel/mcp](https://github.com/laravel/mcp)
-3. 🗣 Commented on [#270](https://github.com/laravel/mcp/pull/270#issuecomment-4991539481) in [laravel/mcp](https://github.com/laravel/mcp)
-4. 🗣 Commented on [#850](https://github.com/laravel/boost/pull/850#issuecomment-4990668997) in [laravel/boost](https://github.com/laravel/boost)
-5. 🗣 Commented on [#819](https://github.com/laravel/boost/pull/819#issuecomment-4981188068) in [laravel/boost](https://github.com/laravel/boost)
+1. 🔒 Closed issue [#796](https://github.com/laravel/ai/issues/796) in [laravel/ai](https://github.com/laravel/ai)
+2. 🚀 Published release [v0.9.0](https://github.com/laravel/mcp/releases/tag/v0.9.0) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 🗣 Commented on [#269](https://github.com/laravel/mcp/pull/269#issuecomment-4994579080) in [laravel/mcp](https://github.com/laravel/mcp)
+4. 🔒 Closed issue [#258](https://github.com/laravel/mcp/issues/258) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 🗣 Commented on [#270](https://github.com/laravel/mcp/pull/270#issuecomment-4991539481) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
