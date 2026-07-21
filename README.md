@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3550](https://github.com/mongodb/laravel-mongodb/pull/3550) in [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb)
-2. 💪 Opened PR [#273](https://github.com/laravel/mcp/pull/273) in [laravel/mcp](https://github.com/laravel/mcp)
-3. 🎉 Merged PR [#11297](https://github.com/laravel/docs/pull/11297) in [laravel/docs](https://github.com/laravel/docs)
-4. 🗣 Commented on [#775](https://github.com/laravel/ai/issues/775#issuecomment-5026286085) in [laravel/ai](https://github.com/laravel/ai)
-5. 🔒 Closed issue [#775](https://github.com/laravel/ai/issues/775) in [laravel/ai](https://github.com/laravel/ai)
+1. 🗣 Commented on [#882](https://github.com/laravel/boost/pull/882#issuecomment-5033584340) in [laravel/boost](https://github.com/laravel/boost)
+2. 🎉 Merged PR [#888](https://github.com/laravel/boost/pull/888) in [laravel/boost](https://github.com/laravel/boost)
+3. 💪 Opened PR [#888](https://github.com/laravel/boost/pull/888) in [laravel/boost](https://github.com/laravel/boost)
+4. 💪 Opened PR [#3550](https://github.com/mongodb/laravel-mongodb/pull/3550) in [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb)
+5. 💪 Opened PR [#273](https://github.com/laravel/mcp/pull/273) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
