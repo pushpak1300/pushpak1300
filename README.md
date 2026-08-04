@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/laravel/package-skeleton/pull/31) in [laravel/package-skeleton](https://github.com/laravel/package-skeleton)
-2. 💪 Opened PR [#31](https://github.com/laravel/package-skeleton/pull/31) in [laravel/package-skeleton](https://github.com/laravel/package-skeleton)
-3. 🗣 Commented on [#847](https://github.com/laravel/ai/pull/847#issuecomment-5183881710) in [laravel/ai](https://github.com/laravel/ai)
-4. 💪 Opened PR [#848](https://github.com/laravel/ai/pull/848) in [laravel/ai](https://github.com/laravel/ai)
-5. 🔒 Closed issue [#819](https://github.com/laravel/ai/issues/819) in [laravel/ai](https://github.com/laravel/ai)
+1. 🚀 Published release [v2.5.0](https://github.com/laravel/boost/releases/tag/v2.5.0) in [laravel/boost](https://github.com/laravel/boost)
+2. 🎉 Merged PR [#899](https://github.com/inertiajs/inertia-laravel/pull/899) in [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel)
+3. 🎉 Merged PR [#898](https://github.com/inertiajs/inertia-laravel/pull/898) in [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel)
+4. 🎉 Merged PR [#293](https://github.com/laravel/wayfinder/pull/293) in [laravel/wayfinder](https://github.com/laravel/wayfinder)
+5. 💪 Opened PR [#293](https://github.com/laravel/wayfinder/pull/293) in [laravel/wayfinder](https://github.com/laravel/wayfinder)
 <!--END_SECTION:activity-->
