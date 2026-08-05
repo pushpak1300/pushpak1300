@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11320](https://github.com/laravel/docs/pull/11320) in [laravel/docs](https://github.com/laravel/docs)
-2. 💪 Opened PR [#11320](https://github.com/laravel/docs/pull/11320) in [laravel/docs](https://github.com/laravel/docs)
-3. 🚀 Published release [v2.5.0](https://github.com/laravel/boost/releases/tag/v2.5.0) in [laravel/boost](https://github.com/laravel/boost)
-4. 🎉 Merged PR [#899](https://github.com/inertiajs/inertia-laravel/pull/899) in [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel)
-5. 🎉 Merged PR [#898](https://github.com/inertiajs/inertia-laravel/pull/898) in [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel)
+1. ❌ Closed PR [#11282](https://github.com/laravel/docs/pull/11282) in [laravel/docs](https://github.com/laravel/docs)
+2. 🎉 Merged PR [#11320](https://github.com/laravel/docs/pull/11320) in [laravel/docs](https://github.com/laravel/docs)
+3. 💪 Opened PR [#11320](https://github.com/laravel/docs/pull/11320) in [laravel/docs](https://github.com/laravel/docs)
+4. 🚀 Published release [v2.5.0](https://github.com/laravel/boost/releases/tag/v2.5.0) in [laravel/boost](https://github.com/laravel/boost)
+5. 🎉 Merged PR [#899](https://github.com/inertiajs/inertia-laravel/pull/899) in [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel)
 <!--END_SECTION:activity-->
