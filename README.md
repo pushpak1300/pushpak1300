@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/shipfastlabs/parsel/releases/tag/v1.0.0) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
-2. ❌ Closed PR [#11282](https://github.com/laravel/docs/pull/11282) in [laravel/docs](https://github.com/laravel/docs)
-3. 🎉 Merged PR [#11320](https://github.com/laravel/docs/pull/11320) in [laravel/docs](https://github.com/laravel/docs)
-4. 💪 Opened PR [#11320](https://github.com/laravel/docs/pull/11320) in [laravel/docs](https://github.com/laravel/docs)
-5. 🚀 Published release [v2.5.0](https://github.com/laravel/boost/releases/tag/v2.5.0) in [laravel/boost](https://github.com/laravel/boost)
+1. ❌ Closed PR [#847](https://github.com/laravel/ai/pull/847) in [laravel/ai](https://github.com/laravel/ai)
+2. 🗣 Commented on [#843](https://github.com/laravel/ai/pull/843#issuecomment-5192064795) in [laravel/ai](https://github.com/laravel/ai)
+3. 🚀 Published release [v1.0.0](https://github.com/shipfastlabs/parsel/releases/tag/v1.0.0) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+4. ❌ Closed PR [#11282](https://github.com/laravel/docs/pull/11282) in [laravel/docs](https://github.com/laravel/docs)
+5. 🎉 Merged PR [#11320](https://github.com/laravel/docs/pull/11320) in [laravel/docs](https://github.com/laravel/docs)
 <!--END_SECTION:activity-->
