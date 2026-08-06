@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#833](https://github.com/laravel/ai/issues/833) in [laravel/ai](https://github.com/laravel/ai)
-2. 🗣 Commented on [#774](https://github.com/laravel/ai/pull/774#issuecomment-5199590330) in [laravel/ai](https://github.com/laravel/ai)
-3. ❌ Closed PR [#774](https://github.com/laravel/ai/pull/774) in [laravel/ai](https://github.com/laravel/ai)
-4. 🗣 Commented on [#774](https://github.com/laravel/ai/pull/774#issuecomment-5199524528) in [laravel/ai](https://github.com/laravel/ai)
-5. ❌ Closed PR [#761](https://github.com/laravel/ai/pull/761) in [laravel/ai](https://github.com/laravel/ai)
+1. 🎉 Merged PR [#851](https://github.com/laravel/ai/pull/851) in [laravel/ai](https://github.com/laravel/ai)
+2. 💪 Opened PR [#851](https://github.com/laravel/ai/pull/851) in [laravel/ai](https://github.com/laravel/ai)
+3. 🔒 Closed issue [#833](https://github.com/laravel/ai/issues/833) in [laravel/ai](https://github.com/laravel/ai)
+4. 🗣 Commented on [#774](https://github.com/laravel/ai/pull/774#issuecomment-5199590330) in [laravel/ai](https://github.com/laravel/ai)
+5. ❌ Closed PR [#774](https://github.com/laravel/ai/pull/774) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
