@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#851](https://github.com/laravel/ai/pull/851) in [laravel/ai](https://github.com/laravel/ai)
-2. 💪 Opened PR [#851](https://github.com/laravel/ai/pull/851) in [laravel/ai](https://github.com/laravel/ai)
-3. 🔒 Closed issue [#833](https://github.com/laravel/ai/issues/833) in [laravel/ai](https://github.com/laravel/ai)
-4. 🗣 Commented on [#774](https://github.com/laravel/ai/pull/774#issuecomment-5199590330) in [laravel/ai](https://github.com/laravel/ai)
-5. ❌ Closed PR [#774](https://github.com/laravel/ai/pull/774) in [laravel/ai](https://github.com/laravel/ai)
+1. 🗣 Commented on [#916](https://github.com/laravel/boost/issues/916#issuecomment-5208407816) in [laravel/boost](https://github.com/laravel/boost)
+2. 🚀 Published release [v2.5.2](https://github.com/laravel/boost/releases/tag/v2.5.2) in [laravel/boost](https://github.com/laravel/boost)
+3. 🎉 Merged PR [#917](https://github.com/laravel/boost/pull/917) in [laravel/boost](https://github.com/laravel/boost)
+4. 🎉 Merged PR [#854](https://github.com/pinkary-project/pinkary.com/pull/854) in [pinkary-project/pinkary.com](https://github.com/pinkary-project/pinkary.com)
+5. 💪 Opened PR [#917](https://github.com/laravel/boost/pull/917) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
