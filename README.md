@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#32](https://github.com/laravel/package-skeleton/pull/32) in [laravel/package-skeleton](https://github.com/laravel/package-skeleton)
-2. 💪 Opened PR [#32](https://github.com/laravel/package-skeleton/pull/32) in [laravel/package-skeleton](https://github.com/laravel/package-skeleton)
-3. 🔒 Closed issue [#440](https://github.com/laravel/boost/issues/440) in [laravel/boost](https://github.com/laravel/boost)
-4. 💪 Opened PR [#297](https://github.com/laravel/mcp/pull/297) in [laravel/mcp](https://github.com/laravel/mcp)
-5. 💪 Opened PR [#296](https://github.com/laravel/mcp/pull/296) in [laravel/mcp](https://github.com/laravel/mcp)
+1. 🎉 Merged PR [#297](https://github.com/laravel/mcp/pull/297) in [laravel/mcp](https://github.com/laravel/mcp)
+2. 🎉 Merged PR [#295](https://github.com/laravel/mcp/pull/295) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 🎉 Merged PR [#296](https://github.com/laravel/mcp/pull/296) in [laravel/mcp](https://github.com/laravel/mcp)
+4. ❌ Closed PR [#32](https://github.com/laravel/package-skeleton/pull/32) in [laravel/package-skeleton](https://github.com/laravel/package-skeleton)
+5. 💪 Opened PR [#32](https://github.com/laravel/package-skeleton/pull/32) in [laravel/package-skeleton](https://github.com/laravel/package-skeleton)
 <!--END_SECTION:activity-->
