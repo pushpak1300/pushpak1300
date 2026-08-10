@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#297](https://github.com/laravel/mcp/pull/297) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🎉 Merged PR [#295](https://github.com/laravel/mcp/pull/295) in [laravel/mcp](https://github.com/laravel/mcp)
-3. 🎉 Merged PR [#296](https://github.com/laravel/mcp/pull/296) in [laravel/mcp](https://github.com/laravel/mcp)
-4. ❌ Closed PR [#32](https://github.com/laravel/package-skeleton/pull/32) in [laravel/package-skeleton](https://github.com/laravel/package-skeleton)
-5. 💪 Opened PR [#32](https://github.com/laravel/package-skeleton/pull/32) in [laravel/package-skeleton](https://github.com/laravel/package-skeleton)
+1. ℹ️ Reopened PR [#761](https://github.com/laravel/ai/pull/761) in [laravel/ai](https://github.com/laravel/ai)
+2. 🗣 Commented on [#834](https://github.com/pushpak1300/pushpak1300.me/pull/834#issuecomment-5234790179) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+3. 🎉 Merged PR [#297](https://github.com/laravel/mcp/pull/297) in [laravel/mcp](https://github.com/laravel/mcp)
+4. 🎉 Merged PR [#295](https://github.com/laravel/mcp/pull/295) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 🎉 Merged PR [#296](https://github.com/laravel/mcp/pull/296) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
