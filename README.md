@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#901](https://github.com/laravel/ai/pull/901) in [laravel/ai](https://github.com/laravel/ai)
-2. 🎉 Merged PR [#900](https://github.com/laravel/ai/pull/900) in [laravel/ai](https://github.com/laravel/ai)
-3. 🎉 Merged PR [#899](https://github.com/laravel/ai/pull/899) in [laravel/ai](https://github.com/laravel/ai)
-4. 🎉 Merged PR [#5](https://github.com/pestphp/pest-plugin-evals/pull/5) in [pestphp/pest-plugin-evals](https://github.com/pestphp/pest-plugin-evals)
-5. 💪 Opened PR [#5](https://github.com/pestphp/pest-plugin-evals/pull/5) in [pestphp/pest-plugin-evals](https://github.com/pestphp/pest-plugin-evals)
+1. ❌ Closed PR [#860](https://github.com/laravel/ai/pull/860) in [laravel/ai](https://github.com/laravel/ai)
+2. 🎉 Merged PR [#904](https://github.com/laravel/ai/pull/904) in [laravel/ai](https://github.com/laravel/ai)
+3. 🎉 Merged PR [#901](https://github.com/laravel/ai/pull/901) in [laravel/ai](https://github.com/laravel/ai)
+4. 🎉 Merged PR [#900](https://github.com/laravel/ai/pull/900) in [laravel/ai](https://github.com/laravel/ai)
+5. 🎉 Merged PR [#899](https://github.com/laravel/ai/pull/899) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
