@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#912](https://github.com/laravel/ai/pull/912#issuecomment-5365617226) in [laravel/ai](https://github.com/laravel/ai)
-2. 🗣 Commented on [#915](https://github.com/laravel/ai/issues/915#issuecomment-5365454723) in [laravel/ai](https://github.com/laravel/ai)
-3. 🎉 Merged PR [#922](https://github.com/laravel/ai/pull/922) in [laravel/ai](https://github.com/laravel/ai)
-4. 💪 Opened PR [#922](https://github.com/laravel/ai/pull/922) in [laravel/ai](https://github.com/laravel/ai)
-5. 🎉 Merged PR [#921](https://github.com/laravel/ai/pull/921) in [laravel/ai](https://github.com/laravel/ai)
+1. 🎉 Merged PR [#5](https://github.com/pestphp/pest-plugin-evals/pull/5) in [pestphp/pest-plugin-evals](https://github.com/pestphp/pest-plugin-evals)
+2. 💪 Opened PR [#5](https://github.com/pestphp/pest-plugin-evals/pull/5) in [pestphp/pest-plugin-evals](https://github.com/pestphp/pest-plugin-evals)
+3. 🗣 Commented on [#912](https://github.com/laravel/ai/pull/912#issuecomment-5365617226) in [laravel/ai](https://github.com/laravel/ai)
+4. 🗣 Commented on [#915](https://github.com/laravel/ai/issues/915#issuecomment-5365454723) in [laravel/ai](https://github.com/laravel/ai)
+5. 🎉 Merged PR [#922](https://github.com/laravel/ai/pull/922) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
