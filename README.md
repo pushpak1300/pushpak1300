@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.0.2](https://github.com/pestphp/pest-plugin-evals/releases/tag/v5.0.2) in [pestphp/pest-plugin-evals](https://github.com/pestphp/pest-plugin-evals)
-2. 🗣 Commented on [#829](https://github.com/laravel/boost/issues/829#issuecomment-5372790670) in [laravel/boost](https://github.com/laravel/boost)
-3. 🔒 Closed issue [#829](https://github.com/laravel/boost/issues/829) in [laravel/boost](https://github.com/laravel/boost)
-4. ❌ Closed PR [#860](https://github.com/laravel/ai/pull/860) in [laravel/ai](https://github.com/laravel/ai)
-5. 🎉 Merged PR [#904](https://github.com/laravel/ai/pull/904) in [laravel/ai](https://github.com/laravel/ai)
+1. 🎉 Merged PR [#2](https://github.com/shipfastlabs/.github/pull/2) in [shipfastlabs/.github](https://github.com/shipfastlabs/.github)
+2. 💪 Opened PR [#2](https://github.com/shipfastlabs/.github/pull/2) in [shipfastlabs/.github](https://github.com/shipfastlabs/.github)
+3. 🎉 Merged PR [#1](https://github.com/shipfastlabs/.github/pull/1) in [shipfastlabs/.github](https://github.com/shipfastlabs/.github)
+4. 💪 Opened PR [#1](https://github.com/shipfastlabs/.github/pull/1) in [shipfastlabs/.github](https://github.com/shipfastlabs/.github)
+5. 🚀 Published release [v5.0.2](https://github.com/pestphp/pest-plugin-evals/releases/tag/v5.0.2) in [pestphp/pest-plugin-evals](https://github.com/pestphp/pest-plugin-evals)
 <!--END_SECTION:activity-->
