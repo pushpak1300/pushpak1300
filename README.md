@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/shipfastlabs/.github/pull/2) in [shipfastlabs/.github](https://github.com/shipfastlabs/.github)
-2. 💪 Opened PR [#2](https://github.com/shipfastlabs/.github/pull/2) in [shipfastlabs/.github](https://github.com/shipfastlabs/.github)
-3. 🎉 Merged PR [#1](https://github.com/shipfastlabs/.github/pull/1) in [shipfastlabs/.github](https://github.com/shipfastlabs/.github)
-4. 💪 Opened PR [#1](https://github.com/shipfastlabs/.github/pull/1) in [shipfastlabs/.github](https://github.com/shipfastlabs/.github)
-5. 🚀 Published release [v5.0.2](https://github.com/pestphp/pest-plugin-evals/releases/tag/v5.0.2) in [pestphp/pest-plugin-evals](https://github.com/pestphp/pest-plugin-evals)
+1. ❌ Closed PR [#11](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/11) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
+2. ❌ Closed PR [#9](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/9) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
+3. ❌ Closed PR [#8](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/8) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
+4. ❌ Closed PR [#10](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/10) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
+5. ❌ Closed PR [#12](https://github.com/shipfastlabs/modern-vue-starter-kit-auth/pull/12) in [shipfastlabs/modern-vue-starter-kit-auth](https://github.com/shipfastlabs/modern-vue-starter-kit-auth)
 <!--END_SECTION:activity-->
