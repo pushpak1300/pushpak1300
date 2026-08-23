@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/shipfastlabs/modern-svelte-starter-kit/pull/1) in [shipfastlabs/modern-svelte-starter-kit](https://github.com/shipfastlabs/modern-svelte-starter-kit)
-2. ❌ Closed PR [#11](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/11) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
-3. ❌ Closed PR [#9](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/9) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
-4. ❌ Closed PR [#8](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/8) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
-5. ❌ Closed PR [#10](https://github.com/shipfastlabs/modern-react-starter-kit-auth/pull/10) in [shipfastlabs/modern-react-starter-kit-auth](https://github.com/shipfastlabs/modern-react-starter-kit-auth)
+1. ℹ️ Labeled issue [#824](https://github.com/laravel/ai/issues/824) in [laravel/ai](https://github.com/laravel/ai)
+2. ℹ️ Assigned issue [#824](https://github.com/laravel/ai/issues/824) in [laravel/ai](https://github.com/laravel/ai)
+3. 🗣 Commented on [#827](https://github.com/laravel/ai/issues/827#issuecomment-5385582925) in [laravel/ai](https://github.com/laravel/ai)
+4. 🔒 Closed issue [#827](https://github.com/laravel/ai/issues/827) in [laravel/ai](https://github.com/laravel/ai)
+5. 🔒 Closed issue [#928](https://github.com/laravel/ai/issues/928) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
