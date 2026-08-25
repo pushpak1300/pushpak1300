@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#919](https://github.com/laravel/ai/pull/919) in [laravel/ai](https://github.com/laravel/ai)
-2. 🎉 Merged PR [#918](https://github.com/laravel/ai/pull/918) in [laravel/ai](https://github.com/laravel/ai)
-3. 🎉 Merged PR [#917](https://github.com/laravel/ai/pull/917) in [laravel/ai](https://github.com/laravel/ai)
-4. 🎉 Merged PR [#1889](https://github.com/pestphp/pest/pull/1889) in [pestphp/pest](https://github.com/pestphp/pest)
-5. 💪 Opened PR [#1889](https://github.com/pestphp/pest/pull/1889) in [pestphp/pest](https://github.com/pestphp/pest)
+1. 🎉 Merged PR [#913](https://github.com/laravel/ai/pull/913) in [laravel/ai](https://github.com/laravel/ai)
+2. 🎉 Merged PR [#919](https://github.com/laravel/ai/pull/919) in [laravel/ai](https://github.com/laravel/ai)
+3. 🎉 Merged PR [#918](https://github.com/laravel/ai/pull/918) in [laravel/ai](https://github.com/laravel/ai)
+4. 🎉 Merged PR [#917](https://github.com/laravel/ai/pull/917) in [laravel/ai](https://github.com/laravel/ai)
+5. 🎉 Merged PR [#1889](https://github.com/pestphp/pest/pull/1889) in [pestphp/pest](https://github.com/pestphp/pest)
 <!--END_SECTION:activity-->
