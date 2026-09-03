@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#336](https://github.com/laravel/mcp/pull/336#issuecomment-5525853869) in [laravel/mcp](https://github.com/laravel/mcp)
-2. ❌ Closed PR [#336](https://github.com/laravel/mcp/pull/336) in [laravel/mcp](https://github.com/laravel/mcp)
-3. 🗣 Commented on [#1757](https://github.com/laravel/telescope/pull/1757#issuecomment-5524192078) in [laravel/telescope](https://github.com/laravel/telescope)
-4. 🚀 Published release [v0.11.2](https://github.com/laravel/ai/releases/tag/v0.11.2) in [laravel/ai](https://github.com/laravel/ai)
-5. ❌ Closed PR [#760](https://github.com/laravel/boost/pull/760) in [laravel/boost](https://github.com/laravel/boost)
+1. 🗣 Commented on [#823](https://github.com/laravel/ai/pull/823#issuecomment-5527849210) in [laravel/ai](https://github.com/laravel/ai)
+2. ❌ Closed PR [#823](https://github.com/laravel/ai/pull/823) in [laravel/ai](https://github.com/laravel/ai)
+3. 💪 Opened PR [#6](https://github.com/pestphp/pest-plugin-evals/pull/6) in [pestphp/pest-plugin-evals](https://github.com/pestphp/pest-plugin-evals)
+4. 🚀 Published release [v5.0.3](https://github.com/pestphp/pest-plugin-evals/releases/tag/v5.0.3) in [pestphp/pest-plugin-evals](https://github.com/pestphp/pest-plugin-evals)
+5. ℹ️ Reopened PR [#336](https://github.com/laravel/mcp/pull/336) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
