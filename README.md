@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1763](https://github.com/laravel/telescope/pull/1763) in [laravel/telescope](https://github.com/laravel/telescope)
-2. 🚀 Published release [v2.7.1](https://github.com/laravel/boost/releases/tag/v2.7.1) in [laravel/boost](https://github.com/laravel/boost)
-3. 🔒 Closed issue [#985](https://github.com/laravel/ai/issues/985) in [laravel/ai](https://github.com/laravel/ai)
-4. 🗣 Commented on [#986](https://github.com/laravel/ai/pull/986#issuecomment-5566309618) in [laravel/ai](https://github.com/laravel/ai)
-5. ❌ Closed PR [#986](https://github.com/laravel/ai/pull/986) in [laravel/ai](https://github.com/laravel/ai)
+1. 🎉 Merged PR [#1763](https://github.com/laravel/telescope/pull/1763) in [laravel/telescope](https://github.com/laravel/telescope)
+2. 🔒 Closed issue [#817](https://github.com/laravel/ai/issues/817) in [laravel/ai](https://github.com/laravel/ai)
+3. 💪 Opened PR [#1763](https://github.com/laravel/telescope/pull/1763) in [laravel/telescope](https://github.com/laravel/telescope)
+4. 🚀 Published release [v2.7.1](https://github.com/laravel/boost/releases/tag/v2.7.1) in [laravel/boost](https://github.com/laravel/boost)
+5. 🔒 Closed issue [#985](https://github.com/laravel/ai/issues/985) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
