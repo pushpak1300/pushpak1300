@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1011](https://github.com/laravel/boost/pull/1011) in [laravel/boost](https://github.com/laravel/boost)
-2. 💪 Opened PR [#1011](https://github.com/laravel/boost/pull/1011) in [laravel/boost](https://github.com/laravel/boost)
-3. 🗣 Commented on [#996](https://github.com/laravel/boost/pull/996#issuecomment-5584625014) in [laravel/boost](https://github.com/laravel/boost)
-4. 🔒 Closed issue [#945](https://github.com/laravel/boost/issues/945) in [laravel/boost](https://github.com/laravel/boost)
-5. 💪 Opened PR [#1764](https://github.com/laravel/telescope/pull/1764) in [laravel/telescope](https://github.com/laravel/telescope)
+1. 🚀 Published release [v2.8.0](https://github.com/laravel/boost/releases/tag/v2.8.0) in [laravel/boost](https://github.com/laravel/boost)
+2. 🎉 Merged PR [#1012](https://github.com/laravel/boost/pull/1012) in [laravel/boost](https://github.com/laravel/boost)
+3. 🎉 Merged PR [#28](https://github.com/laravel/agent-skills/pull/28) in [laravel/agent-skills](https://github.com/laravel/agent-skills)
+4. 🎉 Merged PR [#220](https://github.com/laravel/cloud-cli/pull/220) in [laravel/cloud-cli](https://github.com/laravel/cloud-cli)
+5. 💪 Opened PR [#1012](https://github.com/laravel/boost/pull/1012) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
