@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1764](https://github.com/laravel/telescope/pull/1764) in [laravel/telescope](https://github.com/laravel/telescope)
-2. 🗣 Commented on [#1005](https://github.com/laravel/boost/pull/1005#issuecomment-5580533190) in [laravel/boost](https://github.com/laravel/boost)
-3. ❌ Closed PR [#1005](https://github.com/laravel/boost/pull/1005) in [laravel/boost](https://github.com/laravel/boost)
-4. 🎉 Merged PR [#1763](https://github.com/laravel/telescope/pull/1763) in [laravel/telescope](https://github.com/laravel/telescope)
-5. 🔒 Closed issue [#817](https://github.com/laravel/ai/issues/817) in [laravel/ai](https://github.com/laravel/ai)
+1. 🎉 Merged PR [#1011](https://github.com/laravel/boost/pull/1011) in [laravel/boost](https://github.com/laravel/boost)
+2. 💪 Opened PR [#1011](https://github.com/laravel/boost/pull/1011) in [laravel/boost](https://github.com/laravel/boost)
+3. 🗣 Commented on [#996](https://github.com/laravel/boost/pull/996#issuecomment-5584625014) in [laravel/boost](https://github.com/laravel/boost)
+4. 🔒 Closed issue [#945](https://github.com/laravel/boost/issues/945) in [laravel/boost](https://github.com/laravel/boost)
+5. 💪 Opened PR [#1764](https://github.com/laravel/telescope/pull/1764) in [laravel/telescope](https://github.com/laravel/telescope)
 <!--END_SECTION:activity-->
