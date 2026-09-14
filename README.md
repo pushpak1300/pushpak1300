@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/shipfastlabs/toolkit/pull/18) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
-2. 💪 Opened PR [#18](https://github.com/shipfastlabs/toolkit/pull/18) in [shipfastlabs/toolkit](https://github.com/shipfastlabs/toolkit)
-3. 🎉 Merged PR [#341](https://github.com/laravel/mcp/pull/341) in [laravel/mcp](https://github.com/laravel/mcp)
-4. 🗣 Commented on [#606](https://github.com/laravel/boost/issues/606#issuecomment-5637451640) in [laravel/boost](https://github.com/laravel/boost)
-5. 🗣 Commented on [#606](https://github.com/laravel/boost/issues/606#issuecomment-5637442492) in [laravel/boost](https://github.com/laravel/boost)
+1. 🎉 Merged PR [#209](https://github.com/laravel/maestro/pull/209) in [laravel/maestro](https://github.com/laravel/maestro)
+2. 🔒 Closed issue [#138](https://github.com/laravel/mcp/issues/138) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 🚀 Published release [v2.9.0](https://github.com/laravel/boost/releases/tag/v2.9.0) in [laravel/boost](https://github.com/laravel/boost)
+4. 🔒 Closed issue [#940](https://github.com/laravel/boost/issues/940) in [laravel/boost](https://github.com/laravel/boost)
+5. 🎉 Merged PR [#1028](https://github.com/laravel/boost/pull/1028) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
