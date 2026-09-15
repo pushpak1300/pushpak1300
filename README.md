@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1000](https://github.com/laravel/ai/issues/1000) in [laravel/ai](https://github.com/laravel/ai)
-2. 🎉 Merged PR [#209](https://github.com/laravel/maestro/pull/209) in [laravel/maestro](https://github.com/laravel/maestro)
-3. 🔒 Closed issue [#138](https://github.com/laravel/mcp/issues/138) in [laravel/mcp](https://github.com/laravel/mcp)
-4. 🚀 Published release [v2.9.0](https://github.com/laravel/boost/releases/tag/v2.9.0) in [laravel/boost](https://github.com/laravel/boost)
-5. 🔒 Closed issue [#940](https://github.com/laravel/boost/issues/940) in [laravel/boost](https://github.com/laravel/boost)
+1. 💪 Opened PR [#1002](https://github.com/laravel/ai/pull/1002) in [laravel/ai](https://github.com/laravel/ai)
+2. ℹ️ Labeled issue [#1000](https://github.com/laravel/ai/issues/1000) in [laravel/ai](https://github.com/laravel/ai)
+3. 🎉 Merged PR [#209](https://github.com/laravel/maestro/pull/209) in [laravel/maestro](https://github.com/laravel/maestro)
+4. 🔒 Closed issue [#138](https://github.com/laravel/mcp/issues/138) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 🚀 Published release [v2.9.0](https://github.com/laravel/boost/releases/tag/v2.9.0) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
