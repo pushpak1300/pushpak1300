@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11370](https://github.com/laravel/docs/pull/11370) in [laravel/docs](https://github.com/laravel/docs)
-2. 💪 Opened PR [#1032](https://github.com/laravel/ai/pull/1032) in [laravel/ai](https://github.com/laravel/ai)
-3. 💪 Opened PR [#1030](https://github.com/laravel/ai/pull/1030) in [laravel/ai](https://github.com/laravel/ai)
-4. 💪 Opened PR [#92](https://github.com/pushpak1300/cypress-mailpit/pull/92) in [pushpak1300/cypress-mailpit](https://github.com/pushpak1300/cypress-mailpit)
-5. 🎉 Merged PR [#1028](https://github.com/laravel/ai/pull/1028) in [laravel/ai](https://github.com/laravel/ai)
+1. 💪 Opened PR [#1036](https://github.com/laravel/ai/pull/1036) in [laravel/ai](https://github.com/laravel/ai)
+2. 🗣 Commented on [#1007](https://github.com/laravel/ai/pull/1007#issuecomment-5730909181) in [laravel/ai](https://github.com/laravel/ai)
+3. 💪 Opened PR [#1035](https://github.com/laravel/ai/pull/1035) in [laravel/ai](https://github.com/laravel/ai)
+4. 🎉 Merged PR [#1034](https://github.com/laravel/ai/pull/1034) in [laravel/ai](https://github.com/laravel/ai)
+5. 💪 Opened PR [#1034](https://github.com/laravel/ai/pull/1034) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
