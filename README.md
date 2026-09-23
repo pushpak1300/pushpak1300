@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1002](https://github.com/laravel/ai/pull/1002) in [laravel/ai](https://github.com/laravel/ai)
-2. 🎉 Merged PR [#1058](https://github.com/laravel/ai/pull/1058) in [laravel/ai](https://github.com/laravel/ai)
-3. 💪 Opened PR [#1058](https://github.com/laravel/ai/pull/1058) in [laravel/ai](https://github.com/laravel/ai)
-4. ❌ Closed PR [#477](https://github.com/raycast/ray-so/pull/477) in [raycast/ray-so](https://github.com/raycast/ray-so)
-5. 💪 Opened PR [#477](https://github.com/raycast/ray-so/pull/477) in [raycast/ray-so](https://github.com/raycast/ray-so)
+1. 🚀 Published release [v2.10.0](https://github.com/laravel/boost/releases/tag/v2.10.0) in [laravel/boost](https://github.com/laravel/boost)
+2. 🎉 Merged PR [#11370](https://github.com/laravel/docs/pull/11370) in [laravel/docs](https://github.com/laravel/docs)
+3. 🚀 Published release [v1.0.0](https://github.com/laravel/ai/releases/tag/v1.0.0) in [laravel/ai](https://github.com/laravel/ai)
+4. 🎉 Merged PR [#7](https://github.com/pestphp/pest-plugin-evals/pull/7) in [pestphp/pest-plugin-evals](https://github.com/pestphp/pest-plugin-evals)
+5. 🎉 Merged PR [#6](https://github.com/pestphp/pest-plugin-evals/pull/6) in [pestphp/pest-plugin-evals](https://github.com/pestphp/pest-plugin-evals)
 <!--END_SECTION:activity-->
