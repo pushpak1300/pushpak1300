@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1037](https://github.com/laravel/boost/issues/1037#issuecomment-5883329477) in [laravel/boost](https://github.com/laravel/boost)
-2. 🔒 Closed issue [#1037](https://github.com/laravel/boost/issues/1037) in [laravel/boost](https://github.com/laravel/boost)
-3. 🔒 Closed issue [#1038](https://github.com/laravel/boost/issues/1038) in [laravel/boost](https://github.com/laravel/boost)
-4. 🗣 Commented on [#1038](https://github.com/laravel/boost/issues/1038#issuecomment-5883328951) in [laravel/boost](https://github.com/laravel/boost)
-5. ❌ Closed PR [#1079](https://github.com/laravel/ai/pull/1079) in [laravel/ai](https://github.com/laravel/ai)
+1. 💪 Opened PR [#2](https://github.com/shipfastlabs/grant/pull/2) in [shipfastlabs/grant](https://github.com/shipfastlabs/grant)
+2. 🎉 Merged PR [#1](https://github.com/shipfastlabs/grant/pull/1) in [shipfastlabs/grant](https://github.com/shipfastlabs/grant)
+3. 💪 Opened PR [#1](https://github.com/shipfastlabs/grant/pull/1) in [shipfastlabs/grant](https://github.com/shipfastlabs/grant)
+4. 🗣 Commented on [#1037](https://github.com/laravel/boost/issues/1037#issuecomment-5883329477) in [laravel/boost](https://github.com/laravel/boost)
+5. 🔒 Closed issue [#1037](https://github.com/laravel/boost/issues/1037) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
