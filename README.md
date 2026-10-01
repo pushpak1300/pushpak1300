@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1042](https://github.com/laravel/boost/pull/1042) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#1080](https://github.com/laravel/ai/pull/1080#issuecomment-5910386714) in [laravel/ai](https://github.com/laravel/ai)
-3. 🗣 Commented on [#281](https://github.com/laravel/ai/issues/281#issuecomment-5906957255) in [laravel/ai](https://github.com/laravel/ai)
-4. 🗣 Commented on [#1032](https://github.com/laravel/boost/pull/1032#issuecomment-5907103064) in [laravel/boost](https://github.com/laravel/boost)
-5. 💪 Opened PR [#1086](https://github.com/laravel/ai/pull/1086) in [laravel/ai](https://github.com/laravel/ai)
+1. 🎉 Merged PR [#1087](https://github.com/laravel/ai/pull/1087) in [laravel/ai](https://github.com/laravel/ai)
+2. 🚀 Published release [v2.10.1](https://github.com/laravel/boost/releases/tag/v2.10.1) in [laravel/boost](https://github.com/laravel/boost)
+3. 🎉 Merged PR [#1047](https://github.com/laravel/boost/pull/1047) in [laravel/boost](https://github.com/laravel/boost)
+4. 🎉 Merged PR [#2](https://github.com/shipfastlabs/grant/pull/2) in [shipfastlabs/grant](https://github.com/shipfastlabs/grant)
+5. 💪 Opened PR [#1087](https://github.com/laravel/ai/pull/1087) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
