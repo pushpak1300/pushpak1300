@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/shipfastlabs/parsel/pull/36) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
-2. 💪 Opened PR [#35](https://github.com/shipfastlabs/parsel/pull/35) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
-3. 💪 Opened PR [#34](https://github.com/shipfastlabs/parsel/pull/34) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
-4. 💪 Opened PR [#33](https://github.com/shipfastlabs/parsel/pull/33) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
-5. 💪 Opened PR [#32](https://github.com/shipfastlabs/parsel/pull/32) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+1. 🎉 Merged PR [#36](https://github.com/shipfastlabs/parsel/pull/36) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+2. 💪 Opened PR [#36](https://github.com/shipfastlabs/parsel/pull/36) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+3. 💪 Opened PR [#35](https://github.com/shipfastlabs/parsel/pull/35) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+4. 💪 Opened PR [#34](https://github.com/shipfastlabs/parsel/pull/34) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+5. 💪 Opened PR [#33](https://github.com/shipfastlabs/parsel/pull/33) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
 <!--END_SECTION:activity-->
