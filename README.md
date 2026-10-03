@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11396](https://github.com/laravel/docs/pull/11396) in [laravel/docs](https://github.com/laravel/docs)
-2. 🎉 Merged PR [#1097](https://github.com/laravel/ai/pull/1097) in [laravel/ai](https://github.com/laravel/ai)
-3. 🎉 Merged PR [#11395](https://github.com/laravel/docs/pull/11395) in [laravel/docs](https://github.com/laravel/docs)
-4. 🎉 Merged PR [#1054](https://github.com/laravel/ai/pull/1054) in [laravel/ai](https://github.com/laravel/ai)
-5. 🗣 Commented on [#1039](https://github.com/laravel/boost/pull/1039#issuecomment-5958453465) in [laravel/boost](https://github.com/laravel/boost)
+1. 💪 Opened PR [#36](https://github.com/shipfastlabs/parsel/pull/36) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+2. 💪 Opened PR [#35](https://github.com/shipfastlabs/parsel/pull/35) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+3. 💪 Opened PR [#34](https://github.com/shipfastlabs/parsel/pull/34) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+4. 💪 Opened PR [#33](https://github.com/shipfastlabs/parsel/pull/33) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+5. 💪 Opened PR [#32](https://github.com/shipfastlabs/parsel/pull/32) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
 <!--END_SECTION:activity-->
