@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0](https://github.com/shipfastlabs/toolkit-tavily/releases/tag/v1.1.0) in [shipfastlabs/toolkit-tavily](https://github.com/shipfastlabs/toolkit-tavily)
-2. 🚀 Published release [v1.1.0](https://github.com/shipfastlabs/toolkit-perplexity/releases/tag/v1.1.0) in [shipfastlabs/toolkit-perplexity](https://github.com/shipfastlabs/toolkit-perplexity)
-3. 🚀 Published release [v1.1.0](https://github.com/shipfastlabs/toolkit-jigsawstack/releases/tag/v1.1.0) in [shipfastlabs/toolkit-jigsawstack](https://github.com/shipfastlabs/toolkit-jigsawstack)
-4. 🚀 Published release [v1.1.0](https://github.com/shipfastlabs/toolkit-exa/releases/tag/v1.1.0) in [shipfastlabs/toolkit-exa](https://github.com/shipfastlabs/toolkit-exa)
-5. 🚀 Published release [v1.1.0](https://github.com/shipfastlabs/toolkit-database/releases/tag/v1.1.0) in [shipfastlabs/toolkit-database](https://github.com/shipfastlabs/toolkit-database)
+1. 🚀 Published release [v0.0.3](https://github.com/shipfastlabs/bashbox/releases/tag/v0.0.3) in [shipfastlabs/bashbox](https://github.com/shipfastlabs/bashbox)
+2. 🎉 Merged PR [#5](https://github.com/shipfastlabs/bashbox/pull/5) in [shipfastlabs/bashbox](https://github.com/shipfastlabs/bashbox)
+3. 💪 Opened PR [#31](https://github.com/laravel/agent-detector/pull/31) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
+4. 🚀 Published release [v2.0.3](https://github.com/laravel/agent-detector/releases/tag/v2.0.3) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
+5. 🎉 Merged PR [#6](https://github.com/shipfastlabs/bashbox/pull/6) in [shipfastlabs/bashbox](https://github.com/shipfastlabs/bashbox)
 <!--END_SECTION:activity-->
