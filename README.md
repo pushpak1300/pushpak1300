@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/shipfastlabs/grant/pull/3) in [shipfastlabs/grant](https://github.com/shipfastlabs/grant)
-2. 💪 Opened PR [#3](https://github.com/shipfastlabs/grant/pull/3) in [shipfastlabs/grant](https://github.com/shipfastlabs/grant)
-3. 🎉 Merged PR [#871](https://github.com/pushpak1300/pushpak1300.me/pull/871) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-4. 💪 Opened PR [#871](https://github.com/pushpak1300/pushpak1300.me/pull/871) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-5. 🎉 Merged PR [#870](https://github.com/pushpak1300/pushpak1300.me/pull/870) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+1. 🚀 Published release [v1.1.0](https://github.com/shipfastlabs/toolkit-tavily/releases/tag/v1.1.0) in [shipfastlabs/toolkit-tavily](https://github.com/shipfastlabs/toolkit-tavily)
+2. 🚀 Published release [v1.1.0](https://github.com/shipfastlabs/toolkit-perplexity/releases/tag/v1.1.0) in [shipfastlabs/toolkit-perplexity](https://github.com/shipfastlabs/toolkit-perplexity)
+3. 🚀 Published release [v1.1.0](https://github.com/shipfastlabs/toolkit-jigsawstack/releases/tag/v1.1.0) in [shipfastlabs/toolkit-jigsawstack](https://github.com/shipfastlabs/toolkit-jigsawstack)
+4. 🚀 Published release [v1.1.0](https://github.com/shipfastlabs/toolkit-exa/releases/tag/v1.1.0) in [shipfastlabs/toolkit-exa](https://github.com/shipfastlabs/toolkit-exa)
+5. 🚀 Published release [v1.1.0](https://github.com/shipfastlabs/toolkit-database/releases/tag/v1.1.0) in [shipfastlabs/toolkit-database](https://github.com/shipfastlabs/toolkit-database)
 <!--END_SECTION:activity-->
