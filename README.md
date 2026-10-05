@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#181](https://github.com/vercel-labs/deepsec/pull/181) in [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec)
-2. 🚀 Published release [v0.0.3](https://github.com/shipfastlabs/bashbox/releases/tag/v0.0.3) in [shipfastlabs/bashbox](https://github.com/shipfastlabs/bashbox)
-3. 🎉 Merged PR [#5](https://github.com/shipfastlabs/bashbox/pull/5) in [shipfastlabs/bashbox](https://github.com/shipfastlabs/bashbox)
-4. 💪 Opened PR [#31](https://github.com/laravel/agent-detector/pull/31) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
-5. 🚀 Published release [v2.0.3](https://github.com/laravel/agent-detector/releases/tag/v2.0.3) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
+1. 🚀 Published release [v2.0.4](https://github.com/laravel/agent-detector/releases/tag/v2.0.4) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
+2. 🚀 Published release [v1.1.0](https://github.com/laravel/ai/releases/tag/v1.1.0) in [laravel/ai](https://github.com/laravel/ai)
+3. 🎉 Merged PR [#1102](https://github.com/laravel/ai/pull/1102) in [laravel/ai](https://github.com/laravel/ai)
+4. 🎉 Merged PR [#31](https://github.com/laravel/agent-detector/pull/31) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
+5. 🔒 Closed issue [#1077](https://github.com/laravel/ai/issues/1077) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
