@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.3](https://github.com/shipfastlabs/bashbox/releases/tag/v0.0.3) in [shipfastlabs/bashbox](https://github.com/shipfastlabs/bashbox)
-2. 🎉 Merged PR [#5](https://github.com/shipfastlabs/bashbox/pull/5) in [shipfastlabs/bashbox](https://github.com/shipfastlabs/bashbox)
-3. 💪 Opened PR [#31](https://github.com/laravel/agent-detector/pull/31) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
-4. 🚀 Published release [v2.0.3](https://github.com/laravel/agent-detector/releases/tag/v2.0.3) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
-5. 🎉 Merged PR [#6](https://github.com/shipfastlabs/bashbox/pull/6) in [shipfastlabs/bashbox](https://github.com/shipfastlabs/bashbox)
+1. 💪 Opened PR [#181](https://github.com/vercel-labs/deepsec/pull/181) in [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec)
+2. 🚀 Published release [v0.0.3](https://github.com/shipfastlabs/bashbox/releases/tag/v0.0.3) in [shipfastlabs/bashbox](https://github.com/shipfastlabs/bashbox)
+3. 🎉 Merged PR [#5](https://github.com/shipfastlabs/bashbox/pull/5) in [shipfastlabs/bashbox](https://github.com/shipfastlabs/bashbox)
+4. 💪 Opened PR [#31](https://github.com/laravel/agent-detector/pull/31) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
+5. 🚀 Published release [v2.0.3](https://github.com/laravel/agent-detector/releases/tag/v2.0.3) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
 <!--END_SECTION:activity-->
