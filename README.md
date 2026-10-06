@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/pushpak1300/frankenphp-website/issues/1) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
-2. 💪 Opened PR [#1056](https://github.com/laravel/boost/pull/1056) in [laravel/boost](https://github.com/laravel/boost)
-3. 🎉 Merged PR [#11396](https://github.com/laravel/docs/pull/11396) in [laravel/docs](https://github.com/laravel/docs)
-4. 🚀 Published release [v2.0.4](https://github.com/laravel/agent-detector/releases/tag/v2.0.4) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
-5. 🚀 Published release [v1.1.0](https://github.com/laravel/ai/releases/tag/v1.1.0) in [laravel/ai](https://github.com/laravel/ai)
+1. 🗣 Commented on [#1](https://github.com/pushpak1300/frankenphp-website/issues/1#issuecomment-6023560946) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
+2. 🗣 Commented on [#1](https://github.com/pushpak1300/frankenphp-website/issues/1#issuecomment-6023524371) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
+3. 🗣 Commented on [#1](https://github.com/pushpak1300/frankenphp-website/issues/1#issuecomment-6023487754) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
+4. 🗣 Commented on [#1](https://github.com/pushpak1300/frankenphp-website/issues/1#issuecomment-6023183605) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
+5. 🗣 Commented on [#1](https://github.com/pushpak1300/frankenphp-website/issues/1#issuecomment-6023139343) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
 <!--END_SECTION:activity-->
