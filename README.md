@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1056](https://github.com/laravel/boost/pull/1056) in [laravel/boost](https://github.com/laravel/boost)
-2. 🎉 Merged PR [#11396](https://github.com/laravel/docs/pull/11396) in [laravel/docs](https://github.com/laravel/docs)
-3. 🚀 Published release [v2.0.4](https://github.com/laravel/agent-detector/releases/tag/v2.0.4) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
-4. 🚀 Published release [v1.1.0](https://github.com/laravel/ai/releases/tag/v1.1.0) in [laravel/ai](https://github.com/laravel/ai)
-5. 🎉 Merged PR [#1102](https://github.com/laravel/ai/pull/1102) in [laravel/ai](https://github.com/laravel/ai)
+1. ❗ Opened issue [#1](https://github.com/pushpak1300/frankenphp-website/issues/1) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
+2. 💪 Opened PR [#1056](https://github.com/laravel/boost/pull/1056) in [laravel/boost](https://github.com/laravel/boost)
+3. 🎉 Merged PR [#11396](https://github.com/laravel/docs/pull/11396) in [laravel/docs](https://github.com/laravel/docs)
+4. 🚀 Published release [v2.0.4](https://github.com/laravel/agent-detector/releases/tag/v2.0.4) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
+5. 🚀 Published release [v1.1.0](https://github.com/laravel/ai/releases/tag/v1.1.0) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
