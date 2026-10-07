@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1106](https://github.com/laravel/ai/pull/1106) in [laravel/ai](https://github.com/laravel/ai)
-2. 🗣 Commented on [#1058](https://github.com/laravel/boost/pull/1058#issuecomment-6029819272) in [laravel/boost](https://github.com/laravel/boost)
-3. 🔒 Closed issue [#1057](https://github.com/laravel/boost/issues/1057) in [laravel/boost](https://github.com/laravel/boost)
-4. 🗣 Commented on [#1105](https://github.com/laravel/ai/pull/1105#issuecomment-6029808675) in [laravel/ai](https://github.com/laravel/ai)
-5. 🔒 Closed issue [#1062](https://github.com/laravel/ai/issues/1062) in [laravel/ai](https://github.com/laravel/ai)
+1. 🗣 Commented on [#52](https://github.com/dunglas/frankenphp-website/pull/52#issuecomment-6035185468) in [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website)
+2. 🔒 Closed issue [#976](https://github.com/laravel/boost/issues/976) in [laravel/boost](https://github.com/laravel/boost)
+3. 🔒 Closed issue [#1050](https://github.com/laravel/boost/issues/1050) in [laravel/boost](https://github.com/laravel/boost)
+4. 💪 Opened PR [#1106](https://github.com/laravel/ai/pull/1106) in [laravel/ai](https://github.com/laravel/ai)
+5. 🗣 Commented on [#1058](https://github.com/laravel/boost/pull/1058#issuecomment-6029819272) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
