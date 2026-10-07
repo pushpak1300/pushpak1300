@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#895](https://github.com/laravel/boost/issues/895) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#895](https://github.com/laravel/boost/issues/895#issuecomment-6037472895) in [laravel/boost](https://github.com/laravel/boost)
-3. 🗣 Commented on [#52](https://github.com/dunglas/frankenphp-website/pull/52#issuecomment-6035185468) in [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website)
-4. 🔒 Closed issue [#976](https://github.com/laravel/boost/issues/976) in [laravel/boost](https://github.com/laravel/boost)
-5. 🔒 Closed issue [#1050](https://github.com/laravel/boost/issues/1050) in [laravel/boost](https://github.com/laravel/boost)
+1. 💪 Opened PR [#11401](https://github.com/laravel/docs/pull/11401) in [laravel/docs](https://github.com/laravel/docs)
+2. 🚀 Published release [v1.2.0](https://github.com/laravel/ai/releases/tag/v1.2.0) in [laravel/ai](https://github.com/laravel/ai)
+3. 🎉 Merged PR [#1108](https://github.com/laravel/ai/pull/1108) in [laravel/ai](https://github.com/laravel/ai)
+4. 💪 Opened PR [#1108](https://github.com/laravel/ai/pull/1108) in [laravel/ai](https://github.com/laravel/ai)
+5. 🎉 Merged PR [#1107](https://github.com/laravel/ai/pull/1107) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
