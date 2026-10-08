@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1062](https://github.com/laravel/boost/pull/1062#issuecomment-6060816460) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#2](https://github.com/pushpak1300/frankenphp-website/issues/2#issuecomment-6058622081) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
-3. 🗣 Commented on [#2](https://github.com/pushpak1300/frankenphp-website/issues/2#issuecomment-6058619187) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
-4. 🗣 Commented on [#2](https://github.com/pushpak1300/frankenphp-website/issues/2#issuecomment-6058568469) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
-5. 🗣 Commented on [#2](https://github.com/pushpak1300/frankenphp-website/issues/2#issuecomment-6058539191) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
+1. 💪 Opened PR [#363](https://github.com/laravel/mcp/pull/363) in [laravel/mcp](https://github.com/laravel/mcp)
+2. 🔒 Closed issue [#361](https://github.com/laravel/mcp/issues/361) in [laravel/mcp](https://github.com/laravel/mcp)
+3. ℹ️ Assigned PR [#998](https://github.com/laravel/scout/pull/998) in [laravel/scout](https://github.com/laravel/scout)
+4. 🗣 Commented on [#1062](https://github.com/laravel/boost/pull/1062#issuecomment-6060816460) in [laravel/boost](https://github.com/laravel/boost)
+5. 🗣 Commented on [#2](https://github.com/pushpak1300/frankenphp-website/issues/2#issuecomment-6058622081) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
 <!--END_SECTION:activity-->
