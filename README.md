@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#363](https://github.com/laravel/mcp/pull/363) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🔒 Closed issue [#361](https://github.com/laravel/mcp/issues/361) in [laravel/mcp](https://github.com/laravel/mcp)
-3. ℹ️ Assigned PR [#998](https://github.com/laravel/scout/pull/998) in [laravel/scout](https://github.com/laravel/scout)
-4. 🗣 Commented on [#1062](https://github.com/laravel/boost/pull/1062#issuecomment-6060816460) in [laravel/boost](https://github.com/laravel/boost)
-5. 🗣 Commented on [#2](https://github.com/pushpak1300/frankenphp-website/issues/2#issuecomment-6058622081) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
+1. 🗣 Commented on [#1109](https://github.com/laravel/ai/pull/1109#issuecomment-6060839464) in [laravel/ai](https://github.com/laravel/ai)
+2. 🎉 Merged PR [#11401](https://github.com/laravel/docs/pull/11401) in [laravel/docs](https://github.com/laravel/docs)
+3. 💪 Opened PR [#363](https://github.com/laravel/mcp/pull/363) in [laravel/mcp](https://github.com/laravel/mcp)
+4. 🔒 Closed issue [#361](https://github.com/laravel/mcp/issues/361) in [laravel/mcp](https://github.com/laravel/mcp)
+5. ℹ️ Assigned PR [#998](https://github.com/laravel/scout/pull/998) in [laravel/scout](https://github.com/laravel/scout)
 <!--END_SECTION:activity-->
