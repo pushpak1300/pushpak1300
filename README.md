@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1016](https://github.com/laravel/scout/pull/1016) in [laravel/scout](https://github.com/laravel/scout)
-2. 🗣 Commented on [#52](https://github.com/dunglas/frankenphp-website/pull/52#issuecomment-6111394702) in [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website)
-3. 💪 Opened PR [#366](https://github.com/laravel/mcp/pull/366) in [laravel/mcp](https://github.com/laravel/mcp)
-4. 🎉 Merged PR [#357](https://github.com/laravel/mcp/pull/357) in [laravel/mcp](https://github.com/laravel/mcp)
-5. 🗣 Commented on [#1109](https://github.com/laravel/ai/pull/1109#issuecomment-6060839464) in [laravel/ai](https://github.com/laravel/ai)
+1. 🎉 Merged PR [#366](https://github.com/laravel/mcp/pull/366) in [laravel/mcp](https://github.com/laravel/mcp)
+2. 💪 Opened PR [#1016](https://github.com/laravel/scout/pull/1016) in [laravel/scout](https://github.com/laravel/scout)
+3. 🗣 Commented on [#52](https://github.com/dunglas/frankenphp-website/pull/52#issuecomment-6111394702) in [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website)
+4. 💪 Opened PR [#366](https://github.com/laravel/mcp/pull/366) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 🎉 Merged PR [#357](https://github.com/laravel/mcp/pull/357) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
