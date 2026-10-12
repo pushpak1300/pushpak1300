@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#366](https://github.com/laravel/mcp/pull/366) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 💪 Opened PR [#1016](https://github.com/laravel/scout/pull/1016) in [laravel/scout](https://github.com/laravel/scout)
-3. 🗣 Commented on [#52](https://github.com/dunglas/frankenphp-website/pull/52#issuecomment-6111394702) in [dunglas/frankenphp-website](https://github.com/dunglas/frankenphp-website)
-4. 💪 Opened PR [#366](https://github.com/laravel/mcp/pull/366) in [laravel/mcp](https://github.com/laravel/mcp)
-5. 🎉 Merged PR [#357](https://github.com/laravel/mcp/pull/357) in [laravel/mcp](https://github.com/laravel/mcp)
+1. ❗ Opened issue [#3](https://github.com/pushpak1300/frankenphp-website/issues/3) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
+2. 💪 Opened PR [#4](https://github.com/pushpak1300/pint/pull/4) in [pushpak1300/pint](https://github.com/pushpak1300/pint)
+3. 🎉 Merged PR [#884](https://github.com/pushpak1300/pushpak1300.me/pull/884) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+4. 🔒 Closed issue [#631](https://github.com/pushpak1300/pushpak1300.me/issues/631) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+5. 💪 Opened PR [#884](https://github.com/pushpak1300/pushpak1300.me/pull/884) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
 <!--END_SECTION:activity-->
