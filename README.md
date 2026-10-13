@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [BashBox v0.1.0](https://github.com/shipfastlabs/bashbox/releases/tag/v0.1.0) in [shipfastlabs/bashbox](https://github.com/shipfastlabs/bashbox)
-2. 🚀 Published release [v1.2.1](https://github.com/laravel/ai/releases/tag/v1.2.1) in [laravel/ai](https://github.com/laravel/ai)
-3. 🗣 Commented on [#4](https://github.com/pushpak1300/frankenphp-website/issues/4#issuecomment-6124000614) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
-4. 🗣 Commented on [#4](https://github.com/pushpak1300/frankenphp-website/issues/4#issuecomment-6123930478) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
-5. 🗣 Commented on [#4](https://github.com/pushpak1300/frankenphp-website/issues/4#issuecomment-6123897054) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
+1. 🗣 Commented on [#1118](https://github.com/laravel/ai/pull/1118#issuecomment-6151645591) in [laravel/ai](https://github.com/laravel/ai)
+2. 🎉 Merged PR [#1128](https://github.com/laravel/ai/pull/1128) in [laravel/ai](https://github.com/laravel/ai)
+3. 💪 Opened PR [#1128](https://github.com/laravel/ai/pull/1128) in [laravel/ai](https://github.com/laravel/ai)
+4. ❌ Closed PR [#1094](https://github.com/laravel/ai/pull/1094) in [laravel/ai](https://github.com/laravel/ai)
+5. 🗣 Commented on [#1094](https://github.com/laravel/ai/pull/1094#issuecomment-6152570683) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
