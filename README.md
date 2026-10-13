@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.1](https://github.com/laravel/ai/releases/tag/v1.2.1) in [laravel/ai](https://github.com/laravel/ai)
-2. 🗣 Commented on [#4](https://github.com/pushpak1300/frankenphp-website/issues/4#issuecomment-6124000614) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
-3. 🗣 Commented on [#4](https://github.com/pushpak1300/frankenphp-website/issues/4#issuecomment-6123930478) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
-4. 🗣 Commented on [#4](https://github.com/pushpak1300/frankenphp-website/issues/4#issuecomment-6123897054) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
-5. 🎉 Merged PR [#1116](https://github.com/laravel/ai/pull/1116) in [laravel/ai](https://github.com/laravel/ai)
+1. 🚀 Published release [BashBox v0.1.0](https://github.com/shipfastlabs/bashbox/releases/tag/v0.1.0) in [shipfastlabs/bashbox](https://github.com/shipfastlabs/bashbox)
+2. 🚀 Published release [v1.2.1](https://github.com/laravel/ai/releases/tag/v1.2.1) in [laravel/ai](https://github.com/laravel/ai)
+3. 🗣 Commented on [#4](https://github.com/pushpak1300/frankenphp-website/issues/4#issuecomment-6124000614) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
+4. 🗣 Commented on [#4](https://github.com/pushpak1300/frankenphp-website/issues/4#issuecomment-6123930478) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
+5. 🗣 Commented on [#4](https://github.com/pushpak1300/frankenphp-website/issues/4#issuecomment-6123897054) in [pushpak1300/frankenphp-website](https://github.com/pushpak1300/frankenphp-website)
 <!--END_SECTION:activity-->
