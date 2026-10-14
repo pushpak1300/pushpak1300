@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1074](https://github.com/laravel/boost/pull/1074) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#1127](https://github.com/laravel/ai/pull/1127#issuecomment-6162205753) in [laravel/ai](https://github.com/laravel/ai)
-3. ❌ Closed PR [#1127](https://github.com/laravel/ai/pull/1127) in [laravel/ai](https://github.com/laravel/ai)
-4. 🗣 Commented on [#1090](https://github.com/laravel/ai/pull/1090#issuecomment-6162200870) in [laravel/ai](https://github.com/laravel/ai)
-5. 🗣 Commented on [#1118](https://github.com/laravel/ai/pull/1118#issuecomment-6151645591) in [laravel/ai](https://github.com/laravel/ai)
+1. 🎉 Merged PR [#903](https://github.com/laravel/sail/pull/903) in [laravel/sail](https://github.com/laravel/sail)
+2. 🎉 Merged PR [#327](https://github.com/laravel/wayfinder/pull/327) in [laravel/wayfinder](https://github.com/laravel/wayfinder)
+3. 🎉 Merged PR [#101](https://github.com/laravel/vonage-notification-channel/pull/101) in [laravel/vonage-notification-channel](https://github.com/laravel/vonage-notification-channel)
+4. 🎉 Merged PR [#576](https://github.com/laravel/installer/pull/576) in [laravel/installer](https://github.com/laravel/installer)
+5. 🎉 Merged PR [#400](https://github.com/laravel/vite-plugin/pull/400) in [laravel/vite-plugin](https://github.com/laravel/vite-plugin)
 <!--END_SECTION:activity-->
