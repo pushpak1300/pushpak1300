@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.3](https://github.com/laravel/ai/releases/tag/v1.2.3) in [laravel/ai](https://github.com/laravel/ai)
-2. 🎉 Merged PR [#1134](https://github.com/laravel/ai/pull/1134) in [laravel/ai](https://github.com/laravel/ai)
-3. 🔒 Closed issue [#1136](https://github.com/laravel/ai/issues/1136) in [laravel/ai](https://github.com/laravel/ai)
-4. 💪 Opened PR [#330](https://github.com/laravel/wayfinder/pull/330) in [laravel/wayfinder](https://github.com/laravel/wayfinder)
-5. 🎉 Merged PR [#1076](https://github.com/laravel/boost/pull/1076) in [laravel/boost](https://github.com/laravel/boost)
+1. 💪 Opened PR [#1174](https://github.com/laravel/octane/pull/1174) in [laravel/octane](https://github.com/laravel/octane)
+2. 🚀 Published release [v1.2.3](https://github.com/laravel/ai/releases/tag/v1.2.3) in [laravel/ai](https://github.com/laravel/ai)
+3. 🎉 Merged PR [#1134](https://github.com/laravel/ai/pull/1134) in [laravel/ai](https://github.com/laravel/ai)
+4. 🔒 Closed issue [#1136](https://github.com/laravel/ai/issues/1136) in [laravel/ai](https://github.com/laravel/ai)
+5. 💪 Opened PR [#330](https://github.com/laravel/wayfinder/pull/330) in [laravel/wayfinder](https://github.com/laravel/wayfinder)
 <!--END_SECTION:activity-->
