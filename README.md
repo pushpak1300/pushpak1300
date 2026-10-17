@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1174](https://github.com/laravel/octane/pull/1174) in [laravel/octane](https://github.com/laravel/octane)
-2. 🎉 Merged PR [#1976](https://github.com/pestphp/pest/pull/1976) in [pestphp/pest](https://github.com/pestphp/pest)
-3. 🗣 Commented on [#1137](https://github.com/laravel/ai/pull/1137#issuecomment-6198854935) in [laravel/ai](https://github.com/laravel/ai)
-4. 🎉 Merged PR [#1975](https://github.com/pestphp/pest/pull/1975) in [pestphp/pest](https://github.com/pestphp/pest)
-5. 🔒 Closed issue [#1141](https://github.com/laravel/ai/issues/1141) in [laravel/ai](https://github.com/laravel/ai)
+1. 🎉 Merged PR [#35](https://github.com/laravel/agent-detector/pull/35) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
+2. 💪 Opened PR [#35](https://github.com/laravel/agent-detector/pull/35) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
+3. 🎉 Merged PR [#1174](https://github.com/laravel/octane/pull/1174) in [laravel/octane](https://github.com/laravel/octane)
+4. 🎉 Merged PR [#1976](https://github.com/pestphp/pest/pull/1976) in [pestphp/pest](https://github.com/pestphp/pest)
+5. 🗣 Commented on [#1137](https://github.com/laravel/ai/pull/1137#issuecomment-6198854935) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
