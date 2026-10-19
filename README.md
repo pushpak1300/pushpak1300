@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1149](https://github.com/laravel/ai/pull/1149) in [laravel/ai](https://github.com/laravel/ai)
-2. 💪 Opened PR [#1149](https://github.com/laravel/ai/pull/1149) in [laravel/ai](https://github.com/laravel/ai)
-3. ❌ Closed PR [#214](https://github.com/nunomaduro/dev-null.sh/pull/214) in [nunomaduro/dev-null.sh](https://github.com/nunomaduro/dev-null.sh)
-4. 💪 Opened PR [#1145](https://github.com/laravel/ai/pull/1145) in [laravel/ai](https://github.com/laravel/ai)
-5. 💪 Opened PR [#1144](https://github.com/laravel/ai/pull/1144) in [laravel/ai](https://github.com/laravel/ai)
+1. 🔒 Closed issue [#1096](https://github.com/laravel/ai/issues/1096) in [laravel/ai](https://github.com/laravel/ai)
+2. 🎉 Merged PR [#1145](https://github.com/laravel/ai/pull/1145) in [laravel/ai](https://github.com/laravel/ai)
+3. 🎉 Merged PR [#1149](https://github.com/laravel/ai/pull/1149) in [laravel/ai](https://github.com/laravel/ai)
+4. 💪 Opened PR [#1149](https://github.com/laravel/ai/pull/1149) in [laravel/ai](https://github.com/laravel/ai)
+5. ❌ Closed PR [#214](https://github.com/nunomaduro/dev-null.sh/pull/214) in [nunomaduro/dev-null.sh](https://github.com/nunomaduro/dev-null.sh)
 <!--END_SECTION:activity-->
