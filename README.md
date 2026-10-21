@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1158](https://github.com/laravel/ai/pull/1158#issuecomment-6295282009) in [laravel/ai](https://github.com/laravel/ai)
-2. 🔒 Closed issue [#26](https://github.com/laravel/agent-detector/issues/26) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
-3. 🗣 Commented on [#26](https://github.com/laravel/agent-detector/issues/26#issuecomment-6296082204) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
-4. 🚀 Published release [v2.0.5](https://github.com/laravel/agent-detector/releases/tag/v2.0.5) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
-5. 🚀 Published release [v1.1.0](https://github.com/laravel/mcp/releases/tag/v1.1.0) in [laravel/mcp](https://github.com/laravel/mcp)
+1. 💪 Opened PR [#1161](https://github.com/laravel/ai/pull/1161) in [laravel/ai](https://github.com/laravel/ai)
+2. 💪 Opened PR [#373](https://github.com/laravel/mcp/pull/373) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 🗣 Commented on [#1158](https://github.com/laravel/ai/pull/1158#issuecomment-6295282009) in [laravel/ai](https://github.com/laravel/ai)
+4. 🔒 Closed issue [#26](https://github.com/laravel/agent-detector/issues/26) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
+5. 🗣 Commented on [#26](https://github.com/laravel/agent-detector/issues/26#issuecomment-6296082204) in [laravel/agent-detector](https://github.com/laravel/agent-detector)
 <!--END_SECTION:activity-->
