@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1957](https://github.com/laravel/passport/pull/1957) in [laravel/passport](https://github.com/laravel/passport)
-2. 💪 Opened PR [#1957](https://github.com/laravel/passport/pull/1957) in [laravel/passport](https://github.com/laravel/passport)
-3. 💪 Opened PR [#1161](https://github.com/laravel/ai/pull/1161) in [laravel/ai](https://github.com/laravel/ai)
-4. 💪 Opened PR [#373](https://github.com/laravel/mcp/pull/373) in [laravel/mcp](https://github.com/laravel/mcp)
-5. 🗣 Commented on [#1158](https://github.com/laravel/ai/pull/1158#issuecomment-6295282009) in [laravel/ai](https://github.com/laravel/ai)
+1. 🚀 Published release [v1.1.1](https://github.com/laravel/mcp/releases/tag/v1.1.1) in [laravel/mcp](https://github.com/laravel/mcp)
+2. 🚀 Published release [v0.9.7](https://github.com/laravel/mcp/releases/tag/v0.9.7) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 🎉 Merged PR [#375](https://github.com/laravel/mcp/pull/375) in [laravel/mcp](https://github.com/laravel/mcp)
+4. 💪 Opened PR [#375](https://github.com/laravel/mcp/pull/375) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 🎉 Merged PR [#374](https://github.com/laravel/mcp/pull/374) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
