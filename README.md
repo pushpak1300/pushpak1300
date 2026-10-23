@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#231](https://github.com/laravel/maestro/pull/231#issuecomment-6371144751) in [laravel/maestro](https://github.com/laravel/maestro)
-2. ❌ Closed PR [#226](https://github.com/laravel/maestro/pull/226) in [laravel/maestro](https://github.com/laravel/maestro)
-3. 🗣 Commented on [#237](https://github.com/laravel/maestro/pull/237#issuecomment-6371113223) in [laravel/maestro](https://github.com/laravel/maestro)
-4. ❌ Closed PR [#237](https://github.com/laravel/maestro/pull/237) in [laravel/maestro](https://github.com/laravel/maestro)
-5. 🗣 Commented on [#232](https://github.com/laravel/maestro/pull/232#issuecomment-6371108240) in [laravel/maestro](https://github.com/laravel/maestro)
+1. 🗣 Commented on [#1041](https://github.com/laravel/boost/issues/1041#issuecomment-6369892101) in [laravel/boost](https://github.com/laravel/boost)
+2. 🗣 Commented on [#659](https://github.com/laravel/boost/issues/659#issuecomment-6369978768) in [laravel/boost](https://github.com/laravel/boost)
+3. 🗣 Commented on [#1080](https://github.com/laravel/boost/issues/1080#issuecomment-6369874723) in [laravel/boost](https://github.com/laravel/boost)
+4. 🗣 Commented on [#231](https://github.com/laravel/maestro/pull/231#issuecomment-6371144751) in [laravel/maestro](https://github.com/laravel/maestro)
+5. ❌ Closed PR [#226](https://github.com/laravel/maestro/pull/226) in [laravel/maestro](https://github.com/laravel/maestro)
 <!--END_SECTION:activity-->
