@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.2](https://github.com/laravel/mcp/releases/tag/v1.1.2) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 🎉 Merged PR [#378](https://github.com/laravel/mcp/pull/378) in [laravel/mcp](https://github.com/laravel/mcp)
-3. 🔒 Closed issue [#345](https://github.com/laravel/mcp/issues/345) in [laravel/mcp](https://github.com/laravel/mcp)
-4. 🎉 Merged PR [#379](https://github.com/haydenbleasel/blume/pull/379) in [haydenbleasel/blume](https://github.com/haydenbleasel/blume)
-5. 🎉 Merged PR [#578](https://github.com/laravel/installer/pull/578) in [laravel/installer](https://github.com/laravel/installer)
+1. 🗣 Commented on [#1165](https://github.com/laravel/ai/pull/1165#issuecomment-6433452065) in [laravel/ai](https://github.com/laravel/ai)
+2. 🗣 Commented on [#1157](https://github.com/laravel/ai/pull/1157#issuecomment-6433444903) in [laravel/ai](https://github.com/laravel/ai)
+3. 🔒 Closed issue [#1155](https://github.com/laravel/ai/issues/1155) in [laravel/ai](https://github.com/laravel/ai)
+4. 🚀 Published release [v1.1.2](https://github.com/laravel/mcp/releases/tag/v1.1.2) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 🎉 Merged PR [#378](https://github.com/laravel/mcp/pull/378) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
