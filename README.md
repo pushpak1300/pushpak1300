@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1782](https://github.com/laravel/telescope/pull/1782) in [laravel/telescope](https://github.com/laravel/telescope)
-2. 💪 Opened PR [#1782](https://github.com/laravel/telescope/pull/1782) in [laravel/telescope](https://github.com/laravel/telescope)
-3. 💪 Opened PR [#1781](https://github.com/laravel/telescope/pull/1781) in [laravel/telescope](https://github.com/laravel/telescope)
-4. 🗣 Commented on [#1194](https://github.com/laravel/ai/pull/1194#issuecomment-6518834127) in [laravel/ai](https://github.com/laravel/ai)
-5. 🗣 Commented on [#1194](https://github.com/laravel/ai/pull/1194#issuecomment-6515235593) in [laravel/ai](https://github.com/laravel/ai)
+1. 💪 Opened PR [#1783](https://github.com/laravel/telescope/pull/1783) in [laravel/telescope](https://github.com/laravel/telescope)
+2. 🗣 Commented on [#1198](https://github.com/laravel/ai/pull/1198#issuecomment-6540296022) in [laravel/ai](https://github.com/laravel/ai)
+3. ❌ Closed PR [#1198](https://github.com/laravel/ai/pull/1198) in [laravel/ai](https://github.com/laravel/ai)
+4. ❌ Closed PR [#1197](https://github.com/laravel/ai/pull/1197) in [laravel/ai](https://github.com/laravel/ai)
+5. 🗣 Commented on [#1197](https://github.com/laravel/ai/pull/1197#issuecomment-6540294538) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
