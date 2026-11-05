@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#390](https://github.com/laravel/mcp/issues/390) in [laravel/mcp](https://github.com/laravel/mcp)
-2. 💪 Opened PR [#1210](https://github.com/laravel/ai/pull/1210) in [laravel/ai](https://github.com/laravel/ai)
-3. 💪 Opened PR [#392](https://github.com/laravel/mcp/pull/392) in [laravel/mcp](https://github.com/laravel/mcp)
-4. 💪 Opened PR [#244](https://github.com/laravel/maestro/pull/244) in [laravel/maestro](https://github.com/laravel/maestro)
-5. 🔒 Closed issue [#1164](https://github.com/laravel/ai/issues/1164) in [laravel/ai](https://github.com/laravel/ai)
+1. 🎉 Merged PR [#244](https://github.com/laravel/maestro/pull/244) in [laravel/maestro](https://github.com/laravel/maestro)
+2. 🎉 Merged PR [#1210](https://github.com/laravel/ai/pull/1210) in [laravel/ai](https://github.com/laravel/ai)
+3. 🎉 Merged PR [#392](https://github.com/laravel/mcp/pull/392) in [laravel/mcp](https://github.com/laravel/mcp)
+4. 🔒 Closed issue [#390](https://github.com/laravel/mcp/issues/390) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 💪 Opened PR [#1210](https://github.com/laravel/ai/pull/1210) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
