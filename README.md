@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1016](https://github.com/laravel/scout/pull/1016) in [laravel/scout](https://github.com/laravel/scout)
-2. 🎉 Merged PR [#393](https://github.com/laravel/mcp/pull/393) in [laravel/mcp](https://github.com/laravel/mcp)
-3. 🎉 Merged PR [#1099](https://github.com/laravel/boost/pull/1099) in [laravel/boost](https://github.com/laravel/boost)
-4. 🎉 Merged PR [#76](https://github.com/laravel/roster/pull/76) in [laravel/roster](https://github.com/laravel/roster)
-5. 💪 Opened PR [#76](https://github.com/laravel/roster/pull/76) in [laravel/roster](https://github.com/laravel/roster)
+1. 🗣 Commented on [#998](https://github.com/laravel/scout/pull/998#issuecomment-6739896433) in [laravel/scout](https://github.com/laravel/scout)
+2. 🎉 Merged PR [#1192](https://github.com/laravel/ai/pull/1192) in [laravel/ai](https://github.com/laravel/ai)
+3. 🔒 Closed issue [#1211](https://github.com/laravel/ai/issues/1211) in [laravel/ai](https://github.com/laravel/ai)
+4. 💪 Opened PR [#1215](https://github.com/laravel/ai/pull/1215) in [laravel/ai](https://github.com/laravel/ai)
+5. 🎉 Merged PR [#1016](https://github.com/laravel/scout/pull/1016) in [laravel/scout](https://github.com/laravel/scout)
 <!--END_SECTION:activity-->
