@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/laravel/sentinel/pull/22) in [laravel/sentinel](https://github.com/laravel/sentinel)
-2. 🎉 Merged PR [#300](https://github.com/laravel/ui/pull/300) in [laravel/ui](https://github.com/laravel/ui)
-3. 🎉 Merged PR [#340](https://github.com/laravel/wayfinder/pull/340) in [laravel/wayfinder](https://github.com/laravel/wayfinder)
-4. 🎉 Merged PR [#18](https://github.com/laravel/chisel/pull/18) in [laravel/chisel](https://github.com/laravel/chisel)
-5. 🎉 Merged PR [#28](https://github.com/laravel/nova-log-viewer/pull/28) in [laravel/nova-log-viewer](https://github.com/laravel/nova-log-viewer)
+1. 🎉 Merged PR [#1584](https://github.com/laravel/valet/pull/1584) in [laravel/valet](https://github.com/laravel/valet)
+2. 🗣 Commented on [#1583](https://github.com/laravel/valet/pull/1583#issuecomment-6806077528) in [laravel/valet](https://github.com/laravel/valet)
+3. ❌ Closed PR [#451](https://github.com/laravel/nightwatch/pull/451) in [laravel/nightwatch](https://github.com/laravel/nightwatch)
+4. 🎉 Merged PR [#397](https://github.com/laravel/mcp/pull/397) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 🎉 Merged PR [#22](https://github.com/laravel/sentinel/pull/22) in [laravel/sentinel](https://github.com/laravel/sentinel)
 <!--END_SECTION:activity-->
