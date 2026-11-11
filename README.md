@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#420](https://github.com/laravel/reverb/pull/420) in [laravel/reverb](https://github.com/laravel/reverb)
-2. 💪 Opened PR [#1584](https://github.com/laravel/valet/pull/1584) in [laravel/valet](https://github.com/laravel/valet)
-3. 💪 Opened PR [#420](https://github.com/laravel/reverb/pull/420) in [laravel/reverb](https://github.com/laravel/reverb)
-4. 💪 Opened PR [#1583](https://github.com/laravel/valet/pull/1583) in [laravel/valet](https://github.com/laravel/valet)
-5. 💪 Opened PR [#419](https://github.com/laravel/reverb/pull/419) in [laravel/reverb](https://github.com/laravel/reverb)
+1. 🎉 Merged PR [#22](https://github.com/laravel/sentinel/pull/22) in [laravel/sentinel](https://github.com/laravel/sentinel)
+2. 🎉 Merged PR [#300](https://github.com/laravel/ui/pull/300) in [laravel/ui](https://github.com/laravel/ui)
+3. 🎉 Merged PR [#340](https://github.com/laravel/wayfinder/pull/340) in [laravel/wayfinder](https://github.com/laravel/wayfinder)
+4. 🎉 Merged PR [#18](https://github.com/laravel/chisel/pull/18) in [laravel/chisel](https://github.com/laravel/chisel)
+5. 🎉 Merged PR [#28](https://github.com/laravel/nova-log-viewer/pull/28) in [laravel/nova-log-viewer](https://github.com/laravel/nova-log-viewer)
 <!--END_SECTION:activity-->
