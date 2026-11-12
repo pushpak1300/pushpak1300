@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1215](https://github.com/laravel/ai/pull/1215) in [laravel/ai](https://github.com/laravel/ai)
-2. 🎉 Merged PR [#1583](https://github.com/laravel/valet/pull/1583) in [laravel/valet](https://github.com/laravel/valet)
-3. 🎉 Merged PR [#1584](https://github.com/laravel/valet/pull/1584) in [laravel/valet](https://github.com/laravel/valet)
-4. 🗣 Commented on [#1583](https://github.com/laravel/valet/pull/1583#issuecomment-6806077528) in [laravel/valet](https://github.com/laravel/valet)
-5. ❌ Closed PR [#451](https://github.com/laravel/nightwatch/pull/451) in [laravel/nightwatch](https://github.com/laravel/nightwatch)
+1. 🎉 Merged PR [#422](https://github.com/laravel/reverb/pull/422) in [laravel/reverb](https://github.com/laravel/reverb)
+2. 🎉 Merged PR [#1891](https://github.com/laravel/cashier-stripe/pull/1891) in [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe)
+3. 💪 Opened PR [#1891](https://github.com/laravel/cashier-stripe/pull/1891) in [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe)
+4. 🎉 Merged PR [#11456](https://github.com/laravel/docs/pull/11456) in [laravel/docs](https://github.com/laravel/docs)
+5. 🎉 Merged PR [#62447](https://github.com/laravel/framework/pull/62447) in [laravel/framework](https://github.com/laravel/framework)
 <!--END_SECTION:activity-->
