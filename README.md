@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#422](https://github.com/laravel/reverb/pull/422) in [laravel/reverb](https://github.com/laravel/reverb)
-2. 🎉 Merged PR [#1891](https://github.com/laravel/cashier-stripe/pull/1891) in [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe)
-3. 💪 Opened PR [#1891](https://github.com/laravel/cashier-stripe/pull/1891) in [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe)
-4. 🎉 Merged PR [#11456](https://github.com/laravel/docs/pull/11456) in [laravel/docs](https://github.com/laravel/docs)
-5. 🎉 Merged PR [#62447](https://github.com/laravel/framework/pull/62447) in [laravel/framework](https://github.com/laravel/framework)
+1. 💪 Opened PR [#62456](https://github.com/laravel/framework/pull/62456) in [laravel/framework](https://github.com/laravel/framework)
+2. 💪 Opened PR [#62455](https://github.com/laravel/framework/pull/62455) in [laravel/framework](https://github.com/laravel/framework)
+3. 💪 Opened PR [#62454](https://github.com/laravel/framework/pull/62454) in [laravel/framework](https://github.com/laravel/framework)
+4. 💪 Opened PR [#62453](https://github.com/laravel/framework/pull/62453) in [laravel/framework](https://github.com/laravel/framework)
+5. 🎉 Merged PR [#422](https://github.com/laravel/reverb/pull/422) in [laravel/reverb](https://github.com/laravel/reverb)
 <!--END_SECTION:activity-->
