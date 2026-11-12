@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1584](https://github.com/laravel/valet/pull/1584) in [laravel/valet](https://github.com/laravel/valet)
-2. 🗣 Commented on [#1583](https://github.com/laravel/valet/pull/1583#issuecomment-6806077528) in [laravel/valet](https://github.com/laravel/valet)
-3. ❌ Closed PR [#451](https://github.com/laravel/nightwatch/pull/451) in [laravel/nightwatch](https://github.com/laravel/nightwatch)
-4. 🎉 Merged PR [#397](https://github.com/laravel/mcp/pull/397) in [laravel/mcp](https://github.com/laravel/mcp)
-5. 🎉 Merged PR [#22](https://github.com/laravel/sentinel/pull/22) in [laravel/sentinel](https://github.com/laravel/sentinel)
+1. 🎉 Merged PR [#1215](https://github.com/laravel/ai/pull/1215) in [laravel/ai](https://github.com/laravel/ai)
+2. 🎉 Merged PR [#1583](https://github.com/laravel/valet/pull/1583) in [laravel/valet](https://github.com/laravel/valet)
+3. 🎉 Merged PR [#1584](https://github.com/laravel/valet/pull/1584) in [laravel/valet](https://github.com/laravel/valet)
+4. 🗣 Commented on [#1583](https://github.com/laravel/valet/pull/1583#issuecomment-6806077528) in [laravel/valet](https://github.com/laravel/valet)
+5. ❌ Closed PR [#451](https://github.com/laravel/nightwatch/pull/451) in [laravel/nightwatch](https://github.com/laravel/nightwatch)
 <!--END_SECTION:activity-->
