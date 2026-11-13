@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#62456](https://github.com/laravel/framework/pull/62456) in [laravel/framework](https://github.com/laravel/framework)
-2. 💪 Opened PR [#62455](https://github.com/laravel/framework/pull/62455) in [laravel/framework](https://github.com/laravel/framework)
-3. 💪 Opened PR [#62454](https://github.com/laravel/framework/pull/62454) in [laravel/framework](https://github.com/laravel/framework)
-4. 💪 Opened PR [#62453](https://github.com/laravel/framework/pull/62453) in [laravel/framework](https://github.com/laravel/framework)
-5. 🎉 Merged PR [#422](https://github.com/laravel/reverb/pull/422) in [laravel/reverb](https://github.com/laravel/reverb)
+1. 🎉 Merged PR [#4](https://github.com/punphp/pun/pull/4) in [punphp/pun](https://github.com/punphp/pun)
+2. 🎉 Merged PR [#1217](https://github.com/laravel/ai/pull/1217) in [laravel/ai](https://github.com/laravel/ai)
+3. 🔒 Closed issue [#1230](https://github.com/laravel/ai/issues/1230) in [laravel/ai](https://github.com/laravel/ai)
+4. 💪 Opened PR [#34](https://github.com/laravel/workos/pull/34) in [laravel/workos](https://github.com/laravel/workos)
+5. 💪 Opened PR [#4](https://github.com/punphp/pun/pull/4) in [punphp/pun](https://github.com/punphp/pun)
 <!--END_SECTION:activity-->
