@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62355](https://github.com/laravel/framework/pull/62355) in [laravel/framework](https://github.com/laravel/framework)
-2. 🎉 Merged PR [#62454](https://github.com/laravel/framework/pull/62454) in [laravel/framework](https://github.com/laravel/framework)
-3. 🎉 Merged PR [#62453](https://github.com/laravel/framework/pull/62453) in [laravel/framework](https://github.com/laravel/framework)
-4. 🎉 Merged PR [#423](https://github.com/laravel/reverb/pull/423) in [laravel/reverb](https://github.com/laravel/reverb)
-5. ℹ️ Assigned PR [#8](https://github.com/punphp/pun/pull/8) in [punphp/pun](https://github.com/punphp/pun)
+1. 🎉 Merged PR [#8](https://github.com/shipfastlabs/pun/pull/8) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+2. 🗣 Commented on [#8](https://github.com/shipfastlabs/pun/pull/8#issuecomment-6897892804) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+3. 🎉 Merged PR [#62355](https://github.com/laravel/framework/pull/62355) in [laravel/framework](https://github.com/laravel/framework)
+4. 🎉 Merged PR [#62454](https://github.com/laravel/framework/pull/62454) in [laravel/framework](https://github.com/laravel/framework)
+5. 🎉 Merged PR [#62453](https://github.com/laravel/framework/pull/62453) in [laravel/framework](https://github.com/laravel/framework)
 <!--END_SECTION:activity-->
