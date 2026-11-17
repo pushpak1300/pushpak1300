@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#424](https://github.com/laravel/reverb/pull/424) in [laravel/reverb](https://github.com/laravel/reverb)
-2. 💪 Opened PR [#424](https://github.com/laravel/reverb/pull/424) in [laravel/reverb](https://github.com/laravel/reverb)
-3. 🎉 Merged PR [#62500](https://github.com/laravel/framework/pull/62500) in [laravel/framework](https://github.com/laravel/framework)
-4. 🎉 Merged PR [#62501](https://github.com/laravel/framework/pull/62501) in [laravel/framework](https://github.com/laravel/framework)
-5. 💪 Opened PR [#62501](https://github.com/laravel/framework/pull/62501) in [laravel/framework](https://github.com/laravel/framework)
+1. 🗣 Commented on [#399](https://github.com/laravel/mcp/pull/399#issuecomment-6942262668) in [laravel/mcp](https://github.com/laravel/mcp)
+2. 💪 Opened PR [#404](https://github.com/laravel/mcp/pull/404) in [laravel/mcp](https://github.com/laravel/mcp)
+3. 💪 Opened PR [#403](https://github.com/laravel/mcp/pull/403) in [laravel/mcp](https://github.com/laravel/mcp)
+4. 🎉 Merged PR [#424](https://github.com/laravel/reverb/pull/424) in [laravel/reverb](https://github.com/laravel/reverb)
+5. 💪 Opened PR [#424](https://github.com/laravel/reverb/pull/424) in [laravel/reverb](https://github.com/laravel/reverb)
 <!--END_SECTION:activity-->
