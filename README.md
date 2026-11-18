@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v4.14.0](https://github.com/laravel/valet/releases/tag/v4.14.0) in [laravel/valet](https://github.com/laravel/valet)
-2. 🚀 Published release [v1.4.1](https://github.com/laravel/ai/releases/tag/v1.4.1) in [laravel/ai](https://github.com/laravel/ai)
-3. 🚀 Published release [v1.2.1](https://github.com/laravel/mcp/releases/tag/v1.2.1) in [laravel/mcp](https://github.com/laravel/mcp)
-4. 🗣 Commented on [#386](https://github.com/laravel/mcp/pull/386#issuecomment-6954875273) in [laravel/mcp](https://github.com/laravel/mcp)
-5. 🗣 Commented on [#387](https://github.com/laravel/mcp/pull/387#issuecomment-6954943930) in [laravel/mcp](https://github.com/laravel/mcp)
+1. 💪 Opened PR [#409](https://github.com/laravel/mcp/pull/409) in [laravel/mcp](https://github.com/laravel/mcp)
+2. 💪 Opened PR [#716](https://github.com/laravel/fortify/pull/716) in [laravel/fortify](https://github.com/laravel/fortify)
+3. 🚀 Published release [v4.14.0](https://github.com/laravel/valet/releases/tag/v4.14.0) in [laravel/valet](https://github.com/laravel/valet)
+4. 🚀 Published release [v1.4.1](https://github.com/laravel/ai/releases/tag/v1.4.1) in [laravel/ai](https://github.com/laravel/ai)
+5. 🚀 Published release [v1.2.1](https://github.com/laravel/mcp/releases/tag/v1.2.1) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
