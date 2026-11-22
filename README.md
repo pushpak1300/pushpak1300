@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/pestphp/pest-plugin-evals/pull/10#issuecomment-7064315660) in [pestphp/pest-plugin-evals](https://github.com/pestphp/pest-plugin-evals)
-2. 🗣 Commented on [#1237](https://github.com/laravel/ai/pull/1237#issuecomment-7048433877) in [laravel/ai](https://github.com/laravel/ai)
-3. 🎉 Merged PR [#418](https://github.com/laravel/mcp/pull/418) in [laravel/mcp](https://github.com/laravel/mcp)
-4. 💪 Opened PR [#418](https://github.com/laravel/mcp/pull/418) in [laravel/mcp](https://github.com/laravel/mcp)
-5. 🗣 Commented on [#1235](https://github.com/laravel/ai/pull/1235#issuecomment-7044631571) in [laravel/ai](https://github.com/laravel/ai)
+1. 💪 Opened PR [#937](https://github.com/pushpak1300/pushpak1300.me/pull/937) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
+2. 🗣 Commented on [#10](https://github.com/pestphp/pest-plugin-evals/pull/10#issuecomment-7064315660) in [pestphp/pest-plugin-evals](https://github.com/pestphp/pest-plugin-evals)
+3. 🗣 Commented on [#1237](https://github.com/laravel/ai/pull/1237#issuecomment-7048433877) in [laravel/ai](https://github.com/laravel/ai)
+4. 🎉 Merged PR [#418](https://github.com/laravel/mcp/pull/418) in [laravel/mcp](https://github.com/laravel/mcp)
+5. 💪 Opened PR [#418](https://github.com/laravel/mcp/pull/418) in [laravel/mcp](https://github.com/laravel/mcp)
 <!--END_SECTION:activity-->
