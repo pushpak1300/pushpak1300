@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#937](https://github.com/pushpak1300/pushpak1300.me/pull/937) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-2. ❌ Closed PR [#12](https://github.com/shipfastlabs/pun/pull/12) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-3. 🗣 Commented on [#12](https://github.com/shipfastlabs/pun/pull/12#issuecomment-7083372400) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-4. 💪 Opened PR [#937](https://github.com/pushpak1300/pushpak1300.me/pull/937) in [pushpak1300/pushpak1300.me](https://github.com/pushpak1300/pushpak1300.me)
-5. 🗣 Commented on [#10](https://github.com/pestphp/pest-plugin-evals/pull/10#issuecomment-7064315660) in [pestphp/pest-plugin-evals](https://github.com/pestphp/pest-plugin-evals)
+1. 💪 Opened PR [#14](https://github.com/shipfastlabs/pun/pull/14) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+2. 🎉 Merged PR [#13](https://github.com/shipfastlabs/pun/pull/13) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+3. 💪 Opened PR [#13](https://github.com/shipfastlabs/pun/pull/13) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+4. 🎉 Merged PR [#62593](https://github.com/laravel/framework/pull/62593) in [laravel/framework](https://github.com/laravel/framework)
+5. 🎉 Merged PR [#62592](https://github.com/laravel/framework/pull/62592) in [laravel/framework](https://github.com/laravel/framework)
 <!--END_SECTION:activity-->
