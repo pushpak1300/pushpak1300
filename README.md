@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#26](https://github.com/shipfastlabs/pun/issues/26) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-2. 🎉 Merged PR [#33](https://github.com/shipfastlabs/pun/pull/33) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-3. 💪 Opened PR [#11490](https://github.com/laravel/docs/pull/11490) in [laravel/docs](https://github.com/laravel/docs)
-4. 💪 Opened PR [#11489](https://github.com/laravel/docs/pull/11489) in [laravel/docs](https://github.com/laravel/docs)
-5. 🎉 Merged PR [#1261](https://github.com/laravel/ai/pull/1261) in [laravel/ai](https://github.com/laravel/ai)
+1. 🔒 Closed issue [#29](https://github.com/shipfastlabs/pun/issues/29) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+2. 🔒 Closed issue [#27](https://github.com/shipfastlabs/pun/issues/27) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+3. 🔒 Closed issue [#19](https://github.com/shipfastlabs/pun/issues/19) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+4. 🔒 Closed issue [#16](https://github.com/shipfastlabs/pun/issues/16) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+5. 🔒 Closed issue [#30](https://github.com/shipfastlabs/pun/issues/30) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
 <!--END_SECTION:activity-->
