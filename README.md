@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/shipfastlabs/pun/issues/45#issuecomment-7158348076) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-2. 🔒 Closed issue [#45](https://github.com/shipfastlabs/pun/issues/45) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-3. 🔒 Closed issue [#18](https://github.com/shipfastlabs/pun/issues/18) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-4. 🔒 Closed issue [#17](https://github.com/shipfastlabs/pun/issues/17) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-5. 🔒 Closed issue [#35](https://github.com/shipfastlabs/pun/issues/35) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+1. 🗣 Commented on [#254](https://github.com/laravel/maestro/pull/254#issuecomment-7168604005) in [laravel/maestro](https://github.com/laravel/maestro)
+2. 🗣 Commented on [#53](https://github.com/shipfastlabs/pun/issues/53#issuecomment-7167835087) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+3. 🔒 Closed issue [#53](https://github.com/shipfastlabs/pun/issues/53) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+4. 🎉 Merged PR [#11489](https://github.com/laravel/docs/pull/11489) in [laravel/docs](https://github.com/laravel/docs)
+5. 🎉 Merged PR [#11490](https://github.com/laravel/docs/pull/11490) in [laravel/docs](https://github.com/laravel/docs)
 <!--END_SECTION:activity-->
