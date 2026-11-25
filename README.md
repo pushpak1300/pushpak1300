@@ -2,7 +2,7 @@
   <a href="https://commit-history.com/pushpak1300">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/pushpak1300?theme=dark" />
-      <img alt="fabpot's commit history" src="https://commit-history.com/embed/fabpot" />
+      <img alt="pushpak1300 commit history" src="https://commit-history.com/embed/pushpak1300" />
     </picture>
   </a>
 </div>
