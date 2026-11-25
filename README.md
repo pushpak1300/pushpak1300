@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#29](https://github.com/shipfastlabs/pun/issues/29) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-2. 🔒 Closed issue [#27](https://github.com/shipfastlabs/pun/issues/27) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-3. 🔒 Closed issue [#19](https://github.com/shipfastlabs/pun/issues/19) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-4. 🔒 Closed issue [#16](https://github.com/shipfastlabs/pun/issues/16) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-5. 🔒 Closed issue [#30](https://github.com/shipfastlabs/pun/issues/30) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+1. 🗣 Commented on [#45](https://github.com/shipfastlabs/pun/issues/45#issuecomment-7158348076) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+2. 🔒 Closed issue [#45](https://github.com/shipfastlabs/pun/issues/45) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+3. 🔒 Closed issue [#18](https://github.com/shipfastlabs/pun/issues/18) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+4. 🔒 Closed issue [#17](https://github.com/shipfastlabs/pun/issues/17) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+5. 🔒 Closed issue [#35](https://github.com/shipfastlabs/pun/issues/35) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
 <!--END_SECTION:activity-->
