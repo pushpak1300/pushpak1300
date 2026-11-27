@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#101](https://github.com/shipfastlabs/pun/issues/101) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-2. 🔒 Closed issue [#130](https://github.com/shipfastlabs/pun/issues/130) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-3. 🔒 Closed issue [#129](https://github.com/shipfastlabs/pun/issues/129) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-4. 🔒 Closed issue [#128](https://github.com/shipfastlabs/pun/issues/128) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-5. 🔒 Closed issue [#127](https://github.com/shipfastlabs/pun/issues/127) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+1. 🎉 Merged PR [#1195](https://github.com/laravel/octane/pull/1195) in [laravel/octane](https://github.com/laravel/octane)
+2. 🎉 Merged PR [#1194](https://github.com/laravel/octane/pull/1194) in [laravel/octane](https://github.com/laravel/octane)
+3. 🎉 Merged PR [#62666](https://github.com/laravel/framework/pull/62666) in [laravel/framework](https://github.com/laravel/framework)
+4. 🎉 Merged PR [#62668](https://github.com/laravel/framework/pull/62668) in [laravel/framework](https://github.com/laravel/framework)
+5. 🎉 Merged PR [#62667](https://github.com/laravel/framework/pull/62667) in [laravel/framework](https://github.com/laravel/framework)
 <!--END_SECTION:activity-->
