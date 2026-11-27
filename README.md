@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1195](https://github.com/laravel/octane/pull/1195) in [laravel/octane](https://github.com/laravel/octane)
-2. 🎉 Merged PR [#1194](https://github.com/laravel/octane/pull/1194) in [laravel/octane](https://github.com/laravel/octane)
-3. 🎉 Merged PR [#62666](https://github.com/laravel/framework/pull/62666) in [laravel/framework](https://github.com/laravel/framework)
-4. 🎉 Merged PR [#62668](https://github.com/laravel/framework/pull/62668) in [laravel/framework](https://github.com/laravel/framework)
-5. 🎉 Merged PR [#62667](https://github.com/laravel/framework/pull/62667) in [laravel/framework](https://github.com/laravel/framework)
+1. 🔒 Closed issue [#144](https://github.com/shipfastlabs/pun/issues/144) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+2. 🗣 Commented on [#51](https://github.com/shipfastlabs/pun/issues/51#issuecomment-7224065140) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+3. 🗣 Commented on [#34](https://github.com/shipfastlabs/pun/issues/34#issuecomment-7224064498) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+4. 🗣 Commented on [#32](https://github.com/shipfastlabs/pun/issues/32#issuecomment-7224063768) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+5. 🗣 Commented on [#1237](https://github.com/laravel/ai/pull/1237#issuecomment-7223970809) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
