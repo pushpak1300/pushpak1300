@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#174](https://github.com/shipfastlabs/pun/issues/174#issuecomment-7233420260) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-2. 🗣 Commented on [#188](https://github.com/shipfastlabs/pun/issues/188#issuecomment-7233419726) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-3. ℹ️ Labeled issue [#168](https://github.com/shipfastlabs/pun/issues/168) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-4. 🔒 Closed issue [#168](https://github.com/shipfastlabs/pun/issues/168) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-5. 🗣 Commented on [#168](https://github.com/shipfastlabs/pun/issues/168#issuecomment-7233417970) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+1. ❌ Closed PR [#1275](https://github.com/laravel/ai/pull/1275) in [laravel/ai](https://github.com/laravel/ai)
+2. 🔒 Closed issue [#1274](https://github.com/laravel/ai/issues/1274) in [laravel/ai](https://github.com/laravel/ai)
+3. 🗣 Commented on [#1274](https://github.com/laravel/ai/issues/1274#issuecomment-7237651726) in [laravel/ai](https://github.com/laravel/ai)
+4. 🔒 Closed issue [#1274](https://github.com/laravel/ai/issues/1274) in [laravel/ai](https://github.com/laravel/ai)
+5. 🗣 Commented on [#1275](https://github.com/laravel/ai/pull/1275#issuecomment-7237649777) in [laravel/ai](https://github.com/laravel/ai)
 <!--END_SECTION:activity-->
