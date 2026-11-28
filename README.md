@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#144](https://github.com/shipfastlabs/pun/issues/144) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-2. 🗣 Commented on [#51](https://github.com/shipfastlabs/pun/issues/51#issuecomment-7224065140) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-3. 🗣 Commented on [#34](https://github.com/shipfastlabs/pun/issues/34#issuecomment-7224064498) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-4. 🗣 Commented on [#32](https://github.com/shipfastlabs/pun/issues/32#issuecomment-7224063768) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
-5. 🗣 Commented on [#1237](https://github.com/laravel/ai/pull/1237#issuecomment-7223970809) in [laravel/ai](https://github.com/laravel/ai)
+1. 🗣 Commented on [#174](https://github.com/shipfastlabs/pun/issues/174#issuecomment-7233420260) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+2. 🗣 Commented on [#188](https://github.com/shipfastlabs/pun/issues/188#issuecomment-7233419726) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+3. ℹ️ Labeled issue [#168](https://github.com/shipfastlabs/pun/issues/168) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+4. 🔒 Closed issue [#168](https://github.com/shipfastlabs/pun/issues/168) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+5. 🗣 Commented on [#168](https://github.com/shipfastlabs/pun/issues/168#issuecomment-7233417970) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
 <!--END_SECTION:activity-->
