@@ -37,9 +37,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1275](https://github.com/laravel/ai/pull/1275) in [laravel/ai](https://github.com/laravel/ai)
-2. 🔒 Closed issue [#1274](https://github.com/laravel/ai/issues/1274) in [laravel/ai](https://github.com/laravel/ai)
-3. 🗣 Commented on [#1274](https://github.com/laravel/ai/issues/1274#issuecomment-7237651726) in [laravel/ai](https://github.com/laravel/ai)
-4. 🔒 Closed issue [#1274](https://github.com/laravel/ai/issues/1274) in [laravel/ai](https://github.com/laravel/ai)
-5. 🗣 Commented on [#1275](https://github.com/laravel/ai/pull/1275#issuecomment-7237649777) in [laravel/ai](https://github.com/laravel/ai)
+1. 🔒 Closed issue [#186](https://github.com/shipfastlabs/pun/issues/186) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+2. 🔒 Closed issue [#192](https://github.com/shipfastlabs/pun/issues/192) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+3. 🔒 Closed issue [#185](https://github.com/shipfastlabs/pun/issues/185) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+4. 🔒 Closed issue [#183](https://github.com/shipfastlabs/pun/issues/183) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
+5. 🎉 Merged PR [#182](https://github.com/shipfastlabs/pun/pull/182) in [shipfastlabs/pun](https://github.com/shipfastlabs/pun)
 <!--END_SECTION:activity-->
